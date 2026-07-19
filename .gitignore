@@ -60,12 +60,12 @@ writing-samples/*
 !writing-samples/README.md
 
 # User config and customization (never auto-updated)
-config/profile.yml
-config/cv-facts.json
-config/benchmarks.yml
-portals.yml
-modes/_profile.md
-modes/_custom.md
+#config/profile.yml
+#config/cv-facts.json
+#config/benchmarks.yml
+#portals.yml
+#modes/_profile.md
+#modes/_custom.md
 .update-dismissed
 .update-lock
 .manifesto-noted
