@@ -155,15 +155,12 @@ function buildEducation(entries) {
 
 function buildCertifications(entries) {
   if (!Array.isArray(entries) || entries.length === 0) return '';
-  return entries.filter(Boolean).map(e => {
-    const org = e.org ? `<span class="cert-org">${escapeHtml(e.org)}</span>` : '<span class="cert-org"></span>';
-    const year = e.year ? `<span class="cert-year">${escapeHtml(e.year)}</span>` : '<span class="cert-year"></span>';
-    return `<div class="cert-item">
-      <span class="cert-title">${escapeHtml(e.title)}</span>
-      ${org}
-      ${year}
-    </div>`;
-  }).join('\n    ');
+  const items = entries.filter(Boolean).map(e => {
+    const org = e.org ? ` <span class="cert-org">— ${escapeHtml(e.org)}</span>` : '';
+    const year = e.year ? ` <span class="cert-year">(${escapeHtml(e.year)})</span>` : '';
+    return `<li class="recognition-item"><span class="cert-title">${escapeHtml(e.title)}</span>${org}${year}</li>`;
+  }).join('\n      ');
+  return `<ul class="recognition-list">\n      ${items}\n    </ul>`;
 }
 
 function buildSkills(categories) {

@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<!--
+  Resume variant of cv-template.html.
+  
+  Differences from cv-template.html:
+  - Title says "Resume" instead of "CV"
+  - No Certifications section (resumes focus on recent, relevant experience)
+  - Designed for 1-2 page US/industry job applications
+  
+  CV vs Resume:
+  - Resume: 1-2 pages, recent/relevant experience, impact metrics, for industry
+  - CV: 2+ pages, full career history, publications, certifications, for academia
+  
+  When updating cv-template.html, update this file too (keep sections in sync).
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Asu Singh — Resume</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Disable fi/fl/ffi ligatures. Headless Chromium substitutes these letter
+       pairs with the Unicode glyphs U+FB01/FB02/FB03 at PDF layout time, and PDF
+       text extractors (what ATS systems read) decode them back to those
+       codepoints, so "verification" becomes "veriﬁcation" and a literal keyword
+       search misses it. Setting this on every element covers headings and
+       competency tags too. Required ligatures (rlig) stay on, so Arabic shaping
+       is unaffected. */
+    font-variant-ligatures: none;
+    font-feature-settings: "liga" 0, "clig" 0, "dlig" 0;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+    /* Disable ligatures here as well; see the * rule above. */
+    font-variant-ligatures: none;
+    font-feature-settings: "liga" 0, "clig" 0, "dlig" 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 2px 0;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 20px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+    line-height: 1.1;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 10px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10.5px;
+    line-height: 1.4;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  .contact-row .separator {
+    color: #ccc;
+  }
+
+  /* === OPTIONAL PROFILE PHOTO (opt-in, DACH/European markets — #264) ===
+     Off by default: with no candidate.photo the  slot is empty, no
+     <img> is emitted, and the layout is byte-identical to a photoless CV.
+     When opted in (candidate.photo in config/profile.yml) the photo floats into
+     the top corner and the header/summary text wraps beside it. Photos are
+     penalized by US/UK/many-market ATS, so this is never on by default. */
+  .cv-photo {
+    float: right;
+    width: 80px;
+    height: 100px;
+    object-fit: cover;
+    margin: 0 0 8px 14px;
+    border-radius: 3px;
+    border: 1px solid #e2e2e2;
+  }
+
+  /* === SECTIONS === */
+  .section {
+    margin-bottom: 18px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1.5px solid #e2e2e2;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+
+  /* === PROFESSIONAL SUMMARY === */
+  .summary-text {
+    font-size: 11px;
+    line-height: 1.7;
+    color: #2f2f2f;
+  }
+
+  /* Links must never break across lines */
+  a {
+    white-space: nowrap;
+  }
+
+  /* === CORE COMPETENCIES === */
+  .competencies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 4px 10px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  /* === WORK EXPERIENCE === */
+  .job {
+    margin-bottom: 14px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 4px;
+  }
+
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .job-period {
+    font-size: 10.5px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .job-role {
+    font-size: 11px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 6px;
+  }
+
+  .job-location {
+    font-size: 10px;
+    color: #888;
+  }
+
+  .job ul {
+    padding-left: 18px;
+    margin-top: 6px;
+  }
+
+  .job li {
+    font-size: 10.5px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 4px;
+  }
+
+  .job li strong {
+    font-weight: 600;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 12px;
+  }
+
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .project-badge {
+    font-size: 9px;
+    font-weight: 500;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+
+  .project-desc {
+    font-size: 10.5px;
+    color: #444;
+    margin-top: 3px;
+    line-height: 1.55;
+  }
+
+  .project-tech {
+    font-size: 9.5px;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  /* === EDUCATION === */
+  .edu-item {
+    margin-bottom: 8px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .edu-title {
+    font-weight: 600;
+    font-size: 11px;
+    color: #333;
+  }
+
+  .edu-org {
+    color: hsl(270, 70%, 45%);
+    font-weight: 500;
+  }
+
+  .edu-year {
+    font-size: 10px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .edu-desc {
+    font-size: 10px;
+    color: #666;
+    margin-top: 2px;
+    line-height: 1.5;
+  }
+
+  /* === SKILLS === */
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+  }
+
+  .skill-item {
+    font-size: 10.5px;
+    color: #444;
+  }
+
+  .skill-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 10.5px;
+  }
+
+  .recognition-list {
+    margin: 0;
+    padding-left: 18px;
+  }
+
+  .recognition-item {
+    margin: 0 0 2px;
+    font-size: 10px;
+    line-height: 1.3;
+    color: #444;
+  }
+
+  .recognition-item .cert-title {
+    font-weight: 600;
+    color: #333;
+  }
+
+  .recognition-item .cert-org,
+  .recognition-item .cert-year {
+    color: #666;
+  }
+
+  /* Compact one-page resume variant */
+  body { font-size: 10.5px; line-height: 1.32; }
+  .page { padding: 0; }
+  .header { margin-bottom: 12px; }
+  .header h1 { font-size: 28px; margin-bottom: 4px; }
+  .header-gradient { margin-bottom: 7px; }
+  .contact-row { font-size: 10px; line-height: 1.25; gap: 5px 10px; }
+  .section { margin-bottom: 10px; }
+  .section-title { font-size: 11px; padding-bottom: 2px; margin-bottom: 5px; }
+  .summary-text { font-size: 10.5px; line-height: 1.35; }
+  .competencies-grid { gap: 5px; }
+  .competency-tag { font-size: 9.2px; padding: 2px 7px; }
+  .job { margin-bottom: 7px; }
+  .job-header { margin-bottom: 3px; }
+  .job-company { font-size: 11.7px; }
+  .job-period { font-size: 9.7px; }
+  .job-role { font-size: 10.2px; margin-bottom: 2px; }
+  .job-location { font-size: 9.2px; }
+  .job ul { margin-top: 2px; padding-left: 16px; }
+  .job li { font-size: 9.8px; line-height: 1.3; margin-bottom: 1px; }
+  .project { margin-bottom: 6px; }
+  .project-title { font-size: 10.7px; }
+  .project-desc { font-size: 9.8px; line-height: 1.3; margin-top: 1px; }
+  .project-tech { font-size: 8.7px; margin-top: 1px; }
+  .edu-item { margin-bottom: 4px; }
+  .edu-title { font-size: 10.2px; }
+  .edu-year, .edu-desc { font-size: 9.2px; }
+  .skills-grid { display: block; }
+  .skill-item { display: block; margin-bottom: 2px; }
+  .skill-item, .skill-category { font-size: 9.5px; }
+
+  /* === PRINT === */
+  @media print {
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .page {
+      padding: 0;
+    }
+  }
+
+  /* === PAGE BREAK CONTROL === */
+  .avoid-break,
+  .job,
+  .project,
+  .edu-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* === RTL (Arabic) Support === */
+  html[lang="ar"] body {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+  }
+
+  html[lang="ar"] .header h1,
+  html[lang="ar"] .section-title,
+  html[lang="ar"] .job-company,
+  html[lang="ar"] .project-title,
+  html[lang="ar"] .competency-tag,
+  html[lang="ar"] .skill-category {
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+  }
+
+  html[lang="ar"] .header-gradient {
+    background: linear-gradient(to left, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+  }
+
+  html[lang="ar"] .job ul {
+    padding-right: 18px;
+    padding-left: 0;
+  }
+
+  html[lang="ar"] .project-badge {
+    margin-right: 6px;
+    margin-left: 0;
+  }
+
+  html[lang="ar"] .cert-year {
+    text-align: left;
+  }
+
+  html[lang="ar"] .cert-table {
+    direction: rtl;
+  }
+
+  html[lang="ar"] .cv-photo {
+    float: left;
+    margin: 0 14px 8px 0;
+  }
+
+  /* === CJK (Japanese) font fallback === */
+  /* The bundled webfonts are Latin-only (see #951). Without a CJK fallback,
+     Japanese text renders as tofu (□) in headless Chromium on any system
+     without a CJK system font (Linux/CI, minimal containers). The Latin brand
+     fonts are kept first so ASCII still uses Space Grotesk / DM Sans, then the
+     browser's per-glyph fallback picks the first installed CJK face for kana
+     and kanji. Mirrors the lang="ar" precedent above. */
+  html[lang="ja"] body {
+    font-family: 'DM Sans', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN',
+      'Yu Gothic', 'YuGothic', 'Noto Sans CJK JP', 'Noto Sans JP',
+      Meiryo, 'MS PGothic', sans-serif;
+  }
+
+  html[lang="ja"] .header h1,
+  html[lang="ja"] .section-title,
+  html[lang="ja"] .job-company,
+  html[lang="ja"] .project-title,
+  html[lang="ja"] .competency-tag,
+  html[lang="ja"] .skill-category {
+    font-family: 'Space Grotesk', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN',
+      'Yu Gothic', 'YuGothic', 'Noto Sans CJK JP', 'Noto Sans JP',
+      Meiryo, 'MS PGothic', sans-serif;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Asu Singh</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <a href="tel:+91-9910521365">+91-9910521365</a>
+      <span class="separator">|</span>
+      <a href="mailto:itsasusingh@gmail.com">itsasusingh@gmail.com</a>
+      <span class="separator">|</span>
+      <a href="https://www.linkedin.com/in/asusingh">linkedin.com/in/asusingh</a>
+      <span class="separator">|</span>
+      <span>Delhi, India</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section avoid-break">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Software Development Engineer with 5+ years building production financial-services software, approaching six years, and hands-on experience using and building agentic AI systems for personal projects. Strong foundation in Java, Python, event-driven systems, performance engineering, database reliability, observability, and machine learning. Published peer-reviewed research in Cognitive Computation on a Hybrid Social Group Optimization method for COVID-19 chest X-ray detection, achieving over 99% accuracy. Interested in applying production engineering, empirical evaluation, and practical AI-system building to reliable, beneficial AI deployments.</div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-grid">
+    <div class="skill-item"><span class="skill-category">Java &amp; Backend APIs:</span> Java 8+, Spring Boot, Microservices, REST APIs, Hibernate</div>
+    <div class="skill-item"><span class="skill-category">Systems &amp; Reliability:</span> Multithreading, Performance Tuning, Event-Driven Systems, MQ-like Messaging, Production Debugging, Log Analysis</div>
+    <div class="skill-item"><span class="skill-category">Data &amp; Observability:</span> Oracle, PostgreSQL, Relational Databases, AWS, Grafana, Prometheus, Plotly</div>
+    <div class="skill-item"><span class="skill-category">Engineering Practices:</span> Test-Driven Development, JUnit, Mockito, Agile, Unix</div>
+    <div class="skill-item"><span class="skill-category">Web:</span> Django, HTML5, CSS, JavaScript</div>
+    <div class="skill-item"><span class="skill-category">AI &amp; ML:</span> Agentic AI, Machine Learning, Computer Vision, Empirical Evaluation</div>
+  </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+    <div class="job">
+    <div class="job-header">
+      <span class="job-company">ION Trading</span>
+      <span class="job-period">Aug 2020 – Present</span>
+    </div>
+    <div class="job-role">Senior Software Development Engineer</div>
+    <div class="job-location">Noida, India</div>
+    <ul>
+        <li>Designed and developed XTP, ION&#39;s real-time back-office trading product, used in production by major trading firms and banks.</li>
+        <li>Led a Java multithreading refactor that increased trade-processing performance by 20x during end-of-day processing.</li>
+        <li>Developed Alazium, a log-analysis initiative that parses logs exceeding 100 GB and visualises workflows with Plotly, reducing production issue-analysis time by 30%.</li>
+        <li>Designed a recovery feature for halted end-of-day processing, enabling automatic recovery from fail-fast scenarios and reducing downtime by 90%.</li>
+        <li>Worked with XTP&#39;s in-house MQ-like, Kafka-like event-driven notification system, understanding its internal workings and operational failure points.</li>
+        <li>Redesigned historical-data cleanup using a tailored linear-regression approach, improving database performance and reducing processing time by 95% under load.</li>
+        <li>Led migration of XTP CI systems from Red Hat 7 to Red Hat 8, supporting reliable engineering delivery.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-header">
+      <span class="job-company">Holisol Logistics</span>
+      <span class="job-period">Jun 2019 – Sep 2019</span>
+    </div>
+    <div class="job-role">Software Development Intern</div>
+    <div class="job-location">Delhi, India</div>
+    <ul>
+        <li>Developed a Daily Run Sheet Generator with a Django frontend to optimise deliveries and presented the application to the company founder for deployment approval.</li>
+    </ul>
+  </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Selected Projects &amp; Publication</div>
+    <div class="project">
+    <div class="project-title">Agentic Personal Assistant<span class="project-badge">Applied AI</span></div>
+    <div class="project-desc">Built a personal assistant using free NVIDIA models and a coding harness. It maintains ideas and notes through natural-language chat, helps plan tasks and days, and is accessible from a phone through messenger apps 24/7.</div>
+    <div class="project-tech">Free NVIDIA Models, Coding Harness, Messenger Apps</div>
+  </div>
+  <div class="project">
+    <div class="project-title">Wardrobe AI<span class="project-badge">Personal Project</span></div>
+    <div class="project-desc">Built a personal wardrobe assistant that lets users scan existing photos to automatically create a digital wardrobe, try on clothes virtually, and make better-informed purchasing decisions.</div>
+    <div class="project-tech">AI, Computer Vision, Virtual Try-On</div>
+  </div>
+  <div class="project">
+    <div class="project-title">Hybrid Social Group Optimization for COVID-19 Detection<span class="project-badge">Publication</span></div>
+    <div class="project-desc">Developed a meta-heuristic method for COVID-19 detection from chest X-ray images, achieving over 99% accuracy. Published in the peer-reviewed Cognitive Computation journal.</div>
+    <div class="project-tech">Machine Learning, Computer Vision</div>
+  </div>
+  <div class="project">
+    <div class="project-title">Lung Disease Prediction<span class="project-badge">Machine Learning</span></div>
+    <div class="project-desc">Developed an automated application to detect and predict the onset of lung diseases from X-ray images, achieving over 99% accuracy.</div>
+    <div class="project-tech">Machine Learning, Medical Imaging</div>
+  </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+    <div class="edu-header">
+      <div class="edu-title">Bachelor of Technology <span class="edu-org">Maharaja Agrasen Institute of Technology, Delhi</span></div>
+      <div class="edu-year">2016 – 2020</div>
+    </div>
+    <div class="edu-desc">CGPA: 8.3</div>
+  </div>
+  </div>
+
+  <!-- RECOGNITION -->
+  <div class="section avoid-break">
+    <div class="section-title">Recognition</div>
+    <ul class="recognition-list">
+      <li class="recognition-item"><span class="cert-title">Winner, IONathon XTP 1.0</span> <span class="cert-org">— ION Trading hackathon for breakthrough ideas</span></li>
+      <li class="recognition-item"><span class="cert-title">Top 0.1% Performer</span> <span class="cert-org">— ION Trading</span></li>
+      <li class="recognition-item"><span class="cert-title">Inspire Program Fellow</span> <span class="cert-org">— Academic achievement recognition</span></li>
+      <li class="recognition-item"><span class="cert-title">Top 10, Inaugural HackBMU Hackathon</span> <span class="cert-org">— Illegal Mining Detector</span></li>
+      <li class="recognition-item"><span class="cert-title">99.9 Percentile, JEE Advanced</span> <span class="cert-org">— Academic achievement</span></li>
+    </ul>
+  </div>
+
+</div>
+</body>
+</html>

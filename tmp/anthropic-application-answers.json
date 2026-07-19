@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-19",
+  "freeText": [
+    {"question":"How do you pronounce your name?","answer":"Ah-su Singh"},
+    {"question":"Why do you want to work at Anthropic?","answer":"I want to work at Anthropic because the role combines rigorous software engineering with practical work that helps people use advanced AI responsibly. I have spent more than five years building and operating financial-services software, approaching six years, where reliability, failure handling, performance, and clear operational feedback matter every day. Alongside this production engineering work, I developed a Hybrid Social Group Optimization method for COVID-19 detection from chest X-ray images, achieving over 99% accuracy, and published the work in the peer-reviewed Cognitive Computation journal. That experience gave me a strong appreciation for empirical evaluation, careful problem decomposition, and communicating technical work clearly.\n\nAt ION Group, I also worked on event-driven systems, improved a Java component's performance through multithreading, reduced production issue-analysis time through log analysis, and built recovery improvements for halted processing. In my personal work, I built an agentic personal assistant using free NVIDIA models and a coding harness. It maintains ideas and notes through natural-language chat, helps plan tasks and days, and is accessible from a phone through messenger apps 24/7. The Beneficial Deployments team is compelling because it treats applied AI as an engineering and enablement problem: understanding real constraints, evaluating systems, helping teams ship, and creating reusable tooling. I would bring a production-minded backend perspective, research experience, strong debugging instincts, and practical agentic-AI experience while continuing to deepen my work in evaluation, context engineering, and production deployment."},
+    {"question":"Additional Information","answer":"My background is in production financial-services engineering, with strengths in Java, distributed/event-driven systems, performance optimization, database reliability, observability, machine-learning projects, and hands-on agentic AI work. My personal assistant project uses free NVIDIA models and a coding harness to maintain notes and ideas and plan tasks through messenger apps. I would be glad to discuss how these foundations translate to evaluation, agent architecture, and partner enablement work."}
+  ],
+  "fieldValues": [
+    {"question":"Do you require visa sponsorship?","answer":"Yes"},
+    {"question":"Will you now or will you in the future require employment visa sponsorship to work in the country in which the job you're applying for is located?","answer":"Yes"},
+    {"question":"Have you built and shipped software to production for real end users?","answer":"Yes"},
+    {"question":"Are you open to working in-person in one of our offices 25% of the time?","answer":"Yes"},
+    {"question":"Have you held a role where working directly with customers, partners, or users was a core part of the job - understanding their problems and guiding them to solutions?","answer":"Yes"},
+    {"question":"This role focuses on helping mission-driven organisations that are often earlier in their AI adoption journey. Much of the work involves teaching, mentoring, and hands-on enablement rather than frontier model development or the most technically complex problems. Is this the kind of role you are looking for?","answer":"Yes"},
+    {"question":"When is the earliest you would want to start working with us?","answer":"Two months from now"},
+    {"question":"Do you have any deadlines or timeline considerations we should be aware of?","answer":"No"},
+    {"question":"AI Policy for Application","answer":"Review and confirm before submission"},
+    {"question":"Do you have a Bachelor's degree or equivalent?","answer":"Yes — Bachelor of Technology, Maharaja Agrasen Institute of Technology, Delhi."}
+  ],
+  "files": [{"path":"/Users/asu/career-ops/cv.md","label":"CV source"}]
+}

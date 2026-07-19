@@ -1,0 +1,28 @@
+{
+  "lang":"en",
+  "page_format":"a4",
+  "candidate":{"name":"Asu Singh","phone":"+91-9910521365","email":"itsasusingh@gmail.com","linkedin":{"url":"https://www.linkedin.com/in/asusingh","display":"linkedin.com/in/asusingh"},"location":"Delhi, India","photo":""},
+  "sections":{"summary":"Professional Summary","competencies":"Core Competencies","experience":"Work Experience","projects":"Selected Projects & Publication","education":"Education","certifications":"Recognition","skills":"Technical Skills"},
+  "summary":"Software Development Engineer with 5+ years building production financial-services software, approaching six years, and hands-on experience using and building agentic AI systems for personal projects. Strong foundation in Java, Python, event-driven systems, performance engineering, database reliability, observability, and machine learning. Published peer-reviewed research in Cognitive Computation on a Hybrid Social Group Optimization method for COVID-19 chest X-ray detection, achieving over 99% accuracy. Interested in applying production engineering, empirical evaluation, and practical AI-system building to reliable, beneficial AI deployments.",
+  "competencies":[],
+  "experience":[
+    {"company":"ION Trading","role":"Senior Software Development Engineer","location":"Noida, India","dates":"Aug 2020 – Present","bullets":["Designed and developed XTP, ION's real-time back-office trading product, used in production by major trading firms and banks.","Led a Java multithreading refactor that increased trade-processing performance by 20x during end-of-day processing.","Developed Alazium, a log-analysis initiative that parses logs exceeding 100 GB and visualises workflows with Plotly, reducing production issue-analysis time by 30%.","Designed a recovery feature for halted end-of-day processing, enabling automatic recovery from fail-fast scenarios and reducing downtime by 90%.","Worked with XTP's in-house MQ-like, Kafka-like event-driven notification system, understanding its internal workings and operational failure points.","Redesigned historical-data cleanup using a tailored linear-regression approach, improving database performance and reducing processing time by 95% under load.","Led migration of XTP CI systems from Red Hat 7 to Red Hat 8, supporting reliable engineering delivery."]},
+    {"company":"Holisol Logistics","role":"Software Development Intern","location":"Delhi, India","dates":"Jun 2019 – Sep 2019","bullets":["Developed a Daily Run Sheet Generator with a Django frontend to optimise deliveries and presented the application to the company founder for deployment approval."]}
+  ],
+  "projects":[
+    {"name":"Agentic Personal Assistant","badge":"Applied AI","tech":"Free NVIDIA Models, Coding Harness, Messenger Apps","description":"Built a personal assistant using free NVIDIA models and a coding harness. It maintains ideas and notes through natural-language chat, helps plan tasks and days, and is accessible from a phone through messenger apps 24/7."},
+    {"name":"Wardrobe AI","badge":"Personal Project","tech":"AI, Computer Vision, Virtual Try-On","description":"Built a personal wardrobe assistant that lets users scan existing photos to automatically create a digital wardrobe, try on clothes virtually, and make better-informed purchasing decisions."},
+    {"name":"Hybrid Social Group Optimization for COVID-19 Detection","badge":"Publication","tech":"Machine Learning, Computer Vision","description":"Developed a meta-heuristic method for COVID-19 detection from chest X-ray images, achieving over 99% accuracy. Published in the peer-reviewed Cognitive Computation journal."},
+    {"name":"Lung Disease Prediction","badge":"Machine Learning","tech":"Machine Learning, Medical Imaging","description":"Developed an automated application to detect and predict the onset of lung diseases from X-ray images, achieving over 99% accuracy."}
+  ],
+  "education":[{"title":"Bachelor of Technology","org":"Maharaja Agrasen Institute of Technology, Delhi","year":"2016 – 2020","description":"CGPA: 8.3"}],
+  "certifications":[{"title":"Winner, IONathon XTP 1.0","org":"ION Trading hackathon for breakthrough ideas","year":""},{"title":"Top 0.1% Performer","org":"ION Trading","year":""},{"title":"Inspire Program Fellow","org":"Academic achievement recognition","year":""},{"title":"Top 10, Inaugural HackBMU Hackathon","org":"Illegal Mining Detector","year":""},{"title":"99.9 Percentile, JEE Advanced","org":"Academic achievement","year":""}],
+  "skills":[
+    {"category":"Java & Backend APIs","items":"Java 8+, Spring Boot, Microservices, REST APIs, Hibernate"},
+    {"category":"Systems & Reliability","items":"Multithreading, Performance Tuning, Event-Driven Systems, MQ-like Messaging, Production Debugging, Log Analysis"},
+    {"category":"Data & Observability","items":"Oracle, PostgreSQL, Relational Databases, AWS, Grafana, Prometheus, Plotly"},
+    {"category":"Engineering Practices","items":"Test-Driven Development, JUnit, Mockito, Agile, Unix"},
+    {"category":"Web","items":"Django, HTML5, CSS, JavaScript"},
+    {"category":"AI & ML","items":"Agentic AI, Machine Learning, Computer Vision, Empirical Evaluation"}
+  ]
+}
