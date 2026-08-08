@@ -1,18 +1,4 @@
 <!DOCTYPE html>
-<!--
-  Resume variant of cv-template.html.
-  
-  Differences from cv-template.html:
-  - Title says "Resume" instead of "CV"
-  - No Certifications section (resumes focus on recent, relevant experience)
-  - Designed for 1-2 page US/industry job applications
-  
-  CV vs Resume:
-  - Resume: 1-2 pages, recent/relevant experience, impact metrics, for industry
-  - CV: 2+ pages, full career history, publications, certifications, for academia
-  
-  When updating cv-template.html, update this file too (keep sections in sync).
--->
 <html lang="{{LANG}}">
 <head>
 <meta charset="UTF-8">
@@ -59,13 +45,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* Disable fi/fl/ffi ligatures. Headless Chromium substitutes these letter
-       pairs with the Unicode glyphs U+FB01/FB02/FB03 at PDF layout time, and PDF
-       text extractors (what ATS systems read) decode them back to those
-       codepoints, so "verification" becomes "veriﬁcation" and a literal keyword
-       search misses it. Setting this on every element covers headings and
-       competency tags too. Required ligatures (rlig) stay on, so Arabic shaping
-       is unaffected. */
     font-variant-ligatures: none;
     font-feature-settings: "liga" 0, "clig" 0, "dlig" 0;
   }
@@ -76,14 +55,13 @@
   }
 
   body {
-    font-family: Arial, sans-serif;
+    font-family: 'DM Sans', Arial, sans-serif;
     font-size: 10px;
-    line-height: 1.3;
+    line-height: 1.22;
     color: #1a1a2e;
     background: #ffffff;
     padding: 0;
     margin: 0;
-    /* Disable ligatures here as well; see the * rule above. */
     font-variant-ligatures: none;
     font-feature-settings: "liga" 0, "clig" 0, "dlig" 0;
   }
@@ -92,21 +70,20 @@
     width: 100%;
     max-width: {{PAGE_WIDTH}};
     margin: 0 auto;
-    padding: 2px 0;
+    padding: 0;
   }
 
-  /* === HEADER === */
   .header {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
   }
 
   .header h1 {
-    font-family: Arial, sans-serif;
-    font-size: 24px;
+    font-family: 'Space Grotesk', Arial, sans-serif;
+    font-size: 26px;
     font-weight: 700;
     color: #1a1a2e;
     letter-spacing: -0.02em;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
     line-height: 1.1;
   }
 
@@ -120,10 +97,10 @@
   .contact-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px 10px;
-    font-family: Arial, sans-serif;
-    font-size: 9.5px;
-    line-height: 1.3;
+    gap: 4px 8px;
+    font-family: 'DM Sans', Arial, sans-serif;
+    font-size: 9px;
+    line-height: 1.2;
     color: #555;
   }
 
@@ -136,162 +113,122 @@
     color: #ccc;
   }
 
-  /* === OPTIONAL PROFILE PHOTO (opt-in, DACH/European markets — #264) ===
-     Off by default: with no candidate.photo the {{PHOTO}} slot is empty, no
-     <img> is emitted, and the layout is byte-identical to a photoless CV.
-     When opted in (candidate.photo in config/profile.yml) the photo floats into
-     the top corner and the header/summary text wraps beside it. Photos are
-     penalized by US/UK/many-market ATS, so this is never on by default. */
-  .cv-photo {
-    float: right;
-    width: 80px;
-    height: 100px;
-    object-fit: cover;
-    margin: 0 0 8px 14px;
-    border-radius: 3px;
-    border: 1px solid #e2e2e2;
-  }
-
-  /* === SECTIONS === */
   .section {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 
   .section-title {
-    font-family: Arial, sans-serif;
-    font-size: 10.5px;
+    font-family: 'Space Grotesk', Arial, sans-serif;
+    font-size: 10px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.06em;
     color: hsl(187, 74%, 32%);
-    border-bottom: 1.5px solid #e2e2e2;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 2px;
-    margin-bottom: 5px;
+    margin-bottom: 4px;
     line-height: 1.2;
   }
 
-  /* === PROFESSIONAL SUMMARY === */
   .summary-text {
-    font-size: 10.5px;
-    line-height: 1.45;
+    font-size: 9.5px;
+    line-height: 1.3;
     color: #2f2f2f;
   }
 
-  /* Links must never break across lines */
   a {
     white-space: nowrap;
   }
 
-  /* === CORE COMPETENCIES === */
-  .competencies-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-
-  .competency-tag {
-    font-family: Arial, sans-serif;
-    font-size: 10px;
-    font-weight: 500;
-    color: hsl(187, 74%, 28%);
-    background: hsl(187, 40%, 95%);
-    padding: 4px 10px;
-    border-radius: 3px;
-    border: 1px solid hsl(187, 40%, 88%);
-  }
-
-  /* === WORK EXPERIENCE === */
   .job {
-    margin-bottom: 9px;
+    margin-bottom: 6px;
   }
 
   .job-header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    gap: 10px;
+    gap: 8px;
     margin-bottom: 1px;
   }
 
   .job-company {
-    font-family: Arial, sans-serif;
-    font-size: 11px;
+    font-family: 'Space Grotesk', Arial, sans-serif;
+    font-size: 10.5px;
     font-weight: 600;
     color: hsl(270, 70%, 45%);
   }
 
   .job-period {
-    font-size: 9px;
+    font-size: 8.5px;
     color: #777;
     white-space: nowrap;
   }
 
   .job-role {
-    font-size: 10px;
+    font-size: 9px;
     font-weight: 600;
     color: #333;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
   }
 
   .job-location {
-    font-size: 9px;
+    font-size: 8.5px;
     color: #888;
   }
 
   .job ul {
-    padding-left: 18px;
-    margin-top: 3px;
+    padding-left: 14px;
+    margin-top: 2px;
   }
 
   .job li {
-    font-size: 10px;
-    line-height: 1.4;
+    font-size: 9px;
+    line-height: 1.25;
     color: #333;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
   }
 
   .job li strong {
     font-weight: 600;
   }
 
-  /* === PROJECTS === */
   .project {
-    margin-bottom: 8px;
+    margin-bottom: 5px;
   }
 
   .project-title {
-    font-family: Arial, sans-serif;
-    font-size: 10px;
+    font-family: 'Space Grotesk', Arial, sans-serif;
+    font-size: 9.5px;
     font-weight: 600;
     color: hsl(270, 70%, 45%);
   }
 
   .project-badge {
-    font-size: 8px;
+    font-size: 7.5px;
     font-weight: 500;
     color: hsl(187, 74%, 32%);
     background: hsl(187, 40%, 95%);
     padding: 1px 5px;
     border-radius: 2px;
-    margin-left: 5px;
+    margin-left: 4px;
   }
 
   .project-desc {
-    font-size: 10px;
+    font-size: 9px;
     color: #444;
     margin-top: 1px;
-    line-height: 1.3;
+    line-height: 1.2;
   }
 
   .project-tech {
-    font-size: 8.5px;
+    font-size: 8px;
     color: #888;
     margin-top: 1px;
   }
 
-  /* === EDUCATION === */
   .edu-item {
-    margin-bottom: 8px;
+    margin-bottom: 3px;
   }
 
   .edu-header {
@@ -300,7 +237,7 @@
 
   .edu-title {
     font-weight: 600;
-    font-size: 11px;
+    font-size: 9.5px;
     color: #333;
   }
 
@@ -312,46 +249,40 @@
   }
 
   .edu-year {
-    font-size: 10px;
+    font-size: 9px;
     color: #777;
     white-space: nowrap;
     margin-top: 1px;
   }
 
   .edu-desc {
-    font-size: 10px;
+    font-size: 9px;
     color: #666;
-    margin-top: 2px;
-    line-height: 1.5;
+    margin-top: 1px;
+    line-height: 1.3;
   }
 
-  /* === SKILLS === */
   .skills-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px 14px;
+    display: block;
   }
 
   .skill-item {
-    font-size: 10.5px;
+    display: block;
+    margin-bottom: 1px;
+    font-size: 9px;
     color: #444;
   }
 
   .skill-category {
     font-weight: 600;
     color: #333;
-    font-size: 10.5px;
-  }
-
-  .recognition-list {
-    margin: 0;
-    padding-left: 18px;
+    font-size: 9px;
   }
 
   .recognition-item {
-    margin: 0 0 2px;
-    font-size: 10px;
-    line-height: 1.3;
+    margin: 0 0 1px;
+    font-size: 9px;
+    line-height: 1.25;
     color: #444;
   }
 
@@ -365,38 +296,6 @@
     color: #666;
   }
 
-  /* Compact one-page resume variant */
-  body { font-size: 10.5px; line-height: 1.32; }
-  .page { padding: 0; }
-  .header { margin-bottom: 12px; }
-  .header h1 { font-size: 28px; margin-bottom: 4px; }
-  .header-gradient { margin-bottom: 7px; }
-  .contact-row { font-size: 10px; line-height: 1.25; gap: 5px 10px; }
-  .section { margin-bottom: 10px; }
-  .section-title { font-size: 11px; padding-bottom: 2px; margin-bottom: 5px; }
-  .summary-text { font-size: 10.5px; line-height: 1.35; }
-  .competencies-grid { gap: 5px; }
-  .competency-tag { font-size: 9.2px; padding: 2px 7px; }
-  .job { margin-bottom: 7px; }
-  .job-header { margin-bottom: 3px; }
-  .job-company { font-size: 11.7px; }
-  .job-period { font-size: 9.7px; }
-  .job-role { font-size: 10.2px; margin-bottom: 2px; }
-  .job-location { font-size: 9.2px; }
-  .job ul { margin-top: 2px; padding-left: 16px; }
-  .job li { font-size: 9.8px; line-height: 1.3; margin-bottom: 1px; }
-  .project { margin-bottom: 6px; }
-  .project-title { font-size: 10.7px; }
-  .project-desc { font-size: 9.8px; line-height: 1.3; margin-top: 1px; }
-  .project-tech { font-size: 8.7px; margin-top: 1px; }
-  .edu-item { margin-bottom: 4px; }
-  .edu-title { font-size: 10.2px; }
-  .edu-year, .edu-desc { font-size: 9.2px; }
-  .skills-grid { display: block; }
-  .skill-item { display: block; margin-bottom: 2px; }
-  .skill-item, .skill-category { font-size: 9.5px; }
-
-  /* === PRINT === */
   @media print {
     body {
       -webkit-print-color-adjust: exact;
@@ -408,16 +307,20 @@
     }
   }
 
-  /* === PAGE BREAK CONTROL === */
-  .avoid-break,
-  .job,
-  .project,
-  .edu-item {
+  .avoid-break {
     break-inside: avoid;
     page-break-inside: avoid;
   }
 
-  /* === RTL (Arabic) Support === */
+  .section-title,
+  .job-company,
+  .job-role,
+  .job-location,
+  .project-title {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
   html[lang="ar"] body {
     direction: rtl;
     text-align: right;
@@ -428,7 +331,6 @@
   html[lang="ar"] .section-title,
   html[lang="ar"] .job-company,
   html[lang="ar"] .project-title,
-  html[lang="ar"] .competency-tag,
   html[lang="ar"] .skill-category {
     font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
   }
@@ -447,26 +349,11 @@
     margin-left: 0;
   }
 
-  html[lang="ar"] .cert-year {
-    text-align: left;
-  }
-
-  html[lang="ar"] .cert-table {
-    direction: rtl;
-  }
-
   html[lang="ar"] .cv-photo {
     float: left;
     margin: 0 14px 8px 0;
   }
 
-  /* === CJK (Japanese) font fallback === */
-  /* The bundled webfonts are Latin-only (see #951). Without a CJK fallback,
-     Japanese text renders as tofu (□) in headless Chromium on any system
-     without a CJK system font (Linux/CI, minimal containers). The Latin brand
-     fonts are kept first so ASCII still uses Space Grotesk / DM Sans, then the
-     browser's per-glyph fallback picks the first installed CJK face for kana
-     and kanji. Mirrors the lang="ar" precedent above. */
   html[lang="ja"] body {
     font-family: 'DM Sans', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN',
       'Yu Gothic', 'YuGothic', 'Noto Sans CJK JP', 'Noto Sans JP',
@@ -477,7 +364,6 @@
   html[lang="ja"] .section-title,
   html[lang="ja"] .job-company,
   html[lang="ja"] .project-title,
-  html[lang="ja"] .competency-tag,
   html[lang="ja"] .skill-category {
     font-family: 'Space Grotesk', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN',
       'Yu Gothic', 'YuGothic', 'Noto Sans CJK JP', 'Noto Sans JP',
@@ -489,8 +375,7 @@
 <div class="page">
 
   {{PHOTO}}
-  <!-- HEADER -->
-  <div class="header avoid-break">
+  <div class="header">
     <h1>{{NAME}}</h1>
     <div class="header-gradient"></div>
     <div class="contact-row">
@@ -500,40 +385,33 @@
       <span class="separator">|</span>
       <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
       <span class="separator">|</span>
-      <a href="{{GITHUB_URL}}">{{GITHUB_DISPLAY}}</a>
-      <span class="separator">|</span>
       <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
       <span class="separator">|</span>
       <span>{{LOCATION}}</span>
     </div>
   </div>
 
-  <!-- PROFESSIONAL SUMMARY -->
-  <div class="section avoid-break">
+  <div class="section">
     <div class="section-title">{{SECTION_SUMMARY}}</div>
     <div class="summary-text">{{SUMMARY_TEXT}}</div>
   </div>
 
-  <!-- SKILLS -->
-  <div class="section avoid-break">
+  <div class="section">
     <div class="section-title">{{SECTION_SKILLS}}</div>
     {{SKILLS}}
   </div>
 
-  <!-- WORK EXPERIENCE -->
   <div class="section">
     <div class="section-title">{{SECTION_EXPERIENCE}}</div>
     {{EXPERIENCE}}
   </div>
 
-  <!-- PROJECTS -->
-  <div class="section avoid-break">
+  <div class="section">
     <div class="section-title">{{SECTION_PROJECTS}}</div>
     {{PROJECTS}}
   </div>
 
-  <!-- EDUCATION -->
-  <div class="section avoid-break">
+  <div class="section">
     <div class="section-title">{{SECTION_EDUCATION}}</div>
     {{EDUCATION}}
   </div>
