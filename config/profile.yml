@@ -11,8 +11,8 @@ candidate:
   wechat: ""
   location: "Delhi, India"
   linkedin: "linkedin.com/in/asusingh"
-  portfolio_url: ""
-  github: ""
+  portfolio_url: "https://enixes.vercel.app"
+  github: "https://github.com/Enixes/"
   twitter: ""
   # Optional profile photo for the PDF CV (opt-in, #264). Leave empty to omit it
   # entirely: US/UK and many-market ATS penalize photos, so the photoless layout
@@ -43,9 +43,9 @@ target_roles:
 
 narrative:
   # Your professional headline (1 line)
-  headline: "Senior Software Development Engineer specializing in Java, multithreading, and database optimization"
+  headline: "Senior Software Development Engineer specializing in Java, Python, production reliability, and client delivery"
   # Your exit story — what makes you unique
-  exit_story: "Financial-services software engineer targeting senior backend, Java, data, and AI engineering roles."
+  exit_story: "Software engineer with 6+ years delivering mission-critical production systems to enterprise financial clients, seeking Forward Deployed / Reliability Engineering roles where I can combine hands-on engineering, operational discipline, and client-facing delivery."
   # Your top 3-5 superpowers
   superpowers:
     - "Java multithreading and performance optimization"
@@ -77,6 +77,9 @@ compensation:
 location:
   country: "India"
   city: "Delhi"
+  address: "11th Avenue, Gaur City 2, Noida, Uttar Pradesh - 201306"
+  state: "Uttar Pradesh"
+  postal_code: "201306"
   timezone: "Asia/Kolkata"
   visa_status: "Indian national; requires visa sponsorship for UK/London roles"
   # For remote roles outside your country:
@@ -109,6 +112,7 @@ spend_tier: standard
 
 cv:
   output_format: "html" # "html" (default) or "latex"
+  template: resume
   # (Optional) Canva resume design ID for visual CV generation via /career-ops pdf.
   # Find it in your Canva design URL: https://www.canva.com/design/DAxxxxxxx/...
   # The ID starts with "D" and is 11 characters long.

@@ -290,7 +290,6 @@ title_filter:
     - "Junior"
     - "Intern"
     - ".NET"
-    - "Java "
     - "iOS"
     - "Android"
     - "PHP"
@@ -937,6 +936,18 @@ search_queries:
 #   Fin: [Intercom]
 
 tracked_companies:
+
+  - name: Rippling
+    careers_url: https://ats.rippling.com/rippling/jobs
+    enabled: true
+    notes: "Rippling ATS (api.rippling.com board API); Bangalore + London engineering roles match target."
+
+  - name: Agoda
+    careers_url: https://careersatagoda.com/vacancies/
+    scan_method: playwright
+    scan_query: 'site:careersatagoda.com/job'
+    enabled: true
+    notes: "Custom WordPress careers site (no public ATS API — scan.mjs ignores it; agent must scan via Playwright). Gurugram + Bangkok backend IC / data eng roles match target. Location filter: Gurugram, Bangkok."
 
   # -- Board-wide remote sources --
   # These feeds are filtered by title_filter and location_filter above.
@@ -1794,10 +1805,347 @@ tracked_companies:
     notes: "Istanbul. E-commerce marketplace (Doğuş Group)."
     enabled: false
 
-# ── Job Boards ────────────────────────────────────────────────────────
-# Multi-employer aggregators. Unlike tracked_companies (one entry = one employer),
-# job boards return offers from many companies in a single API call.
-# Same title/location filtering and dedup apply.
+  # ── Fintech — London & India (added 2026-08-08) ─────────────────────
+
+  - name: Monzo
+    careers_url: https://job-boards.greenhouse.io/monzo
+    api: https://boards-api.greenhouse.io/v1/boards/monzo/jobs
+    enabled: true
+
+  - name: GoCardless
+    careers_url: https://job-boards.greenhouse.io/gocardless
+    api: https://boards-api.greenhouse.io/v1/boards/gocardless/jobs
+    enabled: true
+
+  - name: Ebury
+    careers_url: https://job-boards.greenhouse.io/ebury
+    api: https://boards-api.greenhouse.io/v1/boards/ebury/jobs
+    enabled: true
+
+  - name: Zopa
+    careers_url: https://jobs.lever.co/zopa
+    enabled: true
+
+  - name: Lendable
+    careers_url: https://jobs.ashbyhq.com/lendable
+    enabled: true
+
+  - name: ComplyAdvantage
+    careers_url: https://job-boards.greenhouse.io/complyadvantage
+    api: https://boards-api.greenhouse.io/v1/boards/complyadvantage/jobs
+    enabled: true
+
+  - name: Quantexa
+    careers_url: https://jobs.ashbyhq.com/quantexa
+    enabled: true
+
+  - name: PhonePe
+    careers_url: https://job-boards.greenhouse.io/phonepe
+    api: https://boards-api.greenhouse.io/v1/boards/phonepe/jobs
+    enabled: true
+
+  - name: CRED
+    careers_url: https://jobs.lever.co/cred
+    enabled: true
+
+  - name: Groww
+    careers_url: https://job-boards.greenhouse.io/groww
+    api: https://boards-api.greenhouse.io/v1/boards/groww/jobs
+    enabled: true
+
+  - name: Paytm
+    careers_url: https://jobs.lever.co/paytm
+    enabled: true
+
+  - name: Sardine
+    careers_url: https://jobs.ashbyhq.com/sardine
+    enabled: true
+
+  # Manually resolved ATS boards (non-Greenhouse/Ashby/Lever auto-detect)
+
+  - name: Revolut
+    careers_url: https://www.revolut.com/careers/
+    scan_method: websearch
+    scan_query: 'site:revolut.com/careers "Engineer" OR "Backend" OR "Data" OR "ML"'
+    notes: "London HQ + remote India roles (FinCrime SME KYB, Operations). Custom careers SPA, no public ATS API."
+    enabled: true
+
+  - name: Wise
+    careers_url: https://jobs.smartrecruiters.com/Wise
+    notes: "London. Cross-border payments. SmartRecruiters board (412 open postings)."
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://jobs.ashbyhq.com/checkout.com
+    notes: "London. Payments infrastructure. Ashby board (slug 'checkout.com')."
+    enabled: true
+
+  - name: Napier AI
+    careers_url: https://napier.pinpointhq.com/
+    notes: "London. AML/regtech. Pinpoint board."
+    enabled: true
+
+  - name: LMAX Group
+    careers_url: https://apply.workable.com/lmax/
+    notes: "London. Exchange/clearing. Workable board."
+    enabled: true
+
+  - name: StoneX Group
+    careers_url: https://english-stonex.icims.com/
+    notes: "London/NY/Sydney. Brokerage & payments. iCIMS board (194 open positions)."
+    enabled: true
+
+  - name: CMC Markets
+    careers_url: https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers
+    scan_method: websearch
+    scan_query: 'site:cmcmarkets.wd3.myworkdayjobs.com "Engineer" OR "Data" OR "Backend" OR "ML"'
+    notes: "London. CFD/trading. Workday board (64 jobs, incl. ML Ops Engineer London); CXS API is Cloudflare-blocked so scan via websearch."
+    enabled: true
+
+  - name: Razorpay
+    careers_url: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited
+    api: https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs
+    notes: "Bangalore. Payments. Greenhouse board (23 open roles)."
+    enabled: true
+
+  - name: Zerodha
+    careers_url: https://zerodha.com/careers
+    scan_method: websearch
+    scan_query: 'site:zerodha.com careers OR site:zerodha.tech "Engineer" OR "Backend" OR "Python"'
+    notes: "Bangalore. Broking/wealthtech. JS SPA careers page, no ATS API."
+    enabled: true
+
+  # ── FAANG & Big Tech (added 2026-08-10) ─────────────────────────────
+  # Amazon uses the built-in amazon.jobs provider (dedicated public JSON API)
+  # narrowed by country facet + keyword. Apple/Netflix/Google/Microsoft/LinkedIn
+  # run custom ATSes with no supported provider, so we wrote zero-token parser
+  # scripts (scripts/parsers/*-jobs.mjs) that scrape their public pages/APIs and
+  # emit jobs-json-v1 via the local-parser provider. Meta's GraphQL API requires
+  # session tokens, so it stays on websearch. Results all pass through
+  # title_filter + location_filter.
+
+  - name: Amazon / AWS
+    provider: amazon
+    amazon:
+      normalized_country_code: [IND, GBR]   # India + UK openings only
+      base_query: "software engineer"
+      category: ["software-development"]
+    enabled: true
+    notes: "Global amazon.jobs board (public JSON API) narrowed to India+UK software-development roles; location_filter still applies."
+
+  - name: Meta (Facebook)
+    careers_url: https://www.metacareers.com
+    scan_method: websearch
+    scan_query: 'site:metacareers.com/jobs "Software Engineer" OR "Backend Engineer" OR "AI Engineer" (India OR Bengaluru OR Hyderabad OR London OR UK)'
+    notes: "Meta careers board (GraphQL API requires session tokens — no public zero-token access). Filtered by title_filter/location_filter."
+    enabled: true
+
+  - name: Apple
+    careers_url: https://jobs.apple.com
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/apple-jobs.mjs
+      args: ["software engineer", "IND"]
+      format: jobs-json-v1
+    enabled: true
+    notes: "Apple careers (public search API). Postings are multi-country; IND filter returns a superset, location_filter still applies."
+
+  - name: Netflix
+    careers_url: https://explore.jobs.netflix.net/careers
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/netflix-jobs.mjs
+      args: ["software engineer", "India"]
+      format: jobs-json-v1
+    enabled: true
+    notes: "Netflix careers (Eightfold SSR, entity-encoded smartApplyData config). jobs.netflix.com/api is dead."
+
+  - name: Google
+    careers_url: https://careers.google.com/jobs
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/google-jobs.mjs
+      args: ["software engineer", "India"]
+      format: jobs-json-v1
+    enabled: true
+    notes: "Google Careers (SSR page embeds AF_initDataCallback blob). Result locations are raw city/country labels."
+
+  - name: Microsoft
+    careers_url: https://apply.careers.microsoft.com
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/microsoft-jobs.mjs
+      args: ["software engineer", "India"]
+      format: jobs-json-v1
+    enabled: true
+    notes: "Microsoft Careers (public PCS search API, 10 results/page). API is rate-sensitive; parser backs off between pages."
+
+  - name: LinkedIn
+    careers_url: https://careers.linkedin.com
+    scan_method: websearch
+    scan_query: 'site:linkedin.com/jobs/view "Software Engineer" OR "Backend Engineer" OR "AI Engineer" (India OR Bengaluru OR Hyderabad OR London OR UK)'
+    notes: "LinkedIn guest search API rate-limits hard (429) — no reliable zero-token scan; websearch fallback instead. Parser: scripts/parsers/linkedin-jobs.mjs."
+    enabled: true
+
+  # ── Indian Quick-Commerce (added 2026-08-11) ────────────────────────
+  # Swiggy runs SmartRecruiters and Meesho runs Lever — both auto-detect to the
+  # existing providers. Blinkit/Zomato/Eternal, Zepto (TalentRecruit encrypted
+  # API), BigBasket (Darwinbox behind Cloudflare) and Flipkart (TurboHire SPA)
+  # have no zero-token public access, so they scan via websearch.
+
+  - name: Swiggy
+    careers_url: https://careers.smartrecruiters.com/Swiggy
+    provider: smartrecruiters
+    enabled: true
+    notes: "Quick-commerce. SmartRecruiters board (auto-detected provider); public API ~27 live roles."
+
+  - name: Meesho
+    careers_url: https://jobs.lever.co/meesho
+    provider: lever
+    enabled: true
+    notes: "Quick-commerce (Bangalore). Lever board (auto-detected provider); public API ~50 live roles."
+
+  - name: Blinkit (Zomato)
+    careers_url: https://blinkit.com/careers/jobs
+    scan_method: websearch
+    scan_query: 'site:blinkit.com/careers OR site:jobs.smartrecruiters.com/Blinkit "Engineer" OR "Manager" (Delhi OR Gurgaon OR Bengaluru OR Hyderabad OR Mumbai)'
+    notes: "Quick-commerce (Zomato-owned). Careers page is an empty Drupal board ('0 job positions'); no ATS API. websearch fallback."
+    enabled: true
+
+  - name: Zepto
+    careers_url: https://zepto.talentrecruit.com/career-page
+    scan_method: websearch
+    scan_query: 'site:zepto.talentrecruit.com OR site:zepto.com/careers "Engineer" OR "Manager" (Bengaluru OR Mumbai OR Delhi)'
+    notes: "Quick-commerce. TalentRecruit ATS with encrypted (text/iv/key) API responses — no zero-token access. websearch fallback."
+    enabled: true
+
+  - name: BigBasket
+    careers_url: https://bigbasket.darwinbox.in/ms/candidate/careers
+    scan_method: websearch
+    scan_query: 'site:bigbasket.darwinbox.in OR site:bigbasket.com/careers "Engineer" OR "Manager" (Bengaluru OR Mumbai OR Pune)'
+    notes: "Quick-commerce (Tata-owned). Darwinbox careers behind Cloudflare Turnstile — no API access. websearch fallback."
+    enabled: true
+
+  - name: Flipkart
+    careers_url: https://flipkart.turbohire.co/careerpage/4d757ba0-3d57-448a-b82c-238ed87ac90f
+    scan_method: websearch
+    scan_query: 'site:flipkart.turbohire.co OR site:flipkart.com/careers "Engineer" OR "Manager" (Bengaluru OR Gurgaon OR Hyderabad)'
+    notes: "E-commerce (Walmart-owned). TurboHire SPA (thapi.azurewebsites.net) — JS-rendered, no public API. websearch fallback."
+    enabled: true
+
+  # ── Strong fintech: London / India / remote (2026-08-15) ────────────
+  - name: Tide
+    careers_url: https://job-boards.greenhouse.io/tide
+    api: https://boards-api.greenhouse.io/v1/boards/tide/jobs
+    notes: "London fintech (SME banking). Greenhouse."
+    enabled: true
+
+  - name: OakNorth
+    careers_url: https://jobs.ashbyhq.com/oaknorth
+    notes: "London fintech (business lending). Ashby, 27 jobs."
+    enabled: true
+
+  - name: Zilch
+    careers_url: https://jobs.ashbyhq.com/zilch
+    notes: "London fintech (BNPL). Ashby, 11 jobs."
+    enabled: true
+
+  - name: Cleo
+    careers_url: https://job-boards.greenhouse.io/cleo
+    api: https://boards-api.greenhouse.io/v1/boards/cleo/jobs
+    notes: "London fintech (AI money assistant). Greenhouse."
+    enabled: true
+
+  - name: Plaid
+    careers_url: https://jobs.ashbyhq.com/plaid
+    notes: "Fintech infra (data network). Ashby, 103 jobs (includes remote)."
+    enabled: true
+
+  - name: Marqeta
+    careers_url: https://job-boards.greenhouse.io/marqeta
+    api: https://boards-api.greenhouse.io/v1/boards/marqeta/jobs
+    notes: "Card issuing platform. Greenhouse."
+    enabled: true
+
+  - name: Adyen
+    careers_url: https://job-boards.greenhouse.io/adyen
+    api: https://boards-api.greenhouse.io/v1/boards/adyen/jobs
+    notes: "Global payments platform. Greenhouse."
+    enabled: true
+
+  - name: Starling Bank
+    careers_url: https://apply.workable.com/starling-bank/
+    notes: "London challenger bank. Workable board, 83 jobs (Senior Java SWE roles)."
+    enabled: true
+
+  - name: slice
+    careers_url: https://job-boards.greenhouse.io/slice
+    api: https://boards-api.greenhouse.io/v1/boards/slice/jobs
+    notes: "India fintech (card+credit). Greenhouse."
+    enabled: true
+
+  - name: Navi
+    careers_url: https://jobs.ashbyhq.com/navi
+    notes: "WARNING: ashby/navi resolves to a different Navi (SF hardware startup), NOT Navi Technologies India. Disabled pending correct ATS discovery."
+    enabled: false
+
+  # ── Indian Commerce / UPI / OTT / Network (added 2026-08-15) ─────────
+  # UPI/commerce (PhonePe/Paytm/CRED/Groww/slice/Razorpay/Zerodha/Swiggy/
+  # Meesho/Blinkit/Zepto/BigBasket/Flipkart) are configured above. This block
+  # adds the remaining requested categories: OTT/video platforms (Hotstar,
+  # SonyLIV, ZEE5, Jio) and network providers (Airtel). ATS auto-detected where
+  # possible; the rest scan via websearch (cloudflare/darwinbox/turbohire/sense).
+
+  - name: Disney+ Hotstar
+    careers_url: https://jobs.lever.co/hotstar
+    notes: "India OTT (300M+ users). Lever board (auto-detected provider); public API ~1-2 live roles."
+    enabled: true
+
+  - name: Airtel
+    careers_url: https://careers.airtel.com
+    scan_method: websearch
+    scan_query: 'site:airtel.darwinbox.in OR site:careers.airtel.com "Engineer" OR "Backend" OR "Java" (Gurgaon OR Bangalore OR Hyderabad OR Pune OR Mumbai OR Delhi)'
+    notes: "Indian telecom. Darwinbox careers behind Cloudflare Turnstile — no API access. websearch fallback."
+    enabled: true
+
+  - name: SonyLIV (Sony Pictures Networks)
+    careers_url: https://www.sonypicturesnetworks.com/current-openings
+    scan_method: websearch
+    scan_query: 'site:sonypicturesnetworks.com OR "Sony Pictures Networks" "Engineer" OR "Backend" OR "SRE" (Mumbai OR Bangalore OR India)'
+    notes: "OTT/video platform. Custom careers page, no public ATS API. websearch fallback."
+    enabled: true
+
+  - name: ZEE5 (Zee Entertainment)
+    careers_url: https://zee.sensehq.com/careers
+    scan_method: websearch
+    scan_query: 'site:zee.sensehq.com OR site:zee.com/careers "Engineer" OR "Backend" OR "Data" (Bangalore OR Mumbai OR India)'
+    notes: "OTT (Zee5). SenseHQ/Skillate careers page; no zero-token API. websearch fallback."
+    enabled: true
+
+  - name: Jio (Reliance)
+    careers_url: https://careers.jio.com
+    scan_method: websearch
+    scan_query: 'site:careers.jio.com "Engineer" OR "Backend" OR "Developer" (Mumbai OR Navi Mumbai OR Bangalore OR Hyderabad OR India)'
+    notes: "Reliance Jio (telecom + JioCinema). Custom ASP.NET careers portal, no public ATS API. websearch fallback."
+    enabled: true
+
+  - name: Pine Labs
+    careers_url: https://www.pinelabs.com/careers/open-jobs
+    scan_method: websearch
+    scan_query: 'site:pinelabsgroup.turbohire.co OR site:pinelabs.com/careers "Engineer" OR "Developer" OR "Architect" (Noida OR Bangalore OR Mumbai OR India)'
+    notes: "India fintech (payments/UPI/POS). TurboHire SPA, no public API. websearch fallback."
+    enabled: true
+
+  - name: Juspay
+    careers_url: https://juspay.io/careers
+    scan_method: websearch
+    scan_query: 'site:juspay.io/careers OR site:careers.juspay.in "Engineer" OR "Backend" OR "Developer" (Bangalore OR India)'
+    notes: "India payments infra (300M+ daily txns). Custom careers page, no public ATS API. websearch fallback."
+    enabled: true
 
 job_boards:
 
@@ -1891,6 +2239,150 @@ job_boards:
     maxPages: 3
     enabled: false
     notes: "SEA job platform covering ID/SG/MY/VN. Uses searchJobsV3 GraphQL endpoint (v2-alc). WAF blocks non-browser requests — works best from Playwright context."
+
+  # ── Strong engineer, fast-hire startups (added 2026-08-19) ──────────
+  # Smaller teams, faster hiring, founders review applications directly.
+  # ATS auto-detected (Ashby/Lever) where available; the rest scan via
+  # websearch (self-hosted boards with no public API).
+
+  - name: PostHog
+    careers_url: https://jobs.ashbyhq.com/posthog
+    enabled: true
+    notes: "Open-source product analytics. Ashby board (public API)."
+
+  - name: Cal.com
+    careers_url: https://cal.com/jobs
+    scan_method: websearch
+    scan_query: 'site:cal.com/jobs "Engineer" OR "Backend" OR "Fullstack" OR "SRE"'
+    notes: "Open-source scheduling. Self-hosted jobs page — no public ATS API. websearch fallback."
+    enabled: true
+
+  - name: Metabase
+    careers_url: https://jobs.metabase.com
+    api: https://api.lever.co/v0/postings/metabase?mode=json
+    enabled: true
+    notes: "Open-source BI. Lever board (public API); fully remote (Global)."
+
+  - name: Trigger.dev
+    careers_url: https://jobs.ashbyhq.com/triggerdev
+    enabled: true
+    notes: "Background jobs / durable execution platform. Ashby board (public API)."
+
+  - name: Plausible
+    careers_url: https://plausible.io/jobs
+    scan_method: websearch
+    scan_query: 'site:plausible.io/jobs OR "Plausible Analytics" hiring Engineer OR Product'
+    notes: "Privacy-friendly web analytics (Elixir/Phoenix, ClickHouse). Self-hosted jobs page, hires rarely. websearch fallback."
+    enabled: true
+
+  - name: Svix
+    careers_url: https://jobs.ashbyhq.com/svix
+    enabled: true
+    notes: "Webhook infrastructure. Ashby board (public API)."
+
+  - name: Novu
+    careers_url: https://novu.co/careers
+    scan_method: websearch
+    scan_query: 'site:novu.co/careers OR "Novu" hiring Engineer OR Backend'
+    notes: "Open-source notification infrastructure. Self-hosted careers page (intermittent hiring). websearch fallback."
+    enabled: true
+
+  - name: Railway
+    careers_url: https://jobs.ashbyhq.com/railway
+    enabled: true
+    notes: "Deploy platform. Ashby board (public API)."
+
+  - name: LiveKit
+    careers_url: https://jobs.ashbyhq.com/livekit
+    enabled: true
+    notes: "Real-time voice/video AI infrastructure. Ashby board (public API); Go/Rust backend."
+
+  - name: Nango
+    careers_url: https://jobs.ashbyhq.com/nango
+    enabled: true
+    notes: "Product integrations platform. Ashby board (public API)."
+
+  - name: Flagsmith
+    careers_url: https://www.flagsmith.com/careers
+    scan_method: websearch
+    scan_query: 'site:flagsmith.com/careers OR "Flagsmith" hiring Engineer OR Backend'
+    notes: "Feature flagging. Self-hosted careers page. websearch fallback."
+    enabled: true
+
+  - name: Appsmith
+    careers_url: https://www.appsmith.com/careers
+    scan_method: websearch
+    scan_query: 'site:appsmith.com/careers OR site:jobs.ashbyhq.com/appsmith "Engineer" OR "Backend"'
+    notes: "Open-source low-code. Ashby board exists but careers page currently shows no open roles. websearch fallback."
+    enabled: true
+
+  - name: Refine
+    careers_url: https://refine.dev/careers
+    scan_method: websearch
+    scan_query: 'site:refine.dev/careers OR "Refine (refine.dev)" hiring Engineer OR Backend'
+    notes: "Open-source React framework. Self-hosted careers page (404 at scan time). websearch fallback."
+    enabled: true
+
+  - name: Amplication
+    careers_url: https://amplication.com/careers
+    scan_method: websearch
+    scan_query: 'site:amplication.com/careers OR "Amplication" hiring Engineer OR Backend'
+    notes: "Open-source backend code generation. Self-hosted careers page (404 at scan time). websearch fallback."
+    enabled: true
+
+  - name: Hoppscotch
+    careers_url: https://company.hoppscotch.io/careers
+    scan_method: websearch
+    scan_query: 'site:hoppscotch.io/careers OR "Hoppscotch" hiring Engineer OR Backend'
+    notes: "Open-source API dev tool. Self-hosted careers page. websearch fallback."
+    enabled: true
+
+  - name: daily.dev
+    careers_url: https://daily.dev/careers/
+    scan_method: websearch
+    scan_query: 'site:daily.dev/careers OR "daily.dev" hiring Engineer'
+    notes: "Developer news network. Remote-first, small team, hires a few times a year (no roles at scan time). websearch fallback."
+    enabled: true
+
+  - name: Infisical
+    careers_url: https://jobs.ashbyhq.com/infisical
+    enabled: true
+    notes: "Open-source secrets management. Ashby board (public API)."
+
+  - name: Zapier
+    careers_url: https://jobs.ashbyhq.com/zapier
+    enabled: true
+    notes: "Automation platform. Ashby board (public API)."
+
+  - name: 1Password
+    careers_url: https://jobs.ashbyhq.com/1password
+    enabled: true
+    notes: "Password manager. Ashby board (public API, 60+ roles)."
+
+  - name: Deel
+    careers_url: https://jobs.deel.com/deel
+    scan_method: websearch
+    scan_query: 'site:jobs.deel.com "Engineer" OR "Backend" OR "Data" OR "AI"'
+    notes: "Global payroll/EOR. Ashby custom-domain board (jobs.deel.com) but posting API returns empty at scan time — websearch fallback."
+    enabled: true
+
+  - name: Ashby
+    careers_url: https://jobs.ashbyhq.com/ashby
+    enabled: true
+    notes: "ATS vendor itself (dogfoods its own board). Ashby public API."
+
+  - name: Doist
+    careers_url: https://doist.com/careers
+    scan_method: websearch
+    scan_query: 'site:doist.com/careers OR "Doist" hiring Engineer OR Backend OR Developer'
+    notes: "Todoist/Twist. Remote-first, fully distributed; no open roles at scan time. websearch fallback."
+    enabled: true
+
+  - name: Hotjar
+    careers_url: https://jobs.lever.co/contentsquare
+    api: https://api.lever.co/v0/postings/contentsquare?mode=json
+    enabled: true
+    notes: "Now part of ContentSquare (Hotjar careers redirect there). Lever board (public API)."
 
   # ── HigherEdJobs (university / higher-ed RSS) ────────────────────────
   # Public no-auth RSS category feed. cat_id selects the HigherEdJobs

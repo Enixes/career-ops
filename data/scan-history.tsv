@@ -1,6 +1,11 @@
 url	first_seen	portal	title	company	status	location
 https://job-boards.eu.greenhouse.io/parloa/jobs/4906177101	2026-07-19	greenhouse-api	Manager, Forward Deployed Engineering	Parloa	added	Berlin Office; London Office; Munich Office; Remotely in Germany; Remotely in the UK		2026-06-23		
 https://job-boards.eu.greenhouse.io/parloa/jobs/4871790101	2026-07-19	greenhouse-api	Senior Agent Architect	Parloa	added	New York Office; Remotely in the USA		2026-05-20		
+https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60	2026-07-20	websearch	Forward Deployed Software Engineer	OpenAI	added	London, UK		2026-07	
+https://openai.com/careers/forward-deployed-software-engineer-dublin/	2026-07-20	websearch	Forward Deployed Software Engineer	OpenAI	added	Dublin, Ireland		2026-07	
+https://retool.com/careers/principal-solutions-architect---professional-services--london-united-kingdom	2026-07-20	websearch	Principal Solutions Architect	Retool	added	London, UK		2026-07	
+https://job-boards.greenhouse.io/databricks/jobs/8593713002	2026-07-20	websearch	AI Engineer - FDE (Forward Deployed Engineer)	Databricks	added	Remote - UK		2026-07	
+https://job-boards.greenhouse.io/gitlab/jobs/8522265002	2026-07-20	websearch	Forward Deployed Engineer - UK	GitLab	added	Remote, UK		2026-07	
 https://job-boards.eu.greenhouse.io/parloa/jobs/4874171101	2026-07-19	greenhouse-api	Senior Agent Architect - Partner Success	Parloa	added	Berlin Office; Munich Office; Remotely in Germany		2026-05-22		
 https://job-boards.eu.greenhouse.io/parloa/jobs/4925068101	2026-07-19	greenhouse-api	Senior Forward Deployed Engineer (France)	Parloa	added	France; Paris		2026-07-10		
 https://job-boards.eu.greenhouse.io/parloa/jobs/4604587101	2026-07-19	greenhouse-api	Senior/Lead Forward Deployed Engineer - US	Parloa	added	New York Office; Remotely in the USA		2025-08-18		
@@ -20,6 +25,14 @@ https://job-boards.greenhouse.io/intercom/jobs/5916272	2026-07-19	greenhouse-api
 https://job-boards.greenhouse.io/intercom/jobs/7594453	2026-07-19	greenhouse-api	Senior Solutions Architect	Intercom	added	Dublin, Ireland		2026-02-12		
 https://job-boards.greenhouse.io/intercom/jobs/7917235	2026-07-19	greenhouse-api	Staff AI Designer	Intercom	added	Dublin, Ireland		2026-05-13		
 https://job-boards.greenhouse.io/intercom/jobs/7310770	2026-07-19	greenhouse-api	Staff Forward Deployed Engineer	Intercom	added	Dublin, Ireland		2025-10-09		
+https://job-boards.greenhouse.io/talkdesk2/jobs/7996902	2026-07-20	websearch	AI Deployment Strategist, Solutions Engineer - EMEA	Talkdesk	added	Porto, Portugal		2026-07-13		
+https://job-boards.greenhouse.io/talkdesk2/jobs/8002591	2026-07-20	websearch	Data Integration Engineer I	Talkdesk	added	Bengaluru, India		2026-07-13		
+https://job-boards.greenhouse.io/talkdesk2/jobs/7976252	2026-07-20	websearch	Senior Data Engineer	Talkdesk	added	Portugal		2026-07-17		
+https://job-boards.greenhouse.io/talkdesk2/jobs/7751892	2026-07-20	websearch	Senior Solutions Engineer - Enterprise - UK&I	Talkdesk	added	London, UK		2026-04-08		
+https://job-boards.greenhouse.io/gongio/jobs/4395203006	2026-07-20	websearch	Backend Engineer, Communications Capture	Gong	added	Dublin, Ireland		2026-07-06		
+https://job-boards.greenhouse.io/gongio/jobs/4684215006	2026-07-20	websearch	Senior Backend Engineer	Gong	added	Dublin, Ireland		2026-07-06		
+https://jobs.ashbyhq.com/langfuse/1225fa3d-d590-41d2-b798-ef927320fb2e	2026-07-20	websearch	Senior Backend Engineer (Data Infrastructure)	Langfuse	added	Europe		2026-07-17		
+https://jobs.ashbyhq.com/langfuse/69bc6e7a-0304-4d81-ae72-7ccf5652a053	2026-07-20	websearch	Senior Backend Engineer (IAM and Billing)	Langfuse	added	Europe		2026-07-17		
 https://job-boards.greenhouse.io/intercom/jobs/7393955	2026-07-19	greenhouse-api	Staff Product Engineer, AI	Intercom	added	London, England		2025-11-13		
 https://job-boards.greenhouse.io/intercom/jobs/5379326	2026-07-19	greenhouse-api	Staff Product Manager	Intercom	added	London, England		2023-09-21		
 https://job-boards.greenhouse.io/anthropic/jobs/5183044008	2026-07-19	greenhouse-api	Anthropic Fellows Program, AI Safety	Anthropic	added	London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA		2026-04-10		
@@ -381,3 +394,427 @@ https://jobs.ashbyhq.com/pleo/88c1331b-2e63-4bd3-9459-f5679ebddbc5	2026-07-19	as
 https://jobs.ashbyhq.com/pleo/2754261d-d959-4d47-9661-260ef3352b34	2026-07-19	ashby-api	Engineering Manager, GenAI Platform	Pleo	added	London · Lisbon · Copenhagen · Madrid		2026-07-01		
 https://jobs.ashbyhq.com/pleo/934035cd-c8f1-4b93-b7ea-59e6d2f3ba0b	2026-07-19	ashby-api	Senior GenAI Platform Engineer	Pleo	added	London · Lisbon · Copenhagen · Madrid		2026-07-10		
 https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850	2026-07-19	lever-api	Forward Deployed Software Engineer	Palantir	added	London, United Kingdom	4b4a56a50cefd03e	2009-12-05		
+https://job-boards.eu.greenhouse.io/parloa/jobs/4903167101	2026-07-19	greenhouse-api	Senior Agent Architect (Spain)	Parloa	added	Madrid; Remotely in Spain		2026-06-19		
+https://job-boards.greenhouse.io/intercom/jobs/7824142	2026-07-19	greenhouse-api	AI Infrastructure Engineer	Intercom	added	Berlin, Germany		2026-04-17		
+https://job-boards.greenhouse.io/intercom/jobs/7818585	2026-07-19	greenhouse-api	Engineering Manager, AI Models Infrastructure	Intercom	added	Dublin, Ireland		2026-04-15		
+https://himalayas.app/companies/mindrift/jobs/ex-mbb-strategy-consultant-ai-training-3673602436	2026-07-19	himalayas-api	Ex-MBB Strategy Consultant - AI Training	Mindrift	added	Sweden		2026-07-19		
+https://himalayas.app/companies/tensorops/jobs/mid-senior-ai-engineer	2026-07-19	himalayas-api	Mid/Senior AI Engineer	TensorOps	added	Australia, Canada, Germany, India, United Kingdom, United States		2026-07-19		
+https://www.workingnomads.com/job/go/1734670/	2026-07-19	workingnomads-api	Senior AI Engineer	Lemon.io	added	Europe, North America, Latin America, APAC				
+https://jobs.ashbyhq.com/langchain/c882af7e-59aa-4017-b791-9a8094c0ef6f	2026-07-19	ashby-api	Solutions Architect (APAC)	LangChain	added	Remote - Singapore		2026-06-02		
+https://job-boards.greenhouse.io/celonis/jobs/7798592003?gh_jid=7798592003	2026-07-19	greenhouse-api	Application Product Manager - AI System Transformations	Celonis	added	Munich, Germany		2026-07-08		
+https://jobs.ashbyhq.com/lakera.ai/15ab5a5a-2c7a-4fc9-822d-68759d5e4db4	2026-07-19	ashby-api	Solutions Engineer (Amsterdam, Netherlands)	Lakera	added	Germany		2026-06-12		
+https://sumup.com/careers/positions/7875332002?gh_jid=7875332002	2026-07-19	greenhouse-api	Agent Commercial(e) Terrain Indépendant (Freelance)	SumUp	added	Calais, Pas-de-Calais, France		2025-02-21		
+https://sumup.com/careers/positions/8511538002?gh_jid=8511538002	2026-07-19	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)	SumUp	added	Nîmes, Gard, France		2026-04-21		
+https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384	2026-07-19	lever-api	Forward Deployed Software Engineer	Palantir	added	Stockholm, Sweden	43d6c2592d25d02f	2021-10-19		
+https://job-boards.eu.greenhouse.io/parloa/jobs/4928578101	2026-07-19	greenhouse-api	Senior Agent Architect (UK)	Parloa	added	London Office; Remotely in the UK		2026-07-15		
+https://sumup.com/careers/positions/8511537002?gh_jid=8511537002	2026-07-19	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)	SumUp	added	Avignon, Vaucluse, France		2026-04-17		
+https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2	2026-07-20	Level 3 - Ashby - AI Engineer	AI Process Forward Deployed Engineer	Camunda	added	Remote (UK, Brazil, US, Canada)		2026-07
+https://job-boards.greenhouse.io/databricks/jobs/8362737002	2026-07-20	Level 3 - Greenhouse - AI Engineer	Sr Forward Deployed Engineer	Databricks	added	Remote - India		2026-07
+https://job-boards.eu.greenhouse.io/parloa/jobs/4907496101	2026-07-20	greenhouse-api	Sr Agent Architect - Partner Success	Parloa	added	Berlin Office; Munich Office; Remotely in Germany		2026-06-24		
+https://jobs.ashbyhq.com/elevenlabs/4fa4745c-cc31-4d20-8695-60e104c9c217	2026-07-20	ashby-api	Enterprise Solutions Engineer - Nordics	ElevenLabs	added	Denmark · Sweden · Stockholm		2026-07-20		
+https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa	2026-07-20	ashby-api	Forward Deployed Engineer - Software Engineer - India	ElevenLabs	added	India		2026-07-20		
+https://sumup.com/careers/positions/8013034002?gh_jid=8013034002	2026-07-20	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)	SumUp	added	Lyon, Rhône, France		2025-05-27		
+https://sumup.com/careers/positions/8013031002?gh_jid=8013031002	2026-07-20	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)	SumUp	added	Grenoble, Isère, France		2025-05-27		
+https://sumup.com/careers/positions/8340146002?gh_jid=8340146002	2026-07-20	greenhouse-api	Customer Support Agent - Spanish and Portuguese	SumUp	added	Barcelona, Barcelona, Spain		2026-01-13		
+https://jobs.lever.co/spotify/ba605886-4258-44ee-b372-6fd3a803dd3d	2026-07-20	lever-api	Senior Product Manager - User Platform	Spotify	added	London	2449fa29ffc73672	2026-07-17		
+https://job-boards.greenhouse.io/anthropic/jobs/4017544008	2026-07-28	greenhouse-api	Research Engineer, Agents	Anthropic	added	Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY		2024-04-22		
+https://job-boards.eu.greenhouse.io/polyai/jobs/4853250101	2026-07-28	greenhouse-api	Senior Platform Engineer	PolyAI	added	London, United Kingdom		2026-04-29		
+https://job-boards.eu.greenhouse.io/parloa/jobs/4935645101	2026-07-28	greenhouse-api	Sr Agent Architect (Germany)	Parloa	added	Berlin Office; Munich Office; Remotely in Germany		2026-07-22		
+https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074	2026-07-28	ashby-api	Senior Product Manager, Enterprise	Deepgram	added	USA | Remote		2026-07-24		
+https://jobs.ashbyhq.com/deepgram/d0660127-6c26-4053-943c-c006990b8edc	2026-07-28	ashby-api	Staff Product Manager - Self Serve (Growth)	Deepgram	added	USA | Remote		2026-07-25		
+https://jobs.ashbyhq.com/deepgram/6f3d761e-4873-43af-a9b1-daeb147661f9	2026-07-28	ashby-api	Senior Software Engineer - Model Evaluation & AI Systems	Deepgram	added	USA | Remote		2026-07-28		
+https://job-boards.greenhouse.io/gleanwork/jobs/4717716005	2026-07-28	greenhouse-api	Resident Solutions Architect	Glean	added	Remote		2026-07-23		
+https://jobs.ashbyhq.com/decagon/2059c9be-8da0-49a5-9849-e45f6f6a14d8	2026-07-28	ashby-api	Customer Engineer, Agent Builder - German Speaking	Decagon	added	London		2026-07-21		
+https://jobs.ashbyhq.com/decagon/3b52f574-3cc3-4db9-ac2e-2c78389a1377	2026-07-28	ashby-api	Customer Engineer, Agent Builder - French Speaking	Decagon	added	London		2026-07-21		
+https://jobs.ashbyhq.com/zapier/1767482d-de23-460c-80eb-6d0a3caa72ab	2026-07-28	ashby-api	Staff Backend Engineer, Revenue	Zapier	added	NAMER · APAC · EMEA		2026-06-30		
+https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848	2026-07-28	ashby-api	Technical Program Manager, AI Delivery for Public Sector & Defence, UK	Cohere	added	London		2026-07-21		
+https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c	2026-07-28	ashby-api	Technical Program Manager, AI Delivery for Public Sector & Defense, France	Cohere	added	France		2026-07-20		
+https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2	2026-07-28	jobicy-api	Senior Partner Solutions Engineer	Akamai Technologies	added	Sweden		2026-07-27		
+https://job-boards.greenhouse.io/later/jobs/8562535002	2026-07-28	greenhouse-api	Senior AI Automation Engineer	Later	added	Boston, MA; Chicago, Illinois, United States; Los Angeles, California, United States; New York, New York, United States; Remote; San Francisco, California, United States; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Vancouver, Washington, United States		2026-05-28		
+https://jobs.ashbyhq.com/DeepL/7827cc1e-4cd4-4b5d-a266-1aed45b1bca0	2026-07-28	ashby-api	Snr Marketing Operations Manager / GTM Engineer	DeepL	added	London		2026-07-21		
+https://job-boards.greenhouse.io/celonis/jobs/7814021003?gh_jid=7814021003	2026-07-28	greenhouse-api	Associate (AI) Solution Consultant - Orbit Program (Madrid-based)	Celonis	added	Munich, Germany		2026-07-23		
+https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003	2026-07-28	greenhouse-api	Associate Applied (AI) Value Engineer (DACH) - Orbit Program	Celonis	added	Madrid, Spain		2026-07-27		
+https://job-boards.greenhouse.io/celonis/jobs/7809731003?gh_jid=7809731003	2026-07-28	greenhouse-api	Associate Applied (AI) Value Engineer - Orbit Program (Madrid-based)	Celonis	added	Amsterdam, Netherlands		2026-07-20		
+https://job-boards.greenhouse.io/celonis/jobs/7807064003?gh_jid=7807064003	2026-07-28	greenhouse-api	People & Culture Automation & AI Project Manager	Celonis	added	Madrid, Spain		2026-07-23		
+https://jobs.ashbyhq.com/n8n/bf526af6-784c-49e8-8233-d69595423b4d	2026-07-28	ashby-api	Senior Data Engineer	n8n	added	Germany · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Kosovo · Portugal · Poland · Serbia · Austria · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Czech Republic · Croatia · Spain · Greece · Ukraine		2026-07-22		
+https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436	2026-07-28	ashby-api	IT Systems & Automation Engineer	n8n	added	Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Czech Republic · Croatia · Spain · Greece		2026-07-21		
+https://sumup.com/careers/positions/8596505002?gh_jid=8596505002	2026-07-28	greenhouse-api	AI Experience Lead - Operations	SumUp	added	Berlin, Germany		2026-07-24		
+https://sumup.com/careers/positions/8285232002?gh_jid=8285232002	2026-07-28	greenhouse-api	Customer Support Agent - EN	SumUp	added	Barcelona, Barcelona, Spain		2025-11-11		
+https://sumup.com/careers/positions/8340156002?gh_jid=8340156002	2026-07-28	greenhouse-api	Customer Support Agent- French	SumUp	added	Barcelona, Barcelona, Spain		2026-01-13		
+https://sumup.com/careers/positions/8364212002?gh_jid=8364212002	2026-07-28	greenhouse-api	Data Engineer	SumUp	added	Berlin, Germany		2026-07-23		
+https://sumup.com/careers/positions/8637377002?gh_jid=8637377002	2026-07-28	greenhouse-api	Senior Backend Engineer - Commercial Systems and Intelligence	SumUp	added	Berlin, Germany		2026-07-28		
+https://sumup.com/careers/positions/8174816002?gh_jid=8174816002	2026-07-28	greenhouse-api	Zelfstandig B2B Sales Agent	SumUp	added	Amsterdam, Netherlands		2025-09-19		
+https://wayve.firststage.co/jobs?gh_jid=8644800002	2026-07-28	greenhouse-api	Data Engineer	Wayve	added	Germany		2026-07-22		
+https://wayve.firststage.co/jobs?gh_jid=8637714002	2026-07-28	greenhouse-api	System Integration Engineer	Wayve	added	London		2026-07-17		
+https://jobs.ashbyhq.com/faculty/72faa106-47e1-4e0f-8f9b-d5af33a5a6d5	2026-07-28	ashby-api	Principal Product Manager	Faculty	added	UK - London		2026-07-21		
+https://jobs.ashbyhq.com/faculty/6c0abf94-8d61-459b-b094-49307a595c60	2026-07-28	ashby-api	Senior Research Scientist - AI Safety Evaluations	Faculty	added	UK - London		2026-07-23		
+https://jobs.ashbyhq.com/causaly/0d240789-10ba-4a84-89fc-76f7e62079c0	2026-07-28	ashby-api	Senior AI Engineer	Causaly	added	London		2026-03-04		
+https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6	2026-07-28	ashby-api	Forward Deployed Engineer	Lovable	added	London · San Francisco · United States · Boston · New York		2026-06-22		
+https://jobs.ashbyhq.com/legora/53ae82a6-d5d6-4565-88aa-c6a2feccc736	2026-07-28	ashby-api	Senior Product Manager	Legora	added	London		2026-07-24		
+https://jobs.ashbyhq.com/corti/542068bd-b25c-440f-ab3f-11b2adcfe5d1	2026-07-28	ashby-api	GTM Engineer	Corti	added	Copenhagen, Denmark		2026-07-21		
+https://job-boards.greenhouse.io/hightouch/jobs/6122160004	2026-07-28	greenhouse-api	Forward Deployed Analytics Engineer	Hightouch	added	Remote (North America)		2026-07-22		
+https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441	2026-07-28	ashby-api	Product Manager - Marketplace	Supabase	added	Remote		2026-07-24		
+https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0	2026-07-28	lever-api	Forward Deployed Software Engineer - NATO	Palantir	added	London, United Kingdom	43d6c2112da5d027	2026-07-23		
+https://jobs.lever.co/spotify/4d51cab2-09b9-4117-a732-a8a3e487b2b9	2026-07-28	lever-api	Senior Product Manager - Subscriptions Mission	Spotify	added	London	f1125f0d421a002b	2026-05-15		
+https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943	2026-07-28	lever-api	Staff Data Engineer — Subscriptions User Understanding	Spotify	added	London		2026-07-27		
+https://www.instahyre.com/job-381666-generative-ai-engineer-at-innovationm-noida	2026-08-05	Instahyre — India AI/Backend/Data	Generative AI Engineer	InnovationM	skipped_expired	Noida
+https://www.instahyre.com/job-168917-machine-learning-engineer-at-prezent-ai-work-from-home/	2026-08-05	Instahyre — India AI/Backend/Data	Machine Learning Engineer	Prezent AI	skipped_expired	Work From Home
+https://ats.rippling.com/rippling/jobs/1310bdc8-24c7-4e6a-af30-223e658c9402	2026-08-05	rippling-api	AI/ML Model Risk Validator	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/00dbe4a0-da1e-4696-8c15-d4724a402c42	2026-08-05	rippling-api	Business Systems Developer	Rippling	added	Remote (United States)					rippling
+https://ats.rippling.com/rippling/jobs/16b161f2-b631-408e-9177-c5723c62d690	2026-08-05	rippling-api	Credit Data Scientist & AI Agents	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/0654e4e2-7e90-4be9-b068-dd5e95451fc7	2026-08-05	rippling-api	Senior Software Engineer - AI Governance	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/8d348367-72ad-49d7-a06d-19d691f01069	2026-08-05	rippling-api	Senior Software Engineer - AI Initiative	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/ede596ba-99bb-4d70-888e-23c0c295c517	2026-08-05	rippling-api	Senior Software Engineer - Rippling AI	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/7bf032b6-7fb5-4a82-b299-d2a013491c61	2026-08-05	rippling-api	Senior Staff Software Engineer - Rippling AI	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/69b9d52d-c313-4ee1-83be-697d9b4a1a5a	2026-08-05	rippling-api	Software Engineer 2 - AI Platform	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/e64a65a0-7b28-4f82-b06f-b2b9c9fb3edc	2026-08-05	rippling-api	Staff Software Engineer - AI Governance	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/a85f4703-0d12-4148-adeb-075e78024248	2026-08-05	rippling-api	Staff Software Engineer - Rippling AI	Rippling	added	Bangalore, India					rippling
+https://ats.rippling.com/rippling/jobs/ba72246f-b46e-45da-9aec-3db244c2a35a	2026-08-05	rippling-api	Senior Software Engineer, Backend	Rippling	added	London, United Kingdom			rippling
+https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-2	2026-08-08	weworkremotely-api	Generative AI Pipeline Engineer (Tech Lead)	CapsLock	added	Remote		2026-08-04			capslock
+https://job-boards.greenhouse.io/intercom/jobs/7681157	2026-08-08	greenhouse-api	AI Products - Sales Strategy & Operations, Senior Manager	Intercom	added	Dublin, Ireland		2026-03-06			intercom
+https://job-boards.greenhouse.io/intercom/jobs/8094884	2026-08-08	greenhouse-api	Senior AI Deployment Consultant	Intercom	added	London, England		2026-07-30			intercom
+https://job-boards.greenhouse.io/intercom/jobs/8096347	2026-08-08	greenhouse-api	Senior Engineering Manager, Customer Agent	Intercom	added	London, England		2026-07-30			intercom
+https://jobs.ashbyhq.com/elevenlabs/5bcd3475-8e38-42f1-897a-fa010ee6f9bd	2026-08-08	ashby-api	Automation Engineer - Influencers	ElevenLabs	added	London · Ireland · Spain · United States · Germany · Poland		2026-08-06			elevenlabs
+https://jobs.ashbyhq.com/bland/ea532833-f3d8-4dad-b5b2-f9bbeaa1a1a5	2026-08-08	ashby-api	Enterprise Solutions Engineer	Bland AI	added	San Francisco or Remote		2026-08-06			bland ai
+https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789	2026-08-08	ashby-api	Staff Product Manager, Agentic Experiences (Former Engineer)	Deepgram	added	USA | Remote		2026-07-29			deepgram
+https://jobs.ashbyhq.com/deepgram/928303de-61d6-46ec-b10a-08709e1deb4a	2026-08-08	ashby-api	Senior Product Marketing Manager, Voice Agent	Deepgram	added	USA | Remote		2026-08-06			deepgram
+https://job-boards.greenhouse.io/vercel/jobs/6132416004	2026-08-08	greenhouse-api	Partner Solutions Engineer, EMEA	Vercel	added	Hybrid - London, Berlin		2026-08-07			vercel
+https://job-boards.greenhouse.io/arizeai/jobs/6119757004	2026-08-08	greenhouse-api	Open Source AI Engineer (Typescript)	Arize AI	added	Remote (United States)		2026-07-29			arize ai
+https://job-boards.greenhouse.io/gleanwork/jobs/4675077005	2026-08-08	greenhouse-api	Manager, AI Outcomes	Glean	added	Bangalore, India		2026-03-24			glean
+https://jobs.ashbyhq.com/n8n/bdff4d5b-9cc0-4b1f-9ca1-7008e5972488	2026-08-08	ashby-api	Senior Frontend Platform Engineer	n8n	added	Berlin Office · Europe		2026-08-07			n8n
+https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4	2026-08-08	ashby-api	Senior Product Manager - Core Platform	n8n	added	Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · Finland · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · United Kingdom · Croatia · Spain · Greece		2026-08-03			n8n
+https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e	2026-08-08	ashby-api	Applied AI Engineer, Agents & Automations	Cohere	added	Europe · Canada · United States · San Francisco		2026-08-07			cohere
+https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a	2026-08-08	ashby-api	AI Engineer, Enablement (London)	LangChain	added	London		2026-08-05			langchain
+https://jobs.ashbyhq.com/DeepL/4921cca4-576c-4d90-8742-8a90bbc0a6ea	2026-08-08	ashby-api	Senior Data Platform Engineer	DeepL	added	London		2026-07-30			deepl
+https://job-boards.greenhouse.io/celonis/jobs/7819725003?gh_jid=7819725003	2026-08-08	greenhouse-api	Associate Applied (AI) Value Engineer (DACH)	Celonis	added	Munich, Germany		2026-07-28			celonis
+https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003	2026-08-08	greenhouse-api	Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production	Celonis	added	Munich, Germany		2026-08-04			celonis
+https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003	2026-08-08	greenhouse-api	Senior Digital Transformation & Process Optimisation Consultant (Senior Value Engineer) - Scale Team	Celonis	added	Munich, Germany		2026-08-04			celonis
+https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003	2026-08-08	greenhouse-api	Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production	Celonis	added	Munich, Germany		2026-08-04			celonis
+https://job-boards.greenhouse.io/celonis/jobs/7737493003?gh_jid=7737493003	2026-08-08	greenhouse-api	Working Student AI & Management Consulting (Nordics)	Celonis	added	Copenhagen, Denmark		2026-05-22			celonis
+https://job-boards.greenhouse.io/celonis/jobs/7746655003?gh_jid=7746655003	2026-08-08	greenhouse-api	Working Student Applied AI Solution Consulting (Nordics)	Celonis	added	Copenhagen, Denmark		2026-05-22			celonis
+https://traderepublic.com/en-de/about?jobId=6318622003&gh_jid=6318622003	2026-08-08	greenhouse-api	ML Platform Engineer (Berlin/London/Paris)	Trade Republic	added	Berlin; London; Paris		2025-01-10			trade republic
+https://careers.hellofresh.com/global/en/job/8105337?gh_jid=8105337	2026-08-08	greenhouse-api	Senior Product Manager II, Menu Planning (all genders)	HelloFresh	added	Berlin, Berlin, Germany		2026-08-07			hellofresh
+https://careers.hellofresh.com/global/en/job/8093756?gh_jid=8093756	2026-08-08	greenhouse-api	Senior Strategic Product Manager (M/F/X)	HelloFresh	added	Paris, Paris, France		2026-07-29			hellofresh
+https://sumup.com/careers/positions/8682238002?gh_jid=8682238002	2026-08-08	greenhouse-api	Backend Engineer (Golang) - Balance Management	SumUp	added	Berlin, Germany		2026-08-05			sumup
+https://sumup.com/careers/positions/8682293002?gh_jid=8682293002	2026-08-08	greenhouse-api	Backend Engineer - Money Transfers	SumUp	added	Berlin, Germany		2026-08-05			sumup
+https://sumup.com/careers/positions/8682251002?gh_jid=8682251002	2026-08-08	greenhouse-api	Backend Engineer - Transfers Gateway	SumUp	added	Berlin, Germany		2026-08-05			sumup
+https://sumup.com/careers/positions/8658169002?gh_jid=8658169002	2026-08-08	greenhouse-api	Customer Support Agent - Consumer Team	SumUp	added	Barcelona, Barcelona, Spain		2026-07-30			sumup
+https://wayve.firststage.co/jobs?gh_jid=8655859002	2026-08-08	greenhouse-api	Senior Machine Learning Engineer, AI Performance	Wayve	added	London		2026-08-04			wayve
+https://wayve.firststage.co/jobs?gh_jid=8642805002	2026-08-08	greenhouse-api	Staff ML Performance Engineer (Compiler)	Wayve	added	London		2026-08-04			wayve
+https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75	2026-08-08	ashby-api	Brand Designer, AI & Ops	Lovable	added	London · Stockholm · Sweden		2026-08-06			lovable
+https://jobs.ashbyhq.com/legora/d1c6f3d2-50d5-4787-ac21-5d8df0a6ddc2	2026-08-08	ashby-api	AI Adoption Manager - Communities	Legora	added	London		2026-07-30			legora
+https://jobs.ashbyhq.com/legora/34c4aecc-a808-480b-a585-61e489b0eac4	2026-08-08	ashby-api	Associate, Applied Research, AI Transformation	Legora	added	London		2026-08-04			legora
+https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0	2026-08-08	lever-api	Forward Deployed Software Engineer, New Grad - Commercial	Palantir	added	London, United Kingdom	4610df0707f337c6	2025-08-01			palantir
+https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a	2026-08-08	lever-api	Forward Deployed Software Engineer, New Grad - UK Government	Palantir	added	London, United Kingdom	4610ff0707d337c6	2021-07-01			palantir
+https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541	2026-08-08	ashby-api	AI Platform Engineer	Supabase	added	Remote		2026-07-31			supabase
+https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-co-founder-cco-100-remote-m-f-d-5243469993	2026-08-08	himalayas-api	AI Research Lab Co-Founder / CCO (100 % remote) (m/f/d)	EWOR GmbH	added			2026-08-08			ewor gmbh
+https://jobs.ashbyhq.com/lendable/461b6fda-d86a-49b4-b4be-1e916e94ab1f	2026-08-08	ashby-api	Senior Product Manager (Superapp)	Lendable	added	London		2026-03-17			lendable
+https://jobs.ashbyhq.com/lendable/e2de68f4-c6e1-4cad-94f0-7cfc444d16ab	2026-08-08	ashby-api	Product Manager - UK Cards	Lendable	added	London		2026-06-25			lendable
+https://jobs.ashbyhq.com/lendable/636b90ec-028d-461a-b358-c7b871918dd8	2026-08-08	ashby-api	Senior Product Manager - UK Cards	Lendable	added	London		2026-06-25			lendable
+https://jobs.ashbyhq.com/lendable/e972b604-832b-4726-9fbb-83d0dec4f1cf	2026-08-08	ashby-api	Graduate - Operations Transformation Associate	Lendable	added	London		2026-06-16			lendable
+https://jobs.ashbyhq.com/lendable/5f8011cc-25eb-4298-ab45-3c6586d07efb	2026-08-08	ashby-api	Product Manager (US Loans)	Lendable	added	London		2026-06-24			lendable
+https://jobs.ashbyhq.com/lendable/6981baa3-56a6-4e6c-8cc1-30603e2a1555	2026-08-08	ashby-api	Product Manager (UK Loans)	Lendable	added	London, United Kingdom		2026-08-04			lendable
+https://jobs.ashbyhq.com/lendable/93612ba5-fc02-4744-90a7-61fc7c3ac89c	2026-08-08	ashby-api	Data Engineer	Lendable	added	London		2026-08-06			lendable
+https://jobs.ashbyhq.com/lendable/d9effa9b-07c2-4075-a350-2f84fc580e8d	2026-08-08	ashby-api	Associate Product Manager	Lendable	added	London, United Kingdom		2026-08-06			lendable
+https://jobs.ashbyhq.com/lendable/50004e7b-3de1-4268-9359-3786db51d43f	2026-08-08	ashby-api	Technical Product Manager (Superapp)	Lendable	added	London		2026-08-07			lendable
+https://job-boards.greenhouse.io/monzo/jobs/6635595	2026-08-08	greenhouse-api	Backend Engineer III	Monzo	added	Cardiff, London or Remote (UK)		2025-02-17			monzo
+https://job-boards.greenhouse.io/monzo/jobs/8113842	2026-08-08	greenhouse-api	Senior Audit Transformation Lead	Monzo	added	London; Remote (UK)		2026-08-07			monzo
+https://job-boards.greenhouse.io/monzo/jobs/6635837	2026-08-08	greenhouse-api	Senior Backend Engineer	Monzo	added	Cardiff, London or Remote (UK)		2025-02-14			monzo
+https://job-boards.greenhouse.io/monzo/jobs/7622551	2026-08-08	greenhouse-api	Senior Product Manager, EU	Monzo	added	Barcelona; London		2026-03-02			monzo
+https://job-boards.greenhouse.io/monzo/jobs/7903411	2026-08-08	greenhouse-api	Senior Product Manager, FinCrime	Monzo	added	London		2026-05-11			monzo
+https://job-boards.greenhouse.io/monzo/jobs/6036797	2026-08-08	greenhouse-api	Senior Staff Backend Engineer	Monzo	added	Cardiff, London or Remote (UK)		2024-06-12			monzo
+https://job-boards.greenhouse.io/monzo/jobs/6636147	2026-08-08	greenhouse-api	Staff Backend Engineer	Monzo	added	Cardiff, London or Remote (UK)		2025-02-14			monzo
+https://jobs.ashbyhq.com/quantexa/b835b33f-a320-48b9-bf6b-e7c59cc87466	2026-08-08	ashby-api	Associate Data Engineer	Quantexa	added	London		2026-07-29			quantexa
+https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002	2026-08-08	greenhouse-api	Principal Data Engineer	ComplyAdvantage	added	London, England, United Kingdom		2026-06-03			complyadvantage
+https://complyadvantage.com/careers/jobs/8605499002?gh_jid=8605499002	2026-08-08	greenhouse-api	Product Manager - Data Ingestion	ComplyAdvantage	added	Lisbon, Portugal		2026-06-24			complyadvantage
+https://job-boards.greenhouse.io/gocardless/jobs/8064518	2026-08-08	greenhouse-api	Senior Product Manager	GoCardless	added	London, UK		2026-07-20			gocardless
+https://job-boards.eu.greenhouse.io/ebury/jobs/4906047101	2026-08-08	greenhouse-api	Full stack Engineer - AI	Ebury	added	London		2026-07-02			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4934580101	2026-08-08	greenhouse-api	FX Solution Product Manager - Maritime	Ebury	added	London		2026-07-22			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4876046101	2026-08-08	greenhouse-api	Mid-Full-Stack Engineer - AI Agent Platform	Ebury	added	London		2026-05-27			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4928717101	2026-08-08	greenhouse-api	Platform Engineer	Ebury	added	London		2026-07-22			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4942713101	2026-08-08	greenhouse-api	Senior Commercial Product Manager	Ebury	added	London		2026-07-31			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4876049101	2026-08-08	greenhouse-api	Senior Full-Stack Engineer - AI Agent Platform	Ebury	added	London		2026-05-27			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4935530101	2026-08-08	greenhouse-api	Senior Product Manager - Financial Crime (Fraud Prevention)	Ebury	added	London		2026-07-22			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4935531101	2026-08-08	greenhouse-api	Senior Product Manager - Financial Crime (KYC/KYB)	Ebury	added	London		2026-07-22			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4935527101	2026-08-08	greenhouse-api	(Senior) Product Manager - Financial Crime (Name & Payment Screening)	Ebury	added	London		2026-07-22			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4939731101	2026-08-08	greenhouse-api	Senior Product Manager - FX Products	Ebury	added	London		2026-07-28			ebury
+https://job-boards.eu.greenhouse.io/ebury/jobs/4947341101	2026-08-08	greenhouse-api	Staff Product Manager - API Connectivity	Ebury	added	London		2026-08-06			ebury
+https://jobs.ashbyhq.com/checkout.com/5e8d13b6-632c-41b0-bd5a-ce55143dd493	2026-08-08	ashby-api	Cloud Platform Engineer	Checkout.com	added	London		2026-04-16			checkout com
+https://jobs.ashbyhq.com/checkout.com/5f54ba43-5762-4402-a698-10a5598906d1	2026-08-08	ashby-api	Senior Product Manager, Disputes	Checkout.com	added	London		2026-07-28			checkout com
+https://jobs.ashbyhq.com/checkout.com/2ea119a0-49c8-489b-9c18-86cb31ed3708	2026-08-08	ashby-api	AI & Automation Specialist	Checkout.com	added	London		2026-06-05			checkout com
+https://jobs.ashbyhq.com/checkout.com/5b234d2d-e98b-4c9e-ae88-8e98a4e61fe9	2026-08-08	ashby-api	Product Manager, Vault & Forward API	Checkout.com	added	London		2026-08-04			checkout com
+https://jobs.ashbyhq.com/checkout.com/9b0c8785-6c02-4388-aa65-a2a45ab44969	2026-08-08	ashby-api	Forward Deployed AI Accelerator, Operations	Checkout.com	added	London		2026-06-11			checkout com
+https://jobs.ashbyhq.com/checkout.com/8e87f225-59e4-4ab1-befd-0f574c6b97c5	2026-08-08	ashby-api	Senior BigQuery Data Engineer	Checkout.com	added	London		2026-08-03			checkout com
+https://jobs.ashbyhq.com/checkout.com/d77b34ad-20f9-4926-a29e-493d4749a90f	2026-08-08	ashby-api	Staff AI/ML Engineer	Checkout.com	added	London		2026-07-16			checkout com
+https://jobs.ashbyhq.com/checkout.com/29b8378c-3cb6-430e-9a4f-1ec0615c65cd	2026-08-08	ashby-api	Senior Software Engineer, AI Centre of Excellence	Checkout.com	added	London		2026-07-21			checkout com
+https://jobs.ashbyhq.com/checkout.com/cf659680-f2b2-4d79-92aa-8b3be7719040	2026-08-08	ashby-api	Senior Product Manager, Fincrime	Checkout.com	added	London		2026-08-06			checkout com
+https://jobs.ashbyhq.com/checkout.com/61ed6dfb-780e-4ec1-86cc-2398ed0671ab	2026-08-08	ashby-api	Product Manager, Alternative Payment Methods	Checkout.com	added	London		2026-08-05			checkout com
+https://jobs.ashbyhq.com/checkout.com/ec22667a-971f-41ba-9cec-9eb45585ed87	2026-08-08	ashby-api	Product Manager, Payouts	Checkout.com	added	London		2026-08-05			checkout com
+https://jobs.ashbyhq.com/sardine/8940dcd3-1cb1-4c45-b162-34630ddb63a5	2026-08-08	ashby-api	Solutions Architect, Integrations (UK/EU)	Sardine	added	United Kingdom · Europe · Poland · Spain · Germany		2026-05-27			sardine
+https://jobs.ashbyhq.com/sardine/122f0715-0d0a-42b3-94f5-0a59d4169d69	2026-08-08	ashby-api	Software Backend Engineer	Sardine	added	India		2026-05-11			sardine
+https://job-boards.greenhouse.io/phonepe/jobs/7650503003	2026-08-08	greenhouse-api	AI Creative Lead	PhonePe	added	Bangalore		2026-03-06			phonepe
+https://job-boards.greenhouse.io/phonepe/jobs/7735150003	2026-08-08	greenhouse-api	AI Video Specialist	PhonePe	added	Bangalore		2026-05-21			phonepe
+https://job-boards.greenhouse.io/phonepe/jobs/7799414003	2026-08-08	greenhouse-api	Product Manager	PhonePe	added	Bengaluru, Karnataka		2026-07-30			phonepe
+https://job-boards.greenhouse.io/phonepe/jobs/7813734003	2026-08-08	greenhouse-api	Product Manager : Data Platform	PhonePe	added	Bangalore		2026-07-23			phonepe
+https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4718628005	2026-08-08	greenhouse-api	Associate Manager, Solutions Engineering	Razorpay	added	Bengaluru		2026-07-30			razorpay
+https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716555005	2026-08-08	greenhouse-api	Senior Product Manager	Razorpay	added	Bengaluru		2026-07-29			razorpay
+https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694507005	2026-08-08	greenhouse-api	Senior Product Manager (Growth)	Razorpay	added	Bengaluru		2026-05-18			razorpay
+https://jobs.lever.co/paytm/1bd21732-ce5b-4dc0-937f-c2a57e7007d2	2026-08-08	lever-api	Client Onboarding Director , Inference and Agentic AI	Paytm	added	Noida, Uttar Pradesh	4281afdd63e8aba3	2026-04-29			paytm
+https://jobs.lever.co/paytm/938856de-8b1d-4444-a2d2-f8188cb205bf	2026-08-08	lever-api	Client Onboarding Manager - Inference and Agentic AI	Paytm	added	Noida, Uttar Pradesh	f1089d13014a371a	2026-06-18			paytm
+https://jobs.lever.co/paytm/77e1e11f-744f-4f62-8c91-e59393db2208	2026-08-08	lever-api	Data Engineering - Technical Lead	Paytm	added	Noida, Uttar Pradesh	45ae37e795632210	2026-01-07			paytm
+https://jobs.lever.co/paytm/92b876ca-91cf-4ece-b2b7-2940ffda8dc9	2026-08-08	lever-api	Data Engineering - Senior / Lead Engineer	Paytm	added	Noida, Uttar Pradesh	576bce866367c2c2	2026-04-10			paytm
+https://jobs.lever.co/paytm/e5145511-6cbd-4168-a5ad-24bc925487db	2026-08-08	lever-api	Enterprise GTM Lead, Inference and Agentic AI	Paytm	added	Noida, Uttar Pradesh	40d72ddf716b28b3	2026-04-29			paytm
+https://jobs.lever.co/paytm/2f063321-7ad9-44b6-beab-b46a02073e7f	2026-08-08	lever-api	Marketing Director - Paytm(Agentic AI)	Paytm	added	Noida, Uttar Pradesh	e31b3bdf3b69a9a9	2026-06-11			paytm
+https://jobs.lever.co/paytm/e825fb5a-2ede-43ab-84dd-90e00dd9e954	2026-08-08	lever-api	Pre Sales - AI Solution Architect	Paytm	added	Noida, Uttar Pradesh	d9337bb78be71ba0	2026-07-02			paytm
+https://jobs.lever.co/paytm/e20a86ce-bf62-4fac-9d63-24364f69bd43	2026-08-08	lever-api	Presales Manager - Inference & Agentic AI - Paytm	Paytm	added	Noida, Uttar Pradesh	374dfbdce309522d	2026-06-12			paytm
+https://jobs.lever.co/paytm/a937e21d-fa41-48b5-bf67-e2e407388396	2026-08-08	lever-api	Product Management - Senior Product Manager - Travel	Paytm	added	Gurugram, Haryana	4533b222a860b321	2026-07-22			paytm
+https://jobs.lever.co/paytm/b507ffdc-510a-4384-949d-6324ed277ae2	2026-08-08	lever-api	Product Management - Associate Product Manager - Travel.	Paytm	added	Gurugram, Haryana	090bd46649573bba	2026-05-19			paytm
+https://jobs.lever.co/paytm/74c35d72-12a6-4b8a-ac4c-9d751ad8112a	2026-08-08	lever-api	Product Management - Manager- Lending (AI & Platform)	Paytm	added	Noida, Uttar Pradesh	818f91b59b731018	2026-06-17			paytm
+https://jobs.lever.co/paytm/3db438be-5917-4f31-96ca-f8e26f0ff5bc	2026-08-08	lever-api	Product Management - Product Growth Manager - Agent	Paytm	added	Bengaluru, Karnataka	450f66e6a1321298	2025-12-30			paytm
+https://jobs.lever.co/paytm/bcd1320b-72a8-47e1-a062-15241381fdb3	2026-08-08	lever-api	Product Management - Product Manager - Lending Platform	Paytm	added	Bangalore, Karnataka	05edb531fb7b4a3a	2026-04-17			paytm
+https://jobs.lever.co/paytm/d73b511b-ae92-46f0-9aa1-ac10f2fbb84a	2026-08-08	lever-api	Product Management - Product Manager - Paytm Money	Paytm	added	Bangalore, Karnataka	dca5d43781b79eb2	2025-12-02			paytm
+https://jobs.lever.co/paytm/dccfda94-a960-4cfc-85bd-f60c89e133b8	2026-08-08	lever-api	Product Management - Product Manager - Recharges & Utilities	Paytm	added	Noida, Uttar Pradesh	419fb4a380753002	2026-04-16			paytm
+https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734	2026-08-08	lever-api	Product Management - Senior Product Manager - Ads	Paytm	added	Bangalore, Karnataka	0b8b35b38be31011	2026-07-31			paytm
+https://jobs.lever.co/paytm/b909105c-269c-4726-b0af-f07ff2b2dd36	2026-08-08	lever-api	Product Management - Senior Product Manager - Agent & Merchant	Paytm	added	Bangalore, Karnataka	450f66f6e3723a99	2026-04-10			paytm
+https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b	2026-08-08	lever-api	Product Management - Senior Product Manager - Lending Platform	Paytm	added	Noida, Uttar Pradesh	45edb531cbfb083a	2026-04-04			paytm
+https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c	2026-08-08	lever-api	Product Management - Senior Product Manager - UPI Product	Paytm	added	Noida, Uttar Pradesh	4d8325b6a1e50032	2026-07-28			paytm
+https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0	2026-08-08	lever-api	Product Management - Senior Product Manager (Data Product) - PPSL	Paytm	added	Bengaluru, Karnataka	4214b3652fc82004	2026-06-23			paytm
+https://jobs.lever.co/paytm/255aa024-39ae-4f74-a62b-b062ec12db97	2026-08-08	lever-api	Product Management- Associate Product Manager- Lending	Paytm	added	Noida, Uttar Pradesh	07adb131a3ab3b38	2025-08-01			paytm
+https://jobs.lever.co/paytm/650d048f-1e1b-429b-96e0-e673c511cf9d	2026-08-08	lever-api	Product Management- Product Manager- Devices	Paytm	added	Noida, Uttar Pradesh	488bb076e1613688	2025-12-04			paytm
+https://jobs.lever.co/paytm/b0377ae2-3d60-4602-a021-d9fc0ee98906	2026-08-08	lever-api	Sales Operations Manager, Inference and Agentic AI	Paytm	added	Noida, Uttar Pradesh	a04f95c2306e1f97	2026-04-29			paytm
+https://jobs.smartrecruiters.com/Wise/744000142140579-principal-product-manager-money-laundering-detection	2026-08-08	smartrecruiters-api	Principal Product Manager - Money Laundering Detection	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000142123611-principal-product-manager-risk-control-governance	2026-08-08	smartrecruiters-api	Principal Product Manager - Risk & Control Governance	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000142091699-senior-ml-engineering-lead-financial-crime	2026-08-08	smartrecruiters-api	Senior ML Engineering Lead - Financial Crime	Wise	added	London, England, United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000141916207-data-engineering-manager-treasury-global-liquidity	2026-08-08	smartrecruiters-api	Data Engineering Manager - Treasury Global Liquidity	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000141872874-network-automation-engineer	2026-08-08	smartrecruiters-api	Network Automation Engineer	Wise	added	Hyderabad, , India					wise
+https://jobs.smartrecruiters.com/Wise/744000141745419-senior-data-engineer-i-scalable-growth	2026-08-08	smartrecruiters-api	Senior Data Engineer I - Scalable Growth	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000141685199-senior-data-engineer-ii-scalable-growth	2026-08-08	smartrecruiters-api	Senior Data Engineer II - Scalable Growth	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000141293240-solutions-engineering-lead	2026-08-08	smartrecruiters-api	Solutions Engineering Lead	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000141243734-principal-product-manager-apac-onboarding-kyc	2026-08-08	smartrecruiters-api	Principal Product Manager - APAC Onboarding & KYC	Wise	added	Hyderabad, , India					wise
+https://jobs.smartrecruiters.com/Wise/744000140854642-senior-product-manager-accounting-integrations-and-reporting	2026-08-08	smartrecruiters-api	Senior Product Manager - Accounting Integrations and Reporting	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000140853609-staff-ai-content-designer-fincrime	2026-08-08	smartrecruiters-api	Staff AI Content Designer, FinCrime	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000140633240-principal-ai-model-designer	2026-08-08	smartrecruiters-api	Principal AI Model Designer	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000140626109-senior-backend-engineer-payin-platform	2026-08-08	smartrecruiters-api	Senior Backend Engineer - Payin Platform	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000140434924-privacy-and-ai-counsel	2026-08-08	smartrecruiters-api	Privacy and AI Counsel	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000139212569-senior-backend-engineer	2026-08-08	smartrecruiters-api	Senior Backend Engineer	Wise	added	Hyderabad, , India					wise
+https://jobs.smartrecruiters.com/Wise/744000139133504-principal-product-manager-kyc-kyb	2026-08-08	smartrecruiters-api	Principal Product Manager - KYC/KYB	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000138789759-principal-product-manager-business-onboarding-verification	2026-08-08	smartrecruiters-api	Principal Product Manager - Business Onboarding Verification	Wise	added	Hyderabad, , India					wise
+https://jobs.smartrecruiters.com/Wise/744000138639253-lead-ml-engineer-scientist	2026-08-08	smartrecruiters-api	Lead ML Engineer / Scientist	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000138593452-backend-engineer-account-sharing	2026-08-08	smartrecruiters-api	Backend Engineer - Account Sharing	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000138152479-backend-engineer-for-acquiring-risk	2026-08-08	smartrecruiters-api	Backend Engineer for Acquiring Risk	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000137124218-product-manager-data-lake	2026-08-08	smartrecruiters-api	Product Manager - Data Lake	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000136744498-senior-data-engineer-ii-treasury-global-liquidity	2026-08-08	smartrecruiters-api	Senior Data Engineer II - Treasury Global Liquidity	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000136311941-senior-ml-platform-engineer-ii-financial-crime	2026-08-08	smartrecruiters-api	Senior ML Platform Engineer II - Financial Crime	Wise	added	London, England, United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000136212959-principal-product-manager-high-volume-servicing	2026-08-08	smartrecruiters-api	Principal Product Manager - High Volume Servicing	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000136166969-senior-solutions-engineer	2026-08-08	smartrecruiters-api	Senior Solutions Engineer	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000134975135-staff-backend-engineer-consumer-onboarding	2026-08-08	smartrecruiters-api	Staff Backend Engineer - Consumer Onboarding	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000133616975-principal-product-manager-customer-activation	2026-08-08	smartrecruiters-api	Principal Product Manager - Customer Activation	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000132869120-senior-principal-product-manager-accounting-infrastructure	2026-08-08	smartrecruiters-api	Senior/Principal Product Manager - Accounting Infrastructure	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000132644934-senior-backend-engineer-ii-europe-account	2026-08-08	smartrecruiters-api	Senior Backend Engineer II - Europe Account	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000132637552-senior-product-manager-marketing-platform	2026-08-08	smartrecruiters-api	Senior Product Manager - Marketing Platform	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000132465141-principal-product-manager-account-setup	2026-08-08	smartrecruiters-api	Principal Product Manager - Account Setup	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000121225672-staff-backend-engineer	2026-08-08	smartrecruiters-api	Staff Backend Engineer	Wise	added	Hyderabad, , India					wise
+https://english-stonex.icims.com/jobs/16348/ai-performance-media-associate/job	2026-08-08	icims-api	AI Performance Media Associate	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15513/technical-product-manager---market-data/job	2026-08-08	icims-api	Technical Product Manager - Market Data	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15470/mid-level-qa-automation-engineer/job	2026-08-08	icims-api	Mid level QA Automation Engineer	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15467/qa-automation-engineer-%e2%80%93-detox/job	2026-08-08	icims-api	QA Automation Engineer &ndash; Detox	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15449/automation-qa-engineer/job	2026-08-08	icims-api	Automation QA Engineer	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15443/qa-automation-engineer/job	2026-08-08	icims-api	QA Automation Engineer	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15394/kubernetes-platform-engineer-senior-staff-engineer/job	2026-08-08	icims-api	Kubernetes Platform Engineer/Senior Staff Engineer	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15289/ai-product-research-analyst/job	2026-08-08	icims-api	AI Product Research Analyst	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15277/senior-cloud-platform-engineer/job	2026-08-08	icims-api	Senior Cloud Platform Engineer	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/15068/lead---it-data-engineering-and-analytics/job	2026-08-08	icims-api	Lead - IT Data Engineering and Analytics	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/14781/senior-qa-automation-engineer/job	2026-08-08	icims-api	Senior QA Automation Engineer	StoneX Group	added						stonex
+https://weworkremotely.com/remote-jobs/crae-group-ltd-customer-support-agent-remote	2026-08-10	weworkremotely-api	Customer Support Agent (Remote)	CRAE GROUP LTD	added	Anywhere in the World		2025-12-05			crae
+https://jobicy.com/jobs/149058-google-ads-manager-ai-native	2026-08-10	jobicy-api	Google Ads Manager (AI Native)	Ruby Labs	added	Europe, Türkiye		2026-08-10			ruby labs
+https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence	2026-08-10	jobicy-api	QA Automation Lead [gn] Data Intelligence	Actian	added	Europe		2026-08-10			actian
+https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence	2026-08-10	jobicy-api	AI Enablement Lead [gn] Data Intelligence	Actian	added	Europe		2026-08-10			actian
+https://jobicy.com/jobs/149057-senior-site-reliability-engineer-hardware-automation	2026-08-10	jobicy-api	Senior Site Reliability Engineer (Hardware Automation)	Nebius	added	Europe, Netherlands		2026-08-10			nebius
+https://jobicy.com/jobs/145652-senior-product-manager-smart-metering-steering-m-f-d	2026-08-10	jobicy-api	(Senior) Product Manager Smart Metering & Steering (m/f/d)	1KOMMA5°	added	Germany		2026-08-09			1komma5
+https://boomi.com/boomi-jobs/?gh_jid=6135436004	2026-08-10	greenhouse-api	Endpoint management and IT Automation - Advisor i7 - IT Infrastructure	Boomi	added	India		2026-08-10			boomi
+https://jobs.ashbyhq.com/DeepL/fb25de9d-3b6f-4c5f-8b33-41aba66ba997	2026-08-10	ashby-api	Staff Platform Engineer	DeepL	added	London		2026-08-08			deepl
+https://careers.hellofresh.com/global/en/job/8111616?gh_jid=8111616	2026-08-10	greenhouse-api	Senior Marketing Automation Engineer (all genders)	HelloFresh	added	Berlin, Berlin, Germany		2026-08-10			hellofresh
+https://careers.hellofresh.com/global/en/job/8095950?gh_jid=8095950	2026-08-10	greenhouse-api	Senior Product Manager, Intelligent Platforms (m/f/x)	HelloFresh	added	Berlin, Berlin, Germany		2026-08-10			hellofresh
+https://sumup.com/careers/positions/8645259002?gh_jid=8645259002	2026-08-10	greenhouse-api	Backend Engineer - Risk&Compliance	SumUp	added	Berlin, Germany		2026-08-10			sumup
+https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961	2026-08-10	ashby-api	Forward Deployed Engineer	Faculty	added	UK - London		2026-08-10			faculty
+https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8	2026-08-10	ashby-api	Senior Forward Deployed Engineer	Faculty	added	UK - London		2026-08-10			faculty
+https://job-boards.greenhouse.io/monzo/jobs/8119265	2026-08-10	greenhouse-api	Platform Engineer	Monzo	added	Cardiff, London or Remote (UK)		2026-08-10			monzo
+https://jobs.smartrecruiters.com/Wise/744000142702437-senior-technical-product-manager-api-experience	2026-08-10	smartrecruiters-api	Senior Technical Product Manager - API Experience	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000142590814-ml-engineer-statistical-integrity-financial-crime	2026-08-10	smartrecruiters-api	ML Engineer - Statistical Integrity (Financial Crime)	Wise	added	London, , United Kingdom					wise
+https://jobs.ashbyhq.com/lendable/10178808-a3e2-428c-92b2-88cc001223f2	2026-08-10	ashby-api	Senior Quality Engineer - AI	Lendable	added	London		2026-08-08			lendable
+https://jobs.ashbyhq.com/lendable/8cbe2dc4-e746-4565-9c4e-2eda086057da	2026-08-10	ashby-api	Senior AI Quality Engineer	Lendable	added	London		2026-08-08			lendable
+https://jobs.smartrecruiters.com/Swiggy/6000000001300520-senior-product-manager	2026-08-10	smartrecruiters-api	Senior Product Manager	Swiggy	added	Bengaluru, KA, India					swiggy
+https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/ML-Ops---Data-Engineer_CMC5104	2026-08-10	workday-api	ML Ops Engineer	CMC Markets	added	2 Locations					cmc markets
+https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/Security-Platform-Engineering-Manager_CMC5213	2026-08-10	workday-api	Security Platform Engineering Manager	CMC Markets	added	London					cmc markets
+https://jobs.lever.co/meesho/b50e3cdc-439d-467c-8e4d-a87d339c4974	2026-08-10	lever-api	Associate Director - Sort center Design & Operations – Sort Center Automation​	Meesho	added	Bangalore, Karnataka	1ee5e27c51ac436c	2025-04-02			meesho
+https://jobs.lever.co/meesho/fe839191-1761-4094-9d3c-4d554904b84d	2026-08-10	lever-api	Automation engineer (Warehouse Automation)	Meesho	added	Bangalore, Karnataka	6ec0f12fcff6dc42	2025-10-14			meesho
+https://jobs.lever.co/meesho/a1cc7ad9-a233-4ba6-b53b-e56116f6ac27	2026-08-10	lever-api	Engineering Manager – AI Engineering	Meesho	added	Bangalore, Karnataka	4bed1f1c9335ece6	2026-07-31			meesho
+https://jobs.lever.co/meesho/fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a	2026-08-10	lever-api	Forward Deployed Engineer - II	Meesho	added	Bangalore, Karnataka	8dca1c53daea4280	2026-04-06			meesho
+https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a	2026-08-10	lever-api	Group Product Manager	Meesho	added	Bangalore, Karnataka	5bcc453bf6a1ae9a	2026-06-29			meesho
+https://jobs.lever.co/meesho/122c2edd-ea44-41fd-a06f-ecc79588f6c6	2026-08-10	lever-api	GTM & Enterprise Sales Consultant – Meesho AI Services (MAS)	Meesho	added	Mumbai, Maharashtra	8ae5c39992f70928	2026-07-01			meesho
+https://jobs.lever.co/meesho/c49e13f6-f027-42f3-98b5-745d83997cbf	2026-08-10	lever-api	GTM Engineer – Meesho AI Services (MAS)	Meesho	added	Bangalore, Karnataka	1c3bac145baa7f57	2026-06-18			meesho
+https://jobs.lever.co/meesho/f2de8c5f-1636-428d-aaea-af1400142975	2026-08-10	lever-api	Security Architect - AI-Powered Security Engineering	Meesho	added	Bangalore, Karnataka	c2d5f3fe7d9cb970	2026-06-18			meesho
+https://careers.google.com/jobs/results/127611895480754886-staff-software-engineer-aiml-genai-google-ads	2026-08-10	local-parser	Staff Software Engineer, AI/ML GenAI, Google Ads	Google	added	Bengaluru, Karnataka, India					google
+https://careers.google.com/jobs/results/127602843300307654-software-engineer-aiml-phd-early-career-2026	2026-08-10	local-parser	Software Engineer, AI/ML, PhD, Early Career, 2026	Google	added	Bengaluru, Karnataka, India					google
+https://careers.google.com/jobs/results/99011220777902790-software-engineer-iii-aiml-infrastructure-performance-engineering	2026-08-10	local-parser	Software Engineer III, AI/ML Infrastructure, Performance Engineering	Google	added	Bengaluru, Karnataka, India					google
+https://careers.google.com/jobs/results/80230052494484166-staff-software-engineer-ai-garage	2026-08-10	local-parser	Staff Software Engineer, AI Garage	Google	added	Hyderabad, Telangana, India					google
+https://english-stonex.icims.com/jobs/14979/ai-ux-researcher/job	2026-08-10	icims-api	AI UX Researcher	StoneX Group	added						stonex
+https://apply.careers.microsoft.com/careers/job/1970393556953173	2026-08-10	local-parser	Solution Engineering Cloud & AI Apps	Microsoft	added	India, Maharashtra, Mumbai					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556864628	2026-08-10	local-parser	Principal Consultant, AI Business Solutions	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556864918	2026-08-10	local-parser	Consultant - Dotnet Full Stack + AI	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556947397	2026-08-10	local-parser	Consultant - Data Engineer + AI	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556942186	2026-08-10	local-parser	Principal Applied Scientist- Foundation Models, Agents & Decision Intelligence	Microsoft	added	India, Karnataka, Bangalore					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556864914	2026-08-10	local-parser	Senior Consultant - Data & AI	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556864904	2026-08-10	local-parser	Senior Consultant Apps - (AI + Full stack )	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556913271	2026-08-10	local-parser	Principal Software Engineering Manager | Ads Trust & Safety AI Platform	Microsoft	added	India, Karnataka, Bangalore					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556853272	2026-08-10	local-parser	ML - Principal Software Engineer	Microsoft	added	India, Telangana, Hyderabad					microsoft
+https://himalayas.app/companies/resourceful-talent-group/jobs/product-manager	2026-08-15	himalayas-api	Product Manager	Resourceful Talent Group	added			2026-08-15			resourceful talent
+https://job-boards.greenhouse.io/intercom/jobs/8090570	2026-08-15	greenhouse-api	Senior Product Manager, Messenger	Intercom	added	Dublin, Ireland		2026-07-28			intercom
+https://job-boards.greenhouse.io/anthropic/jobs/5385634008	2026-08-15	greenhouse-api	Manager, Forward Deployed Engineering	Anthropic	added	London, UK		2026-08-13			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5230394008	2026-08-15	greenhouse-api	Staff+ Site Reliability Engineer, Safeguards ML Infra	Anthropic	added	Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY		2026-08-11			anthropic
+https://jobs.ashbyhq.com/elevenlabs/38e0b741-5bfa-4481-891e-e95b503d4aff	2026-08-15	ashby-api	Forward Deployed Engineer - Software Engineer - France	ElevenLabs	added	France		2026-08-10			elevenlabs
+https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394	2026-08-15	ashby-api	Forward Deployed Engineer - Software Engineer - Netherlands	ElevenLabs	added	Netherlands		2026-08-10			elevenlabs
+https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c	2026-08-15	ashby-api	Enterprise Solutions Engineer - Sweden	ElevenLabs	added	Sweden		2026-08-10			elevenlabs
+https://jobs.ashbyhq.com/elevenlabs/c6fc071f-c80e-4d3b-921a-3ec02a2ad25d	2026-08-15	ashby-api	Forward Deployed Engineer - Software Engineer - Sweden	ElevenLabs	added	Sweden		2026-08-10			elevenlabs
+https://jobs.ashbyhq.com/elevenlabs/33bb01d0-993c-47fa-ae91-81c0c84f367e	2026-08-15	ashby-api	Product Marketing - Agents - Government	ElevenLabs	added	United Kingdom · Dublin · Ireland · Tokyo · Japan · Warsaw · Poland · London · San Francisco · United States		2026-08-12			elevenlabs
+https://ats.rippling.com/rippling/jobs/a91be8b6-be18-4fad-9738-5b5f40bd14f4	2026-08-15	rippling-api	Software Engineer II (AI Governance)	Rippling	added	Bangalore, India					rippling
+https://coreweave.com/careers/job?4683042006&board=coreweave&gh_jid=4683042006	2026-08-15	greenhouse-api	Staff Business Systems Engineer – Vertex Tax Systems	Weights & Biases (CoreWeave)	added	Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Remote		2026-05-20			weights and biases
+https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d	2026-08-15	ashby-api	Forward Deployed Infrastructure Engineer (Spanish speaking)	Sierra	added	London		2026-08-11			sierra
+https://job-boards.greenhouse.io/gleanwork/jobs/4722386005	2026-08-15	greenhouse-api	Strategic Solutions Engineer	Glean	added	Remote · Mountain View, CA (HQ)		2026-08-07			glean
+https://jobs.ashbyhq.com/decagon/9686ca93-1073-48f1-bc2a-af241eba83d1	2026-08-15	ashby-api	Director of Solutions Engineering - EMEA Enterprise	Decagon	added	London		2026-08-13			decagon
+https://jobs.ashbyhq.com/decagon/ab6a5dac-d63b-4862-bc12-c5c9525b6f8b	2026-08-15	ashby-api	Director of Solutions Engineering - EMEA Strat	Decagon	added	London		2026-08-13			decagon
+https://jobicy.com/jobs/146023-senior-product-manager-remote-build	2026-08-15	jobicy-api	Senior Product Manager, Remote Build	Remote	added	EMEA		2026-08-15			remote
+https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2	2026-08-15	jobicy-api	Python & React Engineer with AI (Remote, Latam)	Kubikware	added	LATAM		2026-08-15			kubikware
+https://jobicy.com/jobs/146232-lead-data-platform-engineer	2026-08-15	jobicy-api	Lead Data Platform Engineer	saas.group	added	Europe		2026-08-15			saas
+https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47	2026-08-15	ashby-api	Staff Core Platform Engineer	n8n	added	Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · Finland · Albania · Lithuania · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Georgia · United States · United Kingdom · Croatia · Spain · Greece		2026-08-11			n8n
+https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594	2026-08-15	remoteok-api	Senior Data Engineer	Lemon.io	added						lemon io
+https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576	2026-08-15	remoteok-api	Tunnel Agent	Skanska Costain STRABAG Joint Venture	added	London,					skanska costain strabag joint venture
+https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585	2026-08-15	remoteok-api	Sub Agent	Skanska Costain STRABAG Joint Venture	added	London,					skanska costain strabag joint venture
+https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0	2026-08-15	ashby-api	Member of Technical Staff, Agentic Environments	Cohere	added	Europe · Canada · New York · United States		2026-08-13			cohere
+https://job-boards.greenhouse.io/celonis/jobs/6672115003?gh_jid=6672115003	2026-08-15	greenhouse-api	Lead AI Deployment Architect	Celonis	added	Madrid, Spain		2026-02-04			celonis
+https://job-boards.greenhouse.io/celonis/jobs/7805685003?gh_jid=7805685003	2026-08-15	greenhouse-api	Sr. Frontend Software Engineer - Orchestration and Automation	Celonis	added	Madrid, Spain		2026-08-13			celonis
+https://careers.hellofresh.com/global/en/job/8102836?gh_jid=8102836	2026-08-15	greenhouse-api	Director of Engineering, GenAI Enablement Tribe	HelloFresh	added	Berlin, Berlin, Germany		2026-08-12			hellofresh
+https://careers.hellofresh.com/global/en/job/8125805?gh_jid=8125805	2026-08-15	greenhouse-api	Senior AI Solutions Engineer, GenAI Enablement (all genders)	HelloFresh	added	Berlin, Berlin, Germany		2026-08-12			hellofresh
+https://careers.hellofresh.com/global/en/job/8119658?gh_jid=8119658	2026-08-15	greenhouse-api	Senior Forward Deployed Engineer, Intelligent Platforms Alliance (all genders)	HelloFresh	added	Berlin, Berlin, Germany		2026-08-12			hellofresh
+https://careers.hellofresh.com/global/en/job/8025707?gh_jid=8025707	2026-08-15	greenhouse-api	Senior Product Manager	HelloFresh	added	Dublin, Dublin, Ireland		2026-06-26			hellofresh
+https://sumup.com/careers/positions/8518456002?gh_jid=8518456002	2026-08-15	greenhouse-api	Backend Engineer (Node.js)	SumUp	added	Copenhagen, Denmark		2026-04-22			sumup
+https://wayve.firststage.co/jobs?gh_jid=8693131002	2026-08-15	greenhouse-api	Customer Integration Engineer	Wayve	added	Germany		2026-08-11			wayve
+https://wayve.firststage.co/jobs?gh_jid=8702742002	2026-08-15	greenhouse-api	Product Manager, AI Driver	Wayve	added	Germany		2026-08-14			wayve
+https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd	2026-08-15	ashby-api	Research Scientist - AI Safety	Faculty	added	UK - London		2026-08-06			faculty
+https://job-boards.greenhouse.io/isomorphiclabs/jobs/6144041004	2026-08-15	greenhouse-api	Integration Engineer (Third Party Systems), London	Isomorphic Labs	added	London		2026-08-14			isomorphic labs
+https://jobs.ashbyhq.com/lendable/2055ce73-804a-4399-9bfe-482658e25007	2026-08-15	ashby-api	Staff AI Engineer	Lendable	added	London		2026-08-12			lendable
+https://job-boards.greenhouse.io/monzo/jobs/7995037	2026-08-15	greenhouse-api	Senior Product Manager, Business Banking	Monzo	added	London		2026-06-10			monzo
+https://job-boards.greenhouse.io/monzo/jobs/8127822	2026-08-15	greenhouse-api	Senior Product Manager - Growth	Monzo	added	London		2026-08-13			monzo
+https://job-boards.greenhouse.io/monzo/jobs/8108738	2026-08-15	greenhouse-api	Senior Product Manager, Subscriptions	Monzo	added	London		2026-08-07			monzo
+https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e	2026-08-15	lever-api	Principal Product Manager – Content Platform	Spotify	added	London		2026-08-07			spotify
+https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4723067005	2026-08-15	greenhouse-api	Forward Deployed Engineer	Razorpay	added	Bengaluru		2026-08-14			razorpay
+https://jobs.lever.co/paytm/c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f	2026-08-15	lever-api	Product Management - Product Manager - UPI	Paytm	added	Noida, Uttar Pradesh	25494526a381ad39	2026-08-14			paytm
+https://jobs.lever.co/paytm/197c1f16-647f-4b01-9b1b-f8b12cbec664	2026-08-15	lever-api	Product Management - Senior Product Manager - Futures & Options (F&O) / Derivatives	Paytm	added	Bangalore, Karnataka	c4a70537a925ce82	2026-08-12			paytm
+https://jobs.lever.co/paytm/8a02d449-de17-4e37-823d-8911dc5663e7	2026-08-15	lever-api	Product Management - Senior Product Manager - Paytm Money (Mutual Funds)	Paytm	added	Bangalore, Karnataka	d4b5d4b72bd9fe9a	2026-08-11			paytm
+https://jobs.smartrecruiters.com/Wise/744000143326280-senior-technical-product-manager-api-experience-security	2026-08-15	smartrecruiters-api	Senior Technical Product Manager - API Experience & Security	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000143168697-senior-network-automation-engineer	2026-08-15	smartrecruiters-api	Senior Network Automation Engineer	Wise	added	Hyderabad, , India					wise
+https://jobs.smartrecruiters.com/Wise/744000143138459-principal-product-manager-money-laundering-prevention	2026-08-15	smartrecruiters-api	Principal Product Manager - Money Laundering Prevention	Wise	added	London, England, United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000143048065-principal-product-manager-risk-assessment-platform	2026-08-15	smartrecruiters-api	Principal Product Manager - Risk Assessment Platform	Wise	added	London, , United Kingdom					wise
+https://jobs.smartrecruiters.com/Wise/744000142955809-senior-product-manager-servicing-platform-behaviour-identity-linking	2026-08-15	smartrecruiters-api	Senior Product Manager - Servicing Platform - behaviour & Identity Linking	Wise	added	London, England, United Kingdom					wise
+https://jobs.smartrecruiters.com/Swiggy/6000000001317052-product-manager-ii	2026-08-15	smartrecruiters-api	Product Manager II	Swiggy	added	Bengaluru, KA, India					swiggy
+https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544	2026-08-15	lever-api	Product Manager I (Platform)	Meesho	added	Bangalore, Karnataka	36ad8a268c05f3ce	2026-08-07			meesho
+https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354	2026-08-15	lever-api	Product Manager II - Growth	Meesho	added	Bangalore, Karnataka	73cd4c1ff7b992c0	2026-02-27			meesho
+https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7	2026-08-15	lever-api	Senior Product Manager	Meesho	added	Bangalore, Karnataka	73cd481ff7b89ac3	2026-08-12			meesho
+https://english-stonex.icims.com/jobs/15278/senior-platform-engineer-%28k8%27s%29/job	2026-08-15	icims-api	Senior Platform Engineer (K8's)	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/14947/senior-platform-engineer/job	2026-08-15	icims-api	Senior Platform Engineer	StoneX Group	added						stonex
+https://www.tecnoempleo.com/forward-deployed-ai-engineer-f-m-d-axpo-group/python-llm/rf-fe041fd0e22293aec149	2026-08-15	websearch	Forward Deployed AI Engineer (f/m/d)	Axpo	added	Madrid, Spain		2026-07	
+https://www.tecnoempleo.com/ai-architect-engineer-accenture/ai-agents-anthropic/rf-68e1117c12bec3887d4a	2026-08-15	websearch	AI Architect Engineer	Accenture	added	Spain		2026-07	
+https://www.tecnoempleo.com/principal-ai-engineer-ai-solutions-astrazeneca/rag-llm/rf-4866140c22d2f3026841	2026-08-15	websearch	Principal AI Engineer - AI Solutions	AstraZeneca	added	Barcelona, Spain		2026-07	
+https://www.tecnoempleo.com/ai-native-manager-accenture/langgraph-crewai/rf-a4f41899e26c1361364b	2026-08-15	websearch	AI Native Manager	Accenture	added	Málaga, Spain		2026-07	
+https://jobfluent.com/jobs/ai-architect-hands-on-madrid-3d6dcd	2026-08-15	websearch	AI Architect (Hands-on)	Sngular	added	Madrid, Spain		2026-07	
+https://www.welcometothejungle.com/en/companies/workato/jobs/staff-ai-engineer_barcelona_ci2abons	2026-08-15	websearch	Staff AI Engineer	Workato	added	Barcelona, Spain		2026-07	
+https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/software-solutions-architect_madrid	2026-08-15	websearch	Software Solutions Architect	NTT DATA	added	Madrid, Spain		2026-07	
+https://www.welcometothejungle.com/en/companies/bizaway/jobs/solutions-architect_barcelona_udvrjsyt	2026-08-15	websearch	Solutions Architect	BizAway	added	Barcelona, Spain		2026-07	
+https://app.welcometothejungle.com/jobs/Stjkm4SG	2026-08-15	websearch	Senior/Lead AI Engineer	Aily Labs	added	Barcelona / Munich / Madrid		2026-07	
+https://app.welcometothejungle.com/jobs/wFQJiQFM	2026-08-15	websearch	Principal/Senior AI Engineer	Aily Labs	added	Barcelona / Munich / Madrid		2026-07	
+https://news.ycombinator.com/item?id=48357778	2026-08-15	websearch	Forward Deployed Engineers	PostHog	added	Remote (EMEA)		2026-07	
+https://news.ycombinator.com/item?id=48760654	2026-08-15	websearch	Founding Full-stack / AI Engineer	Logen.io	added	Bengaluru, India (Remote)		2026-07	
+https://cutshort.io/job/AI-Engineer-Apprication-3Zr13gt9	2026-08-15	websearch	AI Engineer	Apprication	added	Mumbai / Bengaluru		2026-07	
+https://cutshort.io/job/SDE-III-AI-and-Backend-Aasthix-Talent-tBJg0hmZ	2026-08-15	websearch	Senior Software Engineer (SDE III) - AI & Backend	Healthcare AI	added	Bengaluru, India		2026-07	
+https://cutshort.io/job/AI-Engineer-BigRio-L3umTsst	2026-08-15	websearch	AI Engineer	BigRio	added	Chennai, India		2026-07	
+https://cutshort.io/job/Senior-AI-Engineer-Bengaluru-Bangalore-GetSetYo-Technology-Labs-Private-Limited-8nzB9fIp	2026-08-15	websearch	Senior AI Engineer	GetSetYo	added	Bengaluru, India		2026-07	
+https://cutshort.io/job/AI-ML-Engineer-Pune-Vijay-Sales-o8MW1Lc9	2026-08-15	websearch	AI/ML Engineer	Vijay Sales	added	Pune, India		2026-07	
+https://wellfound.com/jobs/4493158-ai-backend-engineer	2026-08-15	websearch	AI Backend Engineer	LearnTube.ai	added	Mumbai / Remote		2026-07	
+https://wellfound.com/jobs/3813457-senior-data-engineer-with-ai-ml-experience-india	2026-08-15	websearch	Senior Data Engineer (AI/ML experience) India	IDT	added	Pune / Remote (India)		2026-07	
+https://wellfound.com/jobs/4420282-machine-learning-engineer	2026-08-15	websearch	Machine Learning Engineer	Xipper	added	India (Remote)		2026-07	
+https://wellfound.com/jobs/4192022-senior-machine-learning-engineer	2026-08-15	websearch	Senior Machine Learning Engineer	HackerRank	added	Remote		2026-07	
+https://wellfound.com/jobs/3244716-machine-learning-engineer	2026-08-15	websearch	Machine Learning Engineer	Uniblox	added	India (Remote)		2026-07	
+https://weworkremotely.com/remote-jobs/gitlab-ai-engineer	2026-08-15	websearch	AI Engineer	GitLab	added	Remote (Anywhere in the World)		2026-07	
+https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-ai-engineer	2026-08-15	websearch	Senior Full Stack AI Engineer	Toptal	added	Remote (Anywhere in the World)		2026-07	
+https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer	2026-08-15	websearch	Full Stack AI Engineer	Reveleer	added	Remote (Anywhere in the World)		2026-07	
+https://eudatajobs.com/jobs/d/mlt9ssclotr2ar5p3p	2026-08-15	websearch	Applied AI Engineer	Shopware	skipped_expired	Remote (Europe)		2026-07	
+https://eudatajobs.com/jobs/d/mpzexzhtzx63245k9y	2026-08-15	websearch	Machine Learning Engineer	MailerLite	skipped_expired	Remote (Europe)		2026-07	
+https://himalayas.app/companies/mercor/jobs/ai-research-expert-fully-remote-upto-145-hr-2776067645	2026-08-15	himalayas-api	AI Research Expert - Fully Remote | Upto $145/hr	mercor	added	Germany		2026-08-15			mercor
+https://job-boards.greenhouse.io/tide/jobs/7863571003	2026-08-15	greenhouse-api	Senior Product Manager, Ongoing Monitoring	Tide	added	United Kingdom		2026-08-13			tide
+https://job-boards.greenhouse.io/tide/jobs/7703992003	2026-08-15	greenhouse-api	Senior Staff Software Engineer, Agentic Platform	Tide	added	Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom		2026-04-17			tide
+https://job-boards.greenhouse.io/tide/jobs/7703991003	2026-08-15	greenhouse-api	Staff Software Engineer, Agentic Platform	Tide	added	Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom		2026-04-17			tide
+https://jobs.ashbyhq.com/plaid/8b81429d-f0e8-4b84-9f71-d25405e63d71	2026-08-15	ashby-api	Staff Product Manager - AI Foundations	Plaid	added	San Francisco HQ · New York City Office · Remote · United States		2026-04-24			plaid
+https://jobs.ashbyhq.com/plaid/29d1f5fc-d986-4a5d-9c42-0c05d9326f9d	2026-08-15	ashby-api	Product Manager - Europe	Plaid	added	London Office		2026-04-28			plaid
+https://job-boards.greenhouse.io/cleo/jobs/4664509005	2026-08-15	greenhouse-api	Product Manager	Cleo	added	Remote - USA		2026-02-24			cleo
+https://apply.workable.com/j/5D5584B013	2026-08-15	workable-api	Software Engineer (ML Projects)	Starling Bank	added	London, United Kingdom	73413df944a7613d	2026-04-21			starling bank
+https://jobs.smartrecruiters.com/Wise/744000143359209-senior-java-software-engineer-platform-engineering	2026-08-15	smartrecruiters-api	Senior Java Software Engineer- Platform Engineering	Wise	added	London, , United Kingdom					wise
+https://job-boards.greenhouse.io/adyen/jobs/8041307	2026-08-15	greenhouse-api	Senior Backend Engineer (Java)	Adyen	added	Bengaluru		2026-07-15			adyen
+https://jobicy.com/jobs/150775-staff-platform-engineer-2	2026-08-15	jobicy-api	Staff Platform Engineer	OpenSea	added	Europe, USA		2026-08-15			opensea
+https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones	2026-08-15	jobicy-api	AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)	Udacity	added	APAC, EMEA, Canada, Europe, USA		2026-08-15			udacity
+https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones	2026-08-15	jobicy-api	Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)	Udacity	added	APAC, Canada, Europe, USA		2026-08-15			udacity
+https://jobicy.com/jobs/150740-senior-product-manager-customer-insights	2026-08-15	jobicy-api	Senior Product Manager, Customer Insights	Mural	added	Canada, UK, USA		2026-08-15			mural
+https://himalayas.app/companies/mercor/jobs/data-scientist-ai-evaluation	2026-08-15	himalayas-api	Data Scientist - AI Evaluation	mercor	added	Germany		2026-08-15			mercor
+https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us	2026-08-19	jobicy-api	Technical Product Marketer, k0rdent AI - remote in the US	Mirantis	added	USA		2026-08-19			mirantis
+https://job-boards.greenhouse.io/intercom/jobs/5298461	2026-08-19	greenhouse-api	Engineering Manager - AI Helpdesk	Intercom	added	Dublin, Ireland		2023-08-15			intercom
+https://job-boards.greenhouse.io/intercom/jobs/8132076	2026-08-19	greenhouse-api	Staff Data Engineer - GTM	Intercom	added	Dublin, Ireland; London, England		2026-08-18			intercom
+https://job-boards.greenhouse.io/anthropic/jobs/5390787008	2026-08-19	greenhouse-api	Applied AI Architect, Partnerships	Anthropic	added	Paris, France		2026-08-17			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5390795008	2026-08-19	greenhouse-api	Applied AI Engineer, Enterprise	Anthropic	added	Munich, Germany		2026-08-19			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5391021008	2026-08-19	greenhouse-api	Forward Deployed Engineer	Anthropic	added	Paris, France		2026-08-17			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5250426008	2026-08-19	greenhouse-api	Head of Treasury Strategy & Transformation	Anthropic	added	Remote-Friendly (Travel Required) | San Francisco, CA		2026-06-08			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5390746008	2026-08-19	greenhouse-api	[India] Solutions Architect, Applied AI	Anthropic	added	Bangalore, India		2026-08-17			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5390750008	2026-08-19	greenhouse-api	Partner Solutions Architect,Applied AI	Anthropic	added	Bangalore, India		2026-08-19			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5393452008	2026-08-19	greenhouse-api	Product Manager, Public Sector	Anthropic	added	Remote-Friendly (Travel-Required) | Washington, DC		2026-08-19			anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5247989008	2026-08-19	greenhouse-api	Solution Architect, Applied AI	Anthropic	added	Mumbai, India		2026-08-19			anthropic
+https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a	2026-08-19	ashby-api	Forward Deployed Engineer - Software Engineer - Germany	ElevenLabs	added	Germany		2026-08-17			elevenlabs
+https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165	2026-08-19	ashby-api	Forward Deployed Engineer - Software Engineer - Denmark	ElevenLabs	added	Denmark		2026-08-17			elevenlabs
+https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05	2026-08-19	ashby-api	Forward Deployed Engineer - Software Engineer - Switzerland	ElevenLabs	added	Switzerland		2026-08-17			elevenlabs
+https://jobs.ashbyhq.com/cohere/8ac3ed85-e315-443b-bc13-e7a0b900b922	2026-08-19	ashby-api	Global Public Policy Manager, Compute, Infrastructure & Sovereign AI	Cohere	added	United States · Europe · European Union · Canada		2026-08-06			cohere
+https://jobs.ashbyhq.com/cohere/24cdb030-3913-4c38-a7db-8f31c3c91ee6	2026-08-19	ashby-api	Forward Deployed Engineer, Infrastructure Specialist (France)	Cohere	added	France · Europe · European Union · Munich · Germany · Paris		2026-08-19			cohere
+https://job-boards.greenhouse.io/gleanwork/jobs/4712434005	2026-08-19	greenhouse-api	Software Engineer, Agents Governance	Glean	added	Bangalore, India		2026-07-09			glean
+https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860	2026-08-19	remoteok-api	Principal Data Engineer	Vomela	added						vomela
+https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003	2026-08-19	greenhouse-api	AI Engineer - Quality	Celonis	added	Bangalore, India		2026-08-18			celonis
+https://careers.hellofresh.com/global/en/job/8138653?gh_jid=8138653	2026-08-19	greenhouse-api	Second Line Support Agent (f/m/x)	HelloFresh	added	Amsterdam, North Holland, Netherlands		2026-08-18			hellofresh
+https://sumup.com/careers/positions/8675692002?gh_jid=8675692002	2026-08-19	greenhouse-api	Collections Agent - Lending	SumUp	added	Berlin, Germany		2026-08-19			sumup
+https://sumup.com/careers/positions/8644922002?gh_jid=8644922002	2026-08-19	greenhouse-api	Senior Backend Engineer - MarTech	SumUp	added	Berlin, Germany		2026-08-19			sumup
+https://jobs.ashbyhq.com/synthesia/85e7b0df-f603-416b-a7bd-3331b6576186	2026-08-19	ashby-api	Product Manager, Growth (Senior/Staff-level)	Synthesia	added	Europe · London · United Kingdom		2026-08-17			synthesia
+https://jobs.ashbyhq.com/lovable/59d85cf1-104b-48cb-956c-bed73ef934c9	2026-08-19	ashby-api	AI Research Engineer, Post-Training	Lovable	added	Stockholm · London · United Kingdom		2026-04-28			lovable
+https://jobs.lever.co/pigment/abde6aa1-a569-4700-998b-152187e2721b	2026-08-19	lever-api	Optimisation AI Scientist	Pigment	added	London or Paris	8fb4e705710a7e32	2026-07-22			pigment
+https://job-boards.eu.greenhouse.io/ebury/jobs/4955327101	2026-08-19	greenhouse-api	Senior FX Product Manager - Hedging Conversion	Ebury	added	London		2026-08-18			ebury
+https://jobs.ashbyhq.com/lendable/bd20e1a3-bc89-41f4-a0ad-faa2496b707f	2026-08-19	ashby-api	Senior Product Engineer (Product Manager)	Lendable	added	London		2026-08-17			lendable
+https://jobs.lever.co/spotify/c3f6ea23-97d0-4a9a-a9ad-04f1e745d916	2026-08-19	lever-api	Senior Product Quality Analyst - AI Voice	Spotify	added	London	9dfaf09c8f074d6a	2026-08-17			spotify
+https://jobs.smartrecruiters.com/Wise/744000144344205-senior-backend-engineer-i-account-insights	2026-08-19	smartrecruiters-api	Senior Backend Engineer I - Account Insights	Wise	added	London, , United Kingdom					wise
+https://jobs.lever.co/paytm/271d28ce-e61c-4216-b7d4-adddd79eefa6	2026-08-19	lever-api	Customer Support Agent - Executive - Bill Payments CST	Paytm	added	Noida, Uttar Pradesh	43a7f4f7e9423a91	2026-08-18			paytm
+https://jobs.ashbyhq.com/posthog/3f190a45-7810-47f9-b77d-169b806ea266	2026-08-19	ashby-api	Backend Engineer - Ingestion (Europe/UK timezone)	PostHog	added	Remote (EMEA) · Remote (UK) · United Kingdom		2026-08-17			posthog
+https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3	2026-08-19	ashby-api	AI Research Engineer	PostHog	added	Hybrid (UK)		2026-08-18			posthog
+https://jobs.ashbyhq.com/nango/8f6da27a-07e1-4071-8310-0a4f432e34ea	2026-08-19	ashby-api	Staff Backend Engineer	Nango	added	USA · Chile · UK · United Kingdom · Uruguay · Switzerland · Brazil · Canada · Mexico · Argentina · Europe · European Union		2026-06-04			nango
+https://jobs.ashbyhq.com/1password/5c42ec98-c227-4f49-8357-5babf51ec1c7	2026-08-19	ashby-api	Senior Data Platform Engineer	1Password	added	Remote (United States | Canada)		2026-05-22			1password
+https://jobs.ashbyhq.com/1password/56ffab65-2953-42ee-ae84-04c3e9d9c38c	2026-08-19	ashby-api	Staff Product Manager, Developer Workflows	1Password	added	Remote (United States | Canada)		2026-06-29			1password
+https://jobs.ashbyhq.com/1password/c6fc16b0-bb5b-48f1-994d-d69e07846bc8	2026-08-19	ashby-api	Senior Product Manager, Machine Identity	1Password	added	Remote (United States | Canada)		2026-06-29			1password
+https://jobs.ashbyhq.com/1password/c59e8aab-b2b2-458f-9cda-514a6e41b457	2026-08-19	ashby-api	Director, GTM Engineering	1Password	added	Remote (United States | Canada)		2026-07-02			1password
+https://jobs.ashbyhq.com/1password/99eb8a4c-81e1-413b-822f-dd27598207e0	2026-08-19	ashby-api	Senior Staff Product Manager, Device Security	1Password	added	Remote (United States | Canada)		2026-08-14			1password
+https://jobs.ashbyhq.com/1password/a5b083d5-5f82-4316-b5ef-a577f2edb493	2026-08-19	ashby-api	Solutions Engineer, SMB	1Password	added	Remote (United States | Canada)		2026-08-18			1password
+https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb	2026-08-19	ashby-api	Software Engineer, Agents	LiveKit	added	NAMER · APJ · EMEA		2026-08-11			livekit
+https://jobs.ashbyhq.com/livekit/2b51446f-f78f-41da-91f9-41d5207c5bd0	2026-08-19	ashby-api	Forward Deployed Engineer	LiveKit	added	United Kingdom		2026-06-29			livekit
+https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a	2026-08-19	ashby-api	Staff Platform Engineer - EU	Ashby	added	Remote - European Union · Spain · Italy · Germany · Switzerland · Denmark · Norway · Croatia · Ireland · Stockholm · Sweden · Romania · Austria · Barcelona · Netherlands · Amsterdam · Portugal · France · Berlin · Hungary · Budapest · Estonia		2025-11-14			ashby
+https://jobs.ashbyhq.com/ashby/ae720f13-ad8b-4fdd-a8c3-5625bdc83a33	2026-08-19	ashby-api	Staff Platform Engineer - UK	Ashby	added	United Kingdom · Cardiff · Birmingham · Bristol · Manchester · Leeds · Oxford · London · Cambridge · Glasgow · Edinburgh · Belfast		2025-11-14			ashby
+https://jobs.ashbyhq.com/ashby/2fc178fc-fa92-463a-b788-1c66e3f32a00	2026-08-19	ashby-api	Enterprise Solutions Architect - Americas	Ashby	added	Remote - US		2026-05-05			ashby
+https://jobs.ashbyhq.com/ashby/dfc35159-ffe5-4d42-bea3-552b5dc17628	2026-08-19	ashby-api	Enterprise Solutions Engineering Manager	Ashby	added	Remote - US · Remote - Canada · Canada		2026-07-20			ashby
+https://jobs.ashbyhq.com/ashby/7d8ec4fe-50aa-4d7e-9eec-db7b2d14bcbd	2026-08-19	ashby-api	Mid-Market Solutions Engineering Manager	Ashby	added	Remote - US · Remote - Canada · Canada		2026-08-03			ashby
+https://jobs.ashbyhq.com/ashby/0f5dbf59-687b-4d88-88a7-73ee0a66b48d	2026-08-19	ashby-api	Staff Platform Engineer - Americas	Ashby	added	Remote - US · Austin · USA · Los Angeles · Portland · Atlanta · Salt Lake City · Boston · Seattle · New York · San Francisco · Denver · Chicago		2026-05-29			ashby
+https://jobs.lever.co/contentsquare/b83dfb6a-eaa7-45b0-8d00-3eb57eded62c	2026-08-19	lever-api	Security Automation Engineer	Hotjar	added	Paris Area, France	830916d1bfe9f667	2026-07-10			hotjar
+https://jobs.lever.co/contentsquare/770b51bc-dffc-4a34-8ff9-bfdce7a11125	2026-08-19	lever-api	Senior Product Manager, User & Lifecycle Analytics	Hotjar	added	London area	8329d4d1aaa99677	2026-08-03			hotjar
+https://english-stonex.icims.com/jobs/16355/senior-staff---it-data-engineering-and-analytics/job	2026-08-19	icims-api	Senior Staff - IT Data Engineering and Analytics	StoneX Group	added						stonex
+https://english-stonex.icims.com/jobs/14947/lead-platform-engineer/job	2026-08-19	icims-api	Lead Platform Engineer	StoneX Group	added						stonex
+https://apply.careers.microsoft.com/careers/job/1970393556947063	2026-08-19	local-parser	Consultant - Cloud Infra & AI	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556950492	2026-08-19	local-parser	Senior Consultant - (Dotnet Full stack + AI)	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft
+https://apply.careers.microsoft.com/careers/job/1970393556946465	2026-08-19	local-parser	Senior Consultant - Cloud Infra & AI	Microsoft	added	India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida					microsoft

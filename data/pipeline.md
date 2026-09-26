@@ -4,11 +4,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
 
-- [ ] https://www.linkedin.com/jobs/view/4440767883/ | American Express | Senior AI Engineer II - Agentic AI | London | note: LinkedIn fetch; exact public job URL captured
+<!-- linkedin-batch-2026-08-24 -->
+- [ ] https://lnkd.in/gUyzPvdK | Pine Labs | SDE2/SSE - Backend (Java/SpringBoot or C++/Multithreading) | Noida, India (5d WFO) | posted: 2026-08-23 (LinkedIn: Shanu Thakur)
+- [ ] https://lnkd.in/gCKYeGJq | Grab | Lead Software Engineer, Backend (Dev-AI team) | Singapore | posted: 2026-07 (LinkedIn: Yash Sarawgi)
+- [ ] https://lnkd.in/gp4YQXC6 | Agoda | Back End Staff Software Engineer | Bangkok, Thailand (relocation provided) | posted: 2026-07 (LinkedIn: Yash Sarawgi)
+- [ ] https://lnkd.in/g5esmMef | Agoda | Staff Software Engineer - Frontend | Bangkok, Thailand (relocation provided) | posted: 2026-08 (LinkedIn: Simran Kaur)
+- [ ] https://lnkd.in/ghpJ_u46 | Agoda | Staff Software Engineer - Full Stack (frontend-heavy) | Bangkok, Thailand (relocation provided) | posted: 2026-08 (LinkedIn: Simran Kaur)
+- [ ] https://lnkd.in/guiiPt-3 | Agoda | Lead Software Engineer - Android | Bangkok, Thailand (relocation provided) | posted: 2026-08 (LinkedIn: Simran Kaur)
 
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4906177101 | Parloa | Manager, Forward Deployed Engineering | Berlin Office; London Office; Munich Office; Remotely in Germany; Remotely in the UK | posted: 2026-06-23
+- [x] #193 | https://careers.docusign.com/careers-home/jobs/29506?lang=en-us | DocuSign | Software Engineer (Fullstack) | Bengaluru, India | 4.1/5 | PDF ❌ | [193](reports/193-docusign-software-engineer-fullstack-2026-07-22.md)
+
+- [x] https://www.linkedin.com/jobs/view/4440767883/ | American Express | Senior AI Engineer II - Agentic AI | London | 2.5/5 | PDF ❌ | [024](reports/024-american-express-2026-07-20.md)
+
+- [x] https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60 | OpenAI | Forward Deployed Software Engineer | London, UK | 3.5/5 | PDF ✅
+- [x] https://openai.com/careers/forward-deployed-software-engineer-dublin/ | OpenAI | Forward Deployed Software Engineer | Dublin, Ireland | posted: 2026-07 | [025](reports/025-openai-2026-07-20.md) | 2.5/5 | PDF ❌
+- [x] https://retool.com/careers/principal-solutions-architect---professional-services--london-united-kingdom | Retool | Principal Solutions Architect | London, UK | posted: 2026-07
+- [x] https://job-boards.greenhouse.io/databricks/jobs/8593713002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Remote - UK | posted: 2026-07 | [009](reports/009-databricks-ai-engineer-fde-2026-07-20.md)
+- [x] https://job-boards.greenhouse.io/gitlab/jobs/8522265002 | GitLab | Forward Deployed Engineer - UK | Remote, UK | posted: 2026-07 | 3.2/5 | PDF ❌
+
+- [x] https://job-boards.eu.greenhouse.io/parloa/jobs/4906177101 | Parloa | Manager, Forward Deployed Engineering | Berlin Office; London Office; Munich Office; Remotely in Germany; Remotely in the UK | posted: 2026-06-23 | [010](reports/010-parloa-manager-fde-2026-07-20.md) | 2.8/5
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4871790101 | Parloa | Senior Agent Architect | New York Office; Remotely in the USA | posted: 2026-05-20
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4874171101 | Parloa | Senior Agent Architect - Partner Success | Berlin Office; Munich Office; Remotely in Germany | posted: 2026-05-22
+- [x] ~~https://job-boards.eu.greenhouse.io/parloa/jobs/4874171101 | Parloa | Senior Agent Architect - Partner Success | Berlin Office; Munich Office; Remotely in Germany | posted: 2026-05-22 — posting expired (liveness sweep)~~
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4925068101 | Parloa | Senior Forward Deployed Engineer (France) | France; Paris | posted: 2026-07-10
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4604587101 | Parloa | Senior/Lead Forward Deployed Engineer - US | New York Office; Remotely in the USA | posted: 2025-08-18
 - [ ] https://job-boards.greenhouse.io/humeai/jobs/4775962008 | Hume AI | AI Researcher | NYC, San Jose, or Remote | posted: 2025-06-20
@@ -22,11 +38,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7825825 | Intercom | Senior Engineering Manager, Fin AI Agent | Dublin, Ireland | posted: 2026-04-20
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7218259 | Intercom | Senior Forward Deployed Engineer | Dublin, Ireland | posted: 2025-11-18
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7411373 | Intercom | Senior ML Science Manager | Dublin, Ireland | posted: 2025-11-20
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/6276021 | Intercom | Senior Product Engineer, AI | Dublin, Ireland; London, England | posted: 2024-09-27
+- [x] https://job-boards.greenhouse.io/intercom/jobs/6276021 | Intercom | Senior Product Engineer, AI | Dublin, Ireland; London, England | posted: 2024-09-27 | [152](reports/152-intercom-senior-product-engineer-ai-2026-07-20.md) | 3.5/5 | PDF ✅ | processed: report 152; confirm Fin rebrand, sponsorship, and hybrid policy
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/5916272 | Intercom | Senior Product Manager | London, England | posted: 2024-04-18
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7594453 | Intercom | Senior Solutions Architect | Dublin, Ireland | posted: 2026-02-12
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7917235 | Intercom | Staff AI Designer | Dublin, Ireland | posted: 2026-05-13
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7310770 | Intercom | Staff Forward Deployed Engineer | Dublin, Ireland | posted: 2025-10-09
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7310770 | Fin | Staff Forward Deployed Engineer | Dublin, Ireland | 2.8/5 | [018](reports/018-fin-staff-fde-dublin-2026-07-20.md) | research first — acquisition risk, visa needed, no customer-facing exp
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7393955 | Intercom | Staff Product Engineer, AI | London, England | posted: 2025-11-13
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/5379326 | Intercom | Staff Product Manager | London, England | posted: 2023-09-21
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program, AI Safety | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | posted: 2026-04-10
@@ -37,9 +53,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227643008 | Anthropic | Applied AI Architect, Public Sector | London, UK | posted: 2026-06-02
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227641008 | Anthropic | Applied AI Security Architect | London, UK | posted: 2026-06-10
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5255853008 | Anthropic | IT Systems Engineer, Client Platform Engineer | Boston, MA; New York City, NY; Remote-Friendly (Travel-Required) / Washington, DC | posted: 2026-06-12
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101173008 | Anthropic | Staff Software Engineer, AI Reliability Engineering | London, UK | posted: 2026-02-03
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5101173008 | Anthropic | Staff Software Engineer, AI Reliability Engineering | London, UK | posted: 2026-02-03
 - [ ] https://jobs.ashbyhq.com/vapi/dce1928f-b432-4d6b-8c2f-b7c63c672310 | Vapi | Solutions Engineer - EMEA | Amsterdam · EMEA | posted: 2026-07-03
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer | Hybrid - London, Berlin | posted: 2026-01-22
+- [x] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer | Hybrid - London, Berlin | posted: 2026-01-22 | 2.0/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5995789004 | Vercel | Senior Manager, Solutions Architect | Remote - Australia | posted: 2026-05-21
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect | Remote - Australia | posted: 2026-02-17
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989512004 | Arize AI | AI Application Engineer, APJ | Remote (Singapore) | posted: 2026-05-06
@@ -65,12 +81,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain | Spain | posted: 2026-03-11
 - [ ] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France | posted: 2026-03-11
 - [ ] https://jobs.ashbyhq.com/elevenlabs/3178581d-ea70-4dee-b018-2ce2d2a18bbe | ElevenLabs | AI Creative Producer | United Kingdom · Ireland · Dublin · Spain · Sofia · Bulgaria · Portugal · Warsaw · Poland · Sweden · Stockholm · Italy · Ukraine · London | posted: 2025-11-18
-- [ ] https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f | ElevenLabs | Enterprise Solutions Engineer - EU (German Speaking) | Germany · Ireland · Spain · Denmark · Portugal · Sweden · Stockholm · Italy · Poland · United Kingdom · Bulgaria | posted: 2026-05-06
+- [x] ~~https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f | ElevenLabs | Enterprise Solutions Engineer - EU (German Speaking) | Germany · Ireland · Spain · Denmark · Portugal · Sweden · Stockholm · Italy · Poland · United Kingdom · Bulgaria | posted: 2026-05-06 — posting expired (liveness sweep)~~
 - [ ] https://jobs.ashbyhq.com/elevenlabs/4509df6f-b839-44d6-b31f-d7f364cec949 | ElevenLabs | Enterprise Solutions Engineer - Europe | United Kingdom · Ireland · Germany · Denmark · Portugal · Sweden · Stockholm · Italy · Poland | posted: 2026-01-27
 - [ ] https://jobs.ashbyhq.com/elevenlabs/78f45556-04cc-4f08-abb2-18e639ed9343 | ElevenLabs | B2B Growth Marketing - Agents | United Kingdom · United States | posted: 2026-01-27
 - [ ] https://jobs.ashbyhq.com/elevenlabs/f2ae7fe0-67da-48ae-b126-b942899ec7e9 | ElevenLabs | Product Marketing - Agents | United Kingdom · Dublin · Ireland · Tokyo · Japan · Warsaw · Poland · London · San Francisco · United States | posted: 2026-01-28
 - [ ] https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain | Spain | posted: 2026-05-05
-- [ ] https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de | ElevenLabs | Data Engineer | United Kingdom | posted: 2026-05-20
+- [x] ~~https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de | ElevenLabs | Data Engineer | United Kingdom | posted: 2026-05-20 — evaluated (2.6/5, below threshold)~~
 - [ ] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany | Germany | posted: 2026-05-22
 - [ ] https://jobs.ashbyhq.com/elevenlabs/3f10ccc9-56a9-40bf-b5f1-33ab5834ff4a | ElevenLabs | Enterprise Solutions Engineer - Netherlands | Netherlands | posted: 2026-06-04
 - [ ] https://jobs.ashbyhq.com/elevenlabs/fc24cc63-43de-46e1-a1aa-2910013f5e7f | ElevenLabs | Forward Deployed Engineering Recruiter | United Kingdom · Ireland · Spain · Australia · Germany · Belgium · Brazil · Mexico · Chile · Italy · Singapore · France · Argentina | posted: 2026-06-05
@@ -80,7 +96,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8461582002 | Airtable | Senior Partner Solutions Architect | London, England UK, Remote - US | posted: 2026-03-31
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8498915002 | Airtable | Senior Solutions Architect | Remote - US | posted: 2026-04-16
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8597941002 | Airtable | Senior Solutions Architect- West Coast | Remote-US | posted: 2026-06-17
-- [ ] https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent | London | posted: 2025-02-13
+- [x] https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent | London | posted: 2025-02-13
 - [ ] https://jobs.ashbyhq.com/sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba | Sierra | Product Manager, Agent Development (German speaking) | London | posted: 2025-08-21
 - [ ] https://jobs.ashbyhq.com/sierra/b4b762e6-8ce7-4ea7-b9b3-40c04f62135a | Sierra | Product Manager, Agent Development | London | posted: 2025-04-08
 - [ ] https://jobs.ashbyhq.com/sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2 | Sierra | Strategist, Agent Development | London | posted: 2025-06-12
@@ -120,7 +136,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/deepgram/1c34f6ba-6998-447c-9485-d4cf56db42de | Deepgram | Senior Technical Program Manager (Engineering) - AI Tooling & Systems | USA / Remote | posted: 2026-07-09
 - [ ] https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer | USA / Remote | posted: 2026-07-09
 - [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager | London | posted: 2026-02-02
-- [ ] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents | London | posted: 2026-05-06
+- [x] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents | London | posted: 2026-05-06 | [022](reports/022-decagon-2026-07-20.md) | 4.1/5 | PDF ✅
 - [ ] https://jobs.ashbyhq.com/decagon/1a7adb8e-f652-4556-9540-651f5299a0cd | Decagon | Senior Solutions Engineer | London | posted: 2025-11-10
 - [ ] https://jobs.ashbyhq.com/decagon/ac14f2e8-950e-4668-a6ff-41f80181f006 | Decagon | Agent Strategy Manager | London | posted: 2026-03-24
 - [ ] https://jobs.ashbyhq.com/decagon/ee0c62b4-8e2a-4f0e-9bf4-9ff139374250 | Decagon | Agent Development Manager | London | posted: 2026-02-17
@@ -137,29 +153,29 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4706392005 | Glean | Solutions Engineer, DACH | Germany | posted: 2026-06-17
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4673941101 | Speechmatics | Technical Product Manager | London, England, United Kingdom | posted: 2025-09-16
 - [ ] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Manager | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · Finland · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · United Kingdom · Croatia · Spain · Greece | posted: 2026-06-23
-- [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer / Remote - Europe / TS/Vue/NodeJS | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Moldova · Kosovo · Portugal · Poland · Serbia · Austria · Finland · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Croatia · Spain · Greece | posted: 2026-05-28
+- [x] #090 | https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer / Remote - Europe / TS/Vue/NodeJS | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Moldova · Kosovo · Portugal · Poland · Serbia · Austria · Finland · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Croatia · Spain · Greece | 2.5/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/n8n/0bfb0054-67f6-4bf2-84de-9b36dfcb0e41 | n8n | Senior Product Manager (Enterprise) | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Italy · Netherlands · Hungary · Portugal · France · Poland · Serbia · Germany · Austria · Finland · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · United Kingdom · Croatia · Spain · Greece · Sweden | posted: 2026-07-17
 - [ ] https://jobs.ashbyhq.com/n8n/443fd5c2-6501-45cf-b8c8-851fe94d48f9 | n8n | Head of Solutions Engineering | Berlin Office · California · United States · Netherlands · New York · Portugal · Massachusetts · Germany · Boston · Ireland · San Francisco · United Kingdom · Spain · Texas | posted: 2026-07-14
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=5990423004 | Boomi | AI & Business Transformation Lead- EMEA | Germany; United Kingdom | posted: 2026-05-07
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=6098938004 | Boomi | Principal, Strategic AI Advisory EMEA | United Kingdom | posted: 2026-06-26
 - [ ] https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2 | Cohere | Senior Member of Technical Staff, Multimodal AI | San Francisco · New York · United States · Paris · France · Toronto · Canada · Montreal | posted: 2024-12-03
-- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | Europe · Brussels · Belgium · Munich · Germany · London · United Kingdom · Edinburgh · Paris · France · Berlin · Frankfurt | posted: 2026-05-12
-- [ ] https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East) | United Kingdom · Dubai · United Arab Emirates · Brussels · Belgium · Europe · European Union · Munich · Germany · Saudi Arabia · London · Edinburgh · Paris · France · Berlin · Middle East · Riyadh · Frankfurt | posted: 2025-12-10
+- [x] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | Europe · Brussels · Belgium · Munich · Germany · London · United Kingdom · Edinburgh · Paris · France · Berlin · Frankfurt | posted: 2026-05-12 | [036](reports/036-cohere-fde-agentic-platform-2026-07-20.md) | 3.7/5 | PDF ✅
+- [x] https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East) | United Kingdom · Dubai · United Arab Emirates · Brussels · Belgium · Europe · European Union · Munich · Germany · Saudi Arabia · London · Edinburgh · Paris · France · Berlin · Middle East · Riyadh · Frankfurt | posted: 2025-12-10
 - [ ] https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a | Cohere | Member of Technical Staff, Agent Code | London · Europe · European Union · New York · United States · Paris · France · Toronto · Canada | posted: 2025-09-16
-- [ ] https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f | Cohere | Senior ML Systems Engineer, Frameworks & Tooling | London · San Francisco · United States · New York · Paris · France · Toronto · Canada · Montreal | posted: 2025-12-01
+- [x] https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f | Cohere | Senior ML Systems Engineer, Frameworks & Tooling | London · San Francisco · United States · New York · Paris · France · Toronto · Canada · Montreal | posted: 2025-12-01 | 2.0/5 | PDF ❌ | [136](reports/136-cohere-senior-ml-systems-engineer-2026-07-20.md)
 - [ ] https://jobs.ashbyhq.com/cohere/a8122632-cc3b-4a1a-bd78-4b4b9466cb38 | Cohere | Product Manager, Safety & Security | United States · Europe · European Union · New York · Toronto · Canada | posted: 2026-03-11
 - [ ] https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295 | Cohere | Product Manager, Agent Harness & Modelling | Toronto · London · United Kingdom · New York · United States · Montreal · Canada | posted: 2026-03-18
 - [ ] https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4 | Cohere | Senior Member of Technical Staff, Safety and Security for Agents | London · New York · United States · Edinburgh · United Kingdom · Paris · France · Toronto · Canada · Montreal | posted: 2026-03-23
 - [ ] https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86 | Cohere | Engineering Manager, FDE Agentic Platform (UK) | United Kingdom | posted: 2026-05-05
 - [ ] https://jobs.ashbyhq.com/cohere/87e9fd4e-49ac-4242-97be-7da6f718020d | Cohere | Product Manager, Integrations | Toronto · London · United Kingdom · New York · United States · Montreal · Canada | posted: 2026-06-16
-- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations | London · Europe · European Union · Canada · United States · San Francisco | posted: 2026-06-15
+- [x] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations | London | 3.2/5 | PDF ❌ | [137](reports/137-cohere-swe-agents-automations-2026-07-20.md) | Agentic/Automation archetype. Strong agent project match; stack gap and visa sponsorship needed. Culture risk noted.
 - [ ] https://jobs.ashbyhq.com/cohere/d81c28f5-2945-4c49-bc5b-86e345334cfb | Cohere | Counsel, Privacy and AI Regulation (EU) | Europe · European Union | posted: 2026-06-26
 - [ ] https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Engineer, Applied AI | NAMER · EMEA | posted: 2026-06-30
-- [ ] https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9 | LangChain | Deployed Engineer (South EMEA) | London | posted: 2026-05-07
-- [ ] https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d | LangChain | Deployed Engineer (UK) | London | posted: 2026-01-18
-- [ ] https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206 | LangChain | Solutions Architect (London) | London | posted: 2026-04-14
+- [x] https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9 | LangChain | Deployed Engineer (South EMEA) | London | posted: 2026-05-07 | [037](reports/037-langchain-deployed-engineer-south-emea-2026-07-20.md) | 2.8/5 | PDF ❌
+- [x] ~~https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d | LangChain | Deployed Engineer (UK) | London | posted: 2026-01-18~~
+- [x] https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206 | LangChain | Solutions Architect (London) | London | posted: 2026-04-14
 - [ ] https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d | LangChain | Senior Platform Engineer, Ingestion | Remote - Europe | posted: 2026-06-05
-- [ ] https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad | Attio | Senior Platform Engineer | London · United Kingdom | posted: 2026-06-10
+- [x] https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad | Attio | Senior Platform Engineer | London · United Kingdom | posted: 2026-06-10
 - [ ] https://jobs.ashbyhq.com/attio/010b8206-5968-4a03-8052-d9339762f766 | Attio | Solutions Engineer \[Pre and Post-Sales\] - SMB | London | posted: 2026-03-30
 - [ ] https://apply.workable.com/semios/jobs/view/EFB3F093B3 | Semios | Senior Product Manager, Smartfield | Minneapolis, United States (Remote)
 - [ ] https://jobs.ashbyhq.com/AlephAlpha/0ed0c9ef-8e9f-4161-80e6-55fc95c93736 | Aleph Alpha | Senior AI R&D Engineer – Model Training (f/m/d) | Heidelberg · Berlin · Germany | posted: 2026-07-10
@@ -171,7 +187,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models | Berlin; London; Munich; Paris | posted: 2026-01-26
 - [ ] https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich | posted: 2026-02-10
 - [ ] https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning | Barcelona; Berlin; London; Munich; Paris | posted: 2025-09-17
-- [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Berlin; London; Munich; Paris; Stockholm; Tallinn | posted: 2025-01-13
+- [x] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Berlin; London; Munich; Paris; Stockholm; Tallinn | posted: 2025-01-13
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7798590003?gh_jid=7798590003 | Celonis | Application Product Manager - AI System Transformations | Madrid, Spain | posted: 2026-07-08
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7765936003?gh_jid=7765936003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program | Madrid, Spain | posted: 2026-06-18
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7765677003?gh_jid=7765677003 | Celonis | Associate (AI) Solution Consultant (DACH) - Orbit Program | Madrid, Spain | posted: 2026-06-09
@@ -194,7 +210,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7479634003?gh_jid=7479634003 | Celonis | Lead Applied AI Engineer | Amsterdam, Netherlands | posted: 2025-09-26
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7765927003?gh_jid=7765927003 | Celonis | Lead/Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production | Munich, Germany | posted: 2026-06-11
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7770073003?gh_jid=7770073003 | Celonis | Lead/Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production | Munich, Germany | posted: 2026-06-11
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7788552003?gh_jid=7788552003 | Celonis | Lead Solutions Architect | London, United Kingdom | posted: 2026-06-30
+- [x] #089 | https://job-boards.greenhouse.io/celonis/jobs/7788552003?gh_jid=7788552003 | Celonis | Lead Solutions Architect | London, United Kingdom | 2.2/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7731772003?gh_jid=7731772003 | Celonis | Senior AI Integration & Automation Engineer | Madrid, Spain | posted: 2026-05-12
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7683570003?gh_jid=7683570003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence (Public Sector) | Paris, France | posted: 2026-03-30
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7695048003?gh_jid=7695048003 | Celonis | Senior Applied AI Solutions Consultant | Stockholm, Sweden | posted: 2026-04-09
@@ -206,13 +222,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7773716003?gh_jid=7773716003 | Celonis | Senior Process Intelligence and Digital Transformation Consultant - AI & Process Analytics (Public Sector) | Paris, France | posted: 2026-06-15
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7790264003?gh_jid=7790264003 | Celonis | Senior Software Engineer - AI & Task Mining | Munich, Germany | posted: 2026-07-15
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7678804003?gh_jid=7678804003 | Celonis | Senior Software Engineer - Orchestration and Automation | Madrid, Spain | posted: 2026-04-01
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7784638003?gh_jid=7784638003 | Celonis | Senior Solutions Architect | London, United Kingdom | posted: 2026-06-30
+- [x] #092 | https://job-boards.greenhouse.io/celonis/jobs/7784638003?gh_jid=7784638003 | Celonis | Senior Solutions Architect | London, United Kingdom | 1.6/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation | Madrid, Spain | posted: 2026-06-20
 - [ ] https://careers.hellofresh.com/global/en/job/7846756?gh_jid=7846756 | HelloFresh | Automation Engineer | Derby, England, United Kingdom | posted: 2026-06-15
 - [ ] https://careers.hellofresh.com/global/en/job/7869765?gh_jid=7869765 | HelloFresh | Automation Engineer (all genders) | Magdeburg, Saxony-Anhalt, Germany | posted: 2026-05-05
-- [ ] https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003 | Trade Republic | Backend Engineer (London) | London | posted: 2025-03-19
-- [ ] https://traderepublic.com/en-de/about?jobId=7775140003&gh_jid=7775140003 | Trade Republic | Platform Engineer – Backend & Reliability | Berlin; London; Paris | posted: 2026-06-22
-- [ ] https://traderepublic.com/en-de/about?jobId=7685052003&gh_jid=7685052003 | Trade Republic | Senior Kafka Platform Engineer | Berlin; London; Paris | posted: 2026-03-31
+- [x] https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003 | Trade Republic | Backend Engineer (London) | London | posted: 2025-03-19 | 4.1/5 | PDF ✅ | [040](reports/040-trade-republic-2026-07-20.md)
+- [x] https://job-boards.greenhouse.io/databricks/jobs/8362737002 | Databricks | Sr Forward Deployed Engineer | Remote - India | 3.3/5 | PDF ❌ | [041](reports/041-databricks-2026-07-20.md)
+- [x] #087 | https://traderepublic.com/en-de/about?jobId=7775140003&gh_jid=7775140003 | Trade Republic | Platform Engineer – Backend & Reliability | Berlin; London; Paris | 2.8/5 | PDF ❌
+- [x] https://traderepublic.com/en-de/about?jobId=7685052003&gh_jid=7685052003 | Trade Republic | Senior Kafka Platform Engineer | Berlin; London; Paris | posted: 2026-03-31
 - [ ] https://jobs.ashbyhq.com/lakera.ai/be24c900-5253-4e41-a4f9-1ad3a294d202 | Lakera | Solutions Engineer (London) | London | posted: 2026-02-11
 - [ ] https://sumup.com/careers/positions/7875302002?gh_jid=7875302002 | SumUp | Agent Commercial(e) Terrain Indépendant (Freelance) | Dunkerque, Nord, France | posted: 2025-02-21
 - [ ] https://sumup.com/careers/positions/7927596002?gh_jid=7927596002 | SumUp | Agent Commercial Terrain indépendant (Freelance) | Metz, Moselle, France | posted: 2025-03-25
@@ -222,12 +239,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://sumup.com/careers/positions/8340130002?gh_jid=8340130002 | SumUp | Customer Support Agent- IT | Barcelona, Barcelona, Spain | posted: 2026-01-13
 - [ ] https://sumup.com/careers/positions/8530960002?gh_jid=8530960002 | SumUp | Engineering Manager - Edge AI | Berlin, Germany | posted: 2026-05-14
 - [ ] https://sumup.com/careers/positions/8537352002?gh_jid=8537352002 | SumUp | Product Manager | Barcelona, Barcelona, Spain | posted: 2026-06-03
-- [ ] https://sumup.com/careers/positions/8418083002?gh_jid=8418083002 | SumUp | Senior Backend Engineer - Accounts | Berlin, Germany | posted: 2026-02-11
-- [ ] https://sumup.com/careers/positions/8429621002?gh_jid=8429621002 | SumUp | Senior Backend Engineer - Activation and Revenue | Berlin, Germany | posted: 2026-02-19
+- [x] ~~https://sumup.com/careers/positions/8418083002?gh_jid=8418083002 | SumUp | Senior Backend Engineer - Accounts | Berlin, Germany | posted: 2026-02-11 — posting expired (liveness sweep, HTTP 410)~~
+- [x] ~~https://sumup.com/careers/positions/8429621002?gh_jid=8429621002 | SumUp | Senior Backend Engineer - Activation and Revenue | Berlin, Germany | posted: 2026-02-19 — posting expired (liveness sweep, HTTP 410)~~
 - [ ] https://sumup.com/careers/positions/8583444002?gh_jid=8583444002 | SumUp | Senior Backend Engineer - Cards | Berlin, Berlin, Germany | posted: 2026-06-09
 - [ ] https://sumup.com/careers/positions/8321240002?gh_jid=8321240002 | SumUp | Senior Backend Engineer - Fiscalization | Berlin, Germany | posted: 2025-12-03
 - [ ] https://sumup.com/careers/positions/8576657002?gh_jid=8576657002 | SumUp | Senior Backend Engineer - Golang | Berlin, Germany | posted: 2026-06-26
-- [ ] https://sumup.com/careers/positions/8454657002?gh_jid=8454657002 | SumUp | Senior Backend Engineer (Golang) - Balance Management | Berlin, Germany | posted: 2026-03-09
+- [x] ~~https://sumup.com/careers/positions/8454657002?gh_jid=8454657002 | SumUp | Senior Backend Engineer (Golang) - Balance Management | Berlin, Germany | posted: 2026-03-09 — posting expired (liveness sweep, HTTP 410)~~
 - [ ] https://sumup.com/careers/positions/8607497002?gh_jid=8607497002 | SumUp | Senior Backend Engineer - Money Transfers | Berlin, Germany | posted: 2026-06-25
 - [ ] https://sumup.com/careers/positions/8459126002?gh_jid=8459126002 | SumUp | Senior Data Science/ML Engineer - Financial Crime | Berlin, Germany | posted: 2026-04-14
 - [ ] https://sumup.com/careers/positions/8539636002?gh_jid=8539636002 | SumUp | Senior Platform Engineer - Contact Centre | Berlin, Germany | posted: 2026-06-02
@@ -239,16 +256,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6100340004 | Isomorphic Labs | Senior Security Engineer (AI Safety), London, Lausanne | Lausanne; London | posted: 2026-07-03
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8458272002 | Wayve | Senior Cloud SRE - AI/ML Platform & GPU Compute | London | posted: 2026-03-11
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8564314002 | Wayve | Senior Platform Engineer | London | posted: 2026-05-27
-- [ ] https://wayve.firststage.co/jobs?gh_jid=8610265002 | Wayve | Software Engineer (Product, AI Portal) | London | posted: 2026-06-30
+- [x] https://wayve.firststage.co/jobs?gh_jid=8610265002 | Wayve | Software Engineer (Product, AI Portal) | London | posted: 2026-06-30 — processed: report 151
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8624759002 | Wayve | Solutions Architect | London | posted: 2026-07-09
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8537458002 | Wayve | Staff Cloud SRE – AI/ML Platform & GPU Compute | London | posted: 2026-05-06
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8564304002 | Wayve | Staff Data Platform Engineer | London | posted: 2026-05-27
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8610095002 | Wayve | Staff ML Engineer, Gaia | London | posted: 2026-06-26
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8545371002 | Wayve | Staff ML Performance Engineer (Inference Optimisation) | London | posted: 2026-05-14
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8555774002 | Wayve | System Test Automation Engineer, HIL | London | posted: 2026-05-19
-- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789254101 | PhysicsX | Senior Simulation Data Engineer | London, United Kingdom | posted: 2026-04-13
+- [x] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789254101 | PhysicsX | Senior Simulation Data Engineer | London, United Kingdom | posted: 2026-04-13
 - [ ] https://jobs.ashbyhq.com/synthesia/fd3617a1-b117-417d-bee5-416ea9193150 | Synthesia | Product Manager, Video Creation & Editing (Principal-level) | London · Europe · United Kingdom | posted: 2026-04-01
-- [ ] https://jobs.ashbyhq.com/synthesia/36ffd056-0141-487e-8f6c-83b52c074f62 | Synthesia | Principal Backend Engineer | London | posted: 2026-01-12
+- [x] https://jobs.ashbyhq.com/synthesia/36ffd056-0141-487e-8f6c-83b52c074f62 | Synthesia | Principal Backend Engineer | London | posted: 2026-01-12 | 2.3/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b | Synthesia | Principal ML Platform Engineer | Europe | posted: 2026-04-08
 - [ ] https://jobs.ashbyhq.com/synthesia/c2ba6d4d-f991-4432-a9c8-1514a93b08bb | Synthesia | Product Manager, New Product Bet (Staff/Principal) | London · Europe · United Kingdom | posted: 2026-06-02
 - [ ] https://jobs.ashbyhq.com/synthesia/31e1dca3-74fd-4f74-8f40-5bb19f4034bb | Synthesia | Product Manager, Enterprise (Senior/Staff-level) | London · Europe · United Kingdom | posted: 2026-06-02
@@ -259,12 +276,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf | Faculty | Principal Research Scientist - AI Safety | UK - London | posted: 2025-12-11
 - [ ] https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42 | Faculty | Head of AI Assurance | UK - London | posted: 2026-06-15
 - [ ] https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4 | Faculty | Technical Director of AI Safety | UK - London | posted: 2026-03-18
-- [ ] https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760 | Faculty | Lead Forward Deployed Engineer | UK - London | posted: 2026-05-15
-- [ ] https://jobs.ashbyhq.com/faculty/3b19a24d-8c8a-4ccc-8aa8-2a66874c0f9b | Faculty | Platform Engineer | UK - London | posted: 2026-07-10
+- [x] https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760 | Faculty | Lead Forward Deployed Engineer | UK - London | posted: 2026-05-15 | 3.1/5 | PDF ✅
+- [x] https://jobs.ashbyhq.com/faculty/3b19a24d-8c8a-4ccc-8aa8-2a66874c0f9b | Faculty | Platform Engineer | UK - London | posted: 2026-07-10
 - [ ] https://jobs.ashbyhq.com/causaly/62628911-9d93-45d8-be5b-0bc82bb7a08f | Causaly | GTM Engineer/RevOps Manager | London | posted: 2026-06-29
 - [ ] https://jobs.ashbyhq.com/lovable/642dfe37-d5f5-4cf7-a38d-d6dac3dde58f | Lovable | Solutions Architect, London/Stockholm | London · Stockholm · Sweden | posted: 2026-04-09
 - [ ] https://jobs.ashbyhq.com/lovable/f1c3bdd3-683b-409f-b0a1-5a39f9c7dd72 | Lovable | Product Manager (Partnerships) | London | posted: 2026-06-12
-- [ ] https://jobs.ashbyhq.com/legora/ac0aebb7-fad2-4f1e-83ec-40a5e1a70a2b | Legora | Forward Deployed Engineer - SE | Stockholm HQ · London · United Kingdom | posted: 2026-07-09
+- [x] https://jobs.ashbyhq.com/legora/ac0aebb7-fad2-4f1e-83ec-40a5e1a70a2b | Legora | Forward Deployed Engineer - SE | Stockholm HQ · London · United Kingdom | posted: 2026-07-09
 - [ ] https://jobs.ashbyhq.com/legora/0ca8ff9b-0338-4b1f-8113-15a37ddd0b0a | Legora | Senior Director of Data Analytics and Business Systems | New York City · Stockholm HQ · Stockholm · Sweden | posted: 2026-05-20
 - [ ] https://jobs.ashbyhq.com/legora/3f80dbce-825a-45f9-8180-f3dcfc153086 | Legora | Solutions Engineer, London | London | posted: 2026-06-23
 - [ ] https://jobs.ashbyhq.com/corti/3155c7b6-f7cc-424e-8e90-176b579446b7 | Corti | Senior Backend Engineer | Copenhagen, Denmark | posted: 2026-06-02
@@ -276,13 +293,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/pleo/3f30df79-b7b7-4dd2-8ebd-4c1f2bba15e2 | Pleo | Staff Applied AI Engineer | United Kingdom · Denmark · Portugal · Spain | posted: 2026-06-29
 - [ ] https://jobs.ashbyhq.com/pleo/9839f2a6-790d-450b-b26c-14e656ced62f | Pleo | Senior Product Manager, Data & Agentic Products | United Kingdom · Denmark · Portugal · Sweden · Spain | posted: 2026-07-03
 - [ ] https://jobs.ashbyhq.com/pleo/7d2f446b-bfba-4859-bf30-ce64301b4f9b | Pleo | Senior Applied AI Engineer | United Kingdom · Denmark · Portugal · Spain | posted: 2026-06-29
+- [x] https://jobs.ashbyhq.com/pleo/934035cd-c8f1-4b93-b7ea-59e6d2f3ba0b | Pleo | Senior GenAI Platform Engineer | London · Lisbon · Copenhagen · Madrid | 2.8/5 | PDF ❌ | [134](reports/134-pleo-senior-genai-platform-engineer-2026-07-20.md)
+
 - [ ] https://jobs.ashbyhq.com/pleo/e93cc07b-7898-4ab3-a5a3-acb507dbf67d | Pleo | Senior Engineering Manager, Data & AI Products | United Kingdom · Denmark · Portugal · Spain | posted: 2026-07-01
 - [ ] https://jobs.ashbyhq.com/pleo/13b0347d-dc60-472b-bc62-9d0653f1003f | Pleo | Engineering Manager, GenAI Platform | United Kingdom · Denmark · Portugal · Spain | posted: 2026-07-01
 - [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066993101 | Amplemarket | Senior Product Manager | Remote, EMEA | posted: 2022-08-26
 - [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101 | Amplemarket | Spontaneous Application - Data Engineer | Remote, EMEA/LATAM | posted: 2022-12-26
 - [ ] https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Member of Technical Staff (Forward Deployed Engineer, Applied AI) | New York City · Palo Alto · United States · London · United Kingdom · San Francisco · Seattle | posted: 2025-08-15
-- [ ] https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592 | Perplexity | Member of Technical Staff (AI Inference Engineer) | London | posted: 2026-04-13
-- [ ] https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e | Perplexity | Member of Technical Staff (AI Infrastructure Engineer) | London | posted: 2026-04-13
+- [x] https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592 | Perplexity | Member of Technical Staff (AI Inference Engineer) | London | 1.8/5 | PDF ❌ | [038](reports/038-perplexity-ai-inference-engineer-2026-07-20.md)
+- [x] #131 | https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e | Perplexity | Member of Technical Staff (AI Infrastructure Engineer) | London | 2.8/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6097447004 | Hightouch | AI Creative Designer, Email | Remote, United States | posted: 2026-06-19
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant | Remote (North America) | posted: 2025-08-21
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020299004 | Hightouch | Engineering Manager, Agents | Remote (North America) | posted: 2026-06-11
@@ -312,15 +331,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/resend/a95832a8-a2ab-4a63-8303-9989f1fc47d6 | Resend | Backend Engineer (Infra), Core Sending | Americas / Remote / Full-time | posted: 2026-05-07
 - [ ] https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2 | Resend | Backend Engineer (MTA), Core Sending | Americas / Remote / Full-time | posted: 2026-05-29
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4052805009 | PlanetScale | Solutions Engineer | Remote - EMEA, Remote - NA | posted: 2025-10-29
-- [ ] https://jobs.lever.co/spotify/24e40f4a-2bb4-473d-a78c-528fbae6440c | Spotify | Senior Backend Engineer - Subscriptions | London | posted: 2026-06-25
+- [x] #042 | https://jobs.lever.co/spotify/24e40f4a-2bb4-473d-a78c-528fbae6440c | Spotify | Senior Backend Engineer - Subscriptions | London | 3.8/5 | PDF ❌
 - [ ] https://jobs.lever.co/spotify/59cb83b1-e012-4839-ae90-6b671923408a | Spotify | Senior Engineering Manager - ML | London | posted: 2026-07-10
 - [ ] https://jobs.lever.co/spotify/cc21db45-9354-496b-b1a1-d5f293c4feb8 | Spotify | Senior Product Manager – Financial Engineering - Tax Solutions | London | posted: 2026-05-27
-- [ ] https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd | Palantir | Forward Deployed Enablement Engineer - Customer Success | London, United Kingdom | posted: 2024-11-12
+- [x] #091 | https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd | Palantir | Forward Deployed Enablement Engineer - Customer Success | London, United Kingdom | 2.5/5 | PDF ❌
 - [ ] https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | posted: 2025-08-07
-- [ ] https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | posted: 2026-04-22
+- [x] #126 | https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 4.3/5 | PDF ✅
 - [ ] https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer | Amsterdam, Netherlands | posted: 2018-04-24
 - [ ] https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628 | Palantir | Forward Deployed Software Engineer - Spain | Madrid, Spain | posted: 2026-06-29
-- [ ] https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | posted: 2023-01-11
+- [x] #043 | https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 2.5/5 | PDF ❌
 
 - [ ] https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266 | A.Team | Senior Independent AI Engineer / Architect | Americas, Europe, Israel
 - [ ] https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986 | Lemon.io | Senior AI Engineer | Northern America, LATAM, Europe, APAC
@@ -329,14 +348,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117581008 | Anthropic | Solutions Architect, Applied AI | Bangalore, India | posted: 2026-02-12
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4903164101 | Parloa | Senior Agent Architect (France) | France | posted: 2026-06-19
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4925069101 | Parloa | Senior Forward Deployed Engineer (Spain) | Madrid; Remotely in Spain | posted: 2026-07-10
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England | posted: 2026-04-17
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England | 1.8/5 | PDF ❌ | [127](reports/127-intercom-2026-07-20.md) | posted: 2026-04-17
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7784684 | Intercom | Engineering Manager, AI Models Infrastructure | Dublin, Ireland; London, England | posted: 2026-04-07
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | London, England | posted: 2026-01-26
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | London, England | 3.2/5 | PDF ✅ | [039](reports/039-intercom-forward-deployed-engineer-2026-07-20.md) | posted: 2026-01-26
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8051388 | Intercom | Senior Engineering Manager, Fin AI Agent | London, England | posted: 2026-07-08
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7462098 | Intercom | Senior Forward Deployed Engineer | London, England | posted: 2025-12-11
+- [x] #085 | https://job-boards.greenhouse.io/intercom/jobs/7462098 | Intercom | Senior Forward Deployed Engineer | London, England | 3.2/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8011085 | Intercom | Senior Solutions Architect | London, England | posted: 2026-06-16
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7920710 | Intercom | Staff AI Designer | London, England | posted: 2026-05-13
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7462110 | Intercom | Staff Forward Deployed Engineer | London, England | posted: 2025-12-11
+- [x] #086 | https://job-boards.greenhouse.io/intercom/jobs/7462110 | Intercom | Staff Forward Deployed Engineer | London, England | 3.0/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7393950 | Intercom | Staff Product Engineer, AI | Dublin, Ireland | posted: 2025-11-13
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/5663720 | Intercom | Staff Product Manager | Dublin, Ireland | posted: 2024-01-31
 - [ ] https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0 | ElevenLabs | Solutions Engineer - India | India | posted: 2026-04-02
@@ -356,7 +375,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=6093094004 | Boomi | Manager, Enterprise AI | India | posted: 2026-07-02
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=5790106004 | Boomi | Principal Software Engineer. - GenAI | India | posted: 2026-02-18
 - [ ] https://jobs.ashbyhq.com/langchain/0a5dd30c-6da1-4095-bd96-b16f27eeb333 | LangChain | Solutions Architect (Remote) | Remote - Utah | posted: 2026-04-21
-- [ ] https://www.workingnomads.com/job/go/1687328/ | EverAI Limited | Senior AI Vertical Mini-Series Director (Full Remote - Worldwide) | Worldwide, North America, South America, Asia, Europe, Africa, Oceania
+- [x] ~~https://www.workingnomads.com/job/go/1687328/ | EverAI Limited | Senior AI Vertical Mini-Series Director (Full Remote - Worldwide) | Worldwide, North America, South America, Asia, Europe, Africa, Oceania — posting expired (liveness sweep)~~
 - [ ] https://www.workingnomads.com/job/go/1687327/ | EverAI Limited | Mid/Senior AI Cinematic Video Editor (Full Remote - Worldwide) | Worldwide, North America, South America, Asia, Europe, Africa, Oceania
 - [ ] https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra | Forward Deployed Infrastructure Engineer | London | posted: 2026-06-23
 - [ ] https://jobs.ashbyhq.com/attio/d973504f-6cdd-4eaa-912d-b8e8dc8703d9 | Attio | Senior Platform Engineer | Poland · Portugal · Ireland · Germany | posted: 2026-06-10
@@ -377,14 +396,425 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://remoteOK.com/remote-jobs/remote-agente-de-reservas-hospitality-stay-u-nique-1134943 | Stay U-nique | Agente de Reservas Hospitality
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales) | Remote (North America) | posted: 2025-05-08
 - [ ] https://jobs.ashbyhq.com/resend/d5bc5890-847d-4bc5-bbd7-d0d72021ff3c | Resend | Backend Engineer (Infra), Core Sending | Europe / Remote / Full-time | posted: 2026-05-29
-- [ ] https://jobs.lever.co/spotify/c857c37d-9fdc-4103-82cc-f1d252c120c3 | Spotify | Senior Backend Engineer - Subscriptions | London | posted: 2026-04-02
-- [ ] https://jobs.ashbyhq.com/pleo/faf9b3ab-99a3-463a-8fca-32bfcc97f000 | Pleo | Staff Applied AI Engineer | London · Lisbon · Copenhagen · Madrid | posted: 2026-06-29
+- [x] https://jobs.lever.co/spotify/c857c37d-9fdc-4103-82cc-f1d252c120c3 | Spotify | Senior Backend Engineer - Subscriptions | London | posted: 2026-04-02
+- [x] https://jobs.ashbyhq.com/pleo/faf9b3ab-99a3-463a-8fca-32bfcc97f000 | Pleo | Staff Applied AI Engineer | London · Lisbon · Copenhagen · Madrid | posted: 2026-06-29
 - [ ] https://jobs.ashbyhq.com/pleo/a33f8156-a795-4626-8ad3-2c14ea0ecbc9 | Pleo | Senior Product Manager, Data & Agentic Products | London · Lisbon · Copenhagen · Madrid · Stockholm | posted: 2026-07-03
-- [ ] https://jobs.ashbyhq.com/pleo/728ae224-f443-46b9-86d5-61772503c254 | Pleo | Senior Applied AI Engineer | London · Lisbon · Copenhagen · Madrid | posted: 2026-06-29
+- [x] #044 | https://jobs.ashbyhq.com/pleo/728ae224-f443-46b9-86d5-61772503c254 | Pleo | Senior Applied AI Engineer | London · Lisbon · Copenhagen · Madrid | 2.3/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/pleo/88c1331b-2e63-4bd3-9459-f5679ebddbc5 | Pleo | Senior Engineering Manager, Data & AI Products | London · Lisbon · Copenhagen · Madrid | posted: 2026-07-01
 - [ ] https://jobs.ashbyhq.com/pleo/2754261d-d959-4d47-9661-260ef3352b34 | Pleo | Engineering Manager, GenAI Platform | London · Lisbon · Copenhagen · Madrid | posted: 2026-07-01
 - [ ] https://jobs.ashbyhq.com/pleo/934035cd-c8f1-4b93-b7ea-59e6d2f3ba0b | Pleo | Senior GenAI Platform Engineer | London · Lisbon · Copenhagen · Madrid | posted: 2026-07-10
-- [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | posted: 2009-12-05
+- [x] [#017](reports/017-palantir-2026-07-20.md) https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | posted: 2009-12-05
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4903167101 | Parloa | Senior Agent Architect (Spain) | Madrid; Remotely in Spain | posted: 2026-06-19
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany | posted: 2026-04-17
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7818585 | Intercom | Engineering Manager, AI Models Infrastructure | Dublin, Ireland | posted: 2026-04-15
+- [ ] https://himalayas.app/companies/mindrift/jobs/ex-mbb-strategy-consultant-ai-training-3673602436 | Mindrift | Ex-MBB Strategy Consultant - AI Training | Sweden | posted: 2026-07-19
+- [ ] https://himalayas.app/companies/tensorops/jobs/mid-senior-ai-engineer | TensorOps | Mid/Senior AI Engineer | Australia, Canada, Germany, India, United Kingdom, United States | posted: 2026-07-19
+- [ ] https://www.workingnomads.com/job/go/1734670/ | Lemon.io | Senior AI Engineer | Europe, North America, Latin America, APAC
+- [ ] https://jobs.ashbyhq.com/langchain/c882af7e-59aa-4017-b791-9a8094c0ef6f | LangChain | Solutions Architect (APAC) | Remote - Singapore | posted: 2026-06-02
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7798592003?gh_jid=7798592003 | Celonis | Application Product Manager - AI System Transformations | Munich, Germany | posted: 2026-07-08
+- [ ] https://jobs.ashbyhq.com/lakera.ai/15ab5a5a-2c7a-4fc9-822d-68759d5e4db4 | Lakera | Solutions Engineer (Amsterdam, Netherlands) | Germany | posted: 2026-06-12
+- [ ] https://sumup.com/careers/positions/7875332002?gh_jid=7875332002 | SumUp | Agent Commercial(e) Terrain Indépendant (Freelance) | Calais, Pas-de-Calais, France | posted: 2025-02-21
+- [ ] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | SumUp | Agent Commercial Terrain - Indépendant (Freelance) | Nîmes, Gard, France | posted: 2026-04-21
+- [ ] https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384 | Palantir | Forward Deployed Software Engineer | Stockholm, Sweden | posted: 2021-10-19
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4928578101 | Parloa | Senior Agent Architect (UK) | London Office; Remotely in the UK | posted: 2026-07-15
+- [ ] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | SumUp | Agent Commercial Terrain - Indépendant (Freelance) | Avignon, Vaucluse, France | posted: 2026-04-17
+- [ ] https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Remote (UK, Brazil, US, Canada) | posted: 2026-07
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8362737002 | Databricks | Sr Forward Deployed Engineer | Remote - India | posted: 2026-07
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4907496101 | Parloa | Sr Agent Architect - Partner Success | Berlin Office; Munich Office; Remotely in Germany | posted: 2026-06-24
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4fa4745c-cc31-4d20-8695-60e104c9c217 | ElevenLabs | Enterprise Solutions Engineer - Nordics | Denmark · Sweden · Stockholm | posted: 2026-07-20
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa | ElevenLabs | Forward Deployed Engineer - Software Engineer - India | India | posted: 2026-07-20
+- [ ] https://sumup.com/careers/positions/8013034002?gh_jid=8013034002 | SumUp | Agent Commercial Terrain - Indépendant (Freelance) | Lyon, Rhône, France | posted: 2025-05-27
+
+- [ ] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | SumUp | Agent Commercial Terrain - Indépendant (Freelance) | Grenoble, Isère, France | posted: 2025-05-27
+- [ ] https://sumup.com/careers/positions/8340146002?gh_jid=8340146002 | SumUp | Customer Support Agent - Spanish and Portuguese | Barcelona, Barcelona, Spain | posted: 2026-01-13
+- [ ] https://jobs.lever.co/spotify/ba605886-4258-44ee-b372-6fd3a803dd3d | Spotify | Senior Product Manager - User Platform | London | posted: 2026-07-17
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY | posted: 2024-04-22
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4853250101 | PolyAI | Senior Platform Engineer | London, United Kingdom | posted: 2026-04-29
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4935645101 | Parloa | Sr Agent Architect (Germany) | Berlin Office; Munich Office; Remotely in Germany | posted: 2026-07-22
+- [ ] https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074 | Deepgram | Senior Product Manager, Enterprise | USA / Remote | posted: 2026-07-24
+- [ ] https://jobs.ashbyhq.com/deepgram/d0660127-6c26-4053-943c-c006990b8edc | Deepgram | Staff Product Manager - Self Serve (Growth) | USA / Remote | posted: 2026-07-25
+- [ ] https://jobs.ashbyhq.com/deepgram/6f3d761e-4873-43af-a9b1-daeb147661f9 | Deepgram | Senior Software Engineer - Model Evaluation & AI Systems | USA / Remote | posted: 2026-07-28
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4717716005 | Glean | Resident Solutions Architect | Remote | posted: 2026-07-23
+- [ ] https://jobs.ashbyhq.com/decagon/2059c9be-8da0-49a5-9849-e45f6f6a14d8 | Decagon | Customer Engineer, Agent Builder - German Speaking | London | posted: 2026-07-21
+- [ ] https://jobs.ashbyhq.com/decagon/3b52f574-3cc3-4db9-ac2e-2c78389a1377 | Decagon | Customer Engineer, Agent Builder - French Speaking | London | posted: 2026-07-21
+- [ ] https://jobs.ashbyhq.com/zapier/1767482d-de23-460c-80eb-6d0a3caa72ab | Zapier | Staff Backend Engineer, Revenue | NAMER · APAC · EMEA | posted: 2026-06-30
+- [ ] https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848 | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defence, UK | London | posted: 2026-07-21
+- [ ] https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defense, France | France | posted: 2026-07-20
+- [ ] https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2 | Akamai Technologies | Senior Partner Solutions Engineer | Sweden | posted: 2026-07-27
+- [ ] https://job-boards.greenhouse.io/later/jobs/8562535002 | Later | Senior AI Automation Engineer | Boston, MA; Chicago, Illinois, United States; Los Angeles, California, United States; New York, New York, United States; Remote; San Francisco, California, United States; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Vancouver, Washington, United States | posted: 2026-05-28
+- [ ] https://jobs.ashbyhq.com/DeepL/7827cc1e-4cd4-4b5d-a266-1aed45b1bca0 | DeepL | Snr Marketing Operations Manager / GTM Engineer | London | posted: 2026-07-21
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7814021003?gh_jid=7814021003 | Celonis | Associate (AI) Solution Consultant - Orbit Program (Madrid-based) | Munich, Germany | posted: 2026-07-23
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003 | Celonis | Associate Applied (AI) Value Engineer (DACH) - Orbit Program | Madrid, Spain | posted: 2026-07-27
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7809731003?gh_jid=7809731003 | Celonis | Associate Applied (AI) Value Engineer - Orbit Program (Madrid-based) | Amsterdam, Netherlands | posted: 2026-07-20
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7807064003?gh_jid=7807064003 | Celonis | People & Culture Automation & AI Project Manager | Madrid, Spain | posted: 2026-07-23
+- [x] ~~https://jobs.ashbyhq.com/n8n/bf526af6-784c-49e8-8233-d69595423b4d | n8n | Senior Data Engineer | Germany · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Kosovo · Portugal · Poland · Serbia · Austria · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Czech Republic · Croatia · Spain · Greece · Ukraine | posted: 2026-07-22 — posting expired (liveness sweep)~~
+- [ ] https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436 | n8n | IT Systems & Automation Engineer | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Czech Republic · Croatia · Spain · Greece | posted: 2026-07-21
+- [ ] https://sumup.com/careers/positions/8596505002?gh_jid=8596505002 | SumUp | AI Experience Lead - Operations | Berlin, Germany | posted: 2026-07-24
+- [ ] https://sumup.com/careers/positions/8285232002?gh_jid=8285232002 | SumUp | Customer Support Agent - EN | Barcelona, Barcelona, Spain | posted: 2025-11-11
+- [ ] https://sumup.com/careers/positions/8340156002?gh_jid=8340156002 | SumUp | Customer Support Agent- French | Barcelona, Barcelona, Spain | posted: 2026-01-13
+- [ ] https://sumup.com/careers/positions/8364212002?gh_jid=8364212002 | SumUp | Data Engineer | Berlin, Germany | posted: 2026-07-23
+- [x] ~~https://sumup.com/careers/positions/8637377002?gh_jid=8637377002 | SumUp | Senior Backend Engineer - Commercial Systems and Intelligence | Berlin, Germany | posted: 2026-07-28 — posting expired (liveness sweep)~~
+- [ ] https://sumup.com/careers/positions/8174816002?gh_jid=8174816002 | SumUp | Zelfstandig B2B Sales Agent | Amsterdam, Netherlands | posted: 2025-09-19
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8644800002 | Wayve | Data Engineer | Germany | posted: 2026-07-22
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8637714002 | Wayve | System Integration Engineer | London | posted: 2026-07-17
+- [ ] https://jobs.ashbyhq.com/faculty/72faa106-47e1-4e0f-8f9b-d5af33a5a6d5 | Faculty | Principal Product Manager | UK - London | posted: 2026-07-21
+- [ ] https://jobs.ashbyhq.com/faculty/6c0abf94-8d61-459b-b094-49307a595c60 | Faculty | Senior Research Scientist - AI Safety Evaluations | UK - London | posted: 2026-07-23
+- [ ] https://jobs.ashbyhq.com/causaly/0d240789-10ba-4a84-89fc-76f7e62079c0 | Causaly | Senior AI Engineer | London | posted: 2026-03-04
+- [ ] https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer | London · San Francisco · United States · Boston · New York | posted: 2026-06-22
+- [ ] https://jobs.ashbyhq.com/legora/53ae82a6-d5d6-4565-88aa-c6a2feccc736 | Legora | Senior Product Manager | London | posted: 2026-07-24
+- [ ] https://jobs.ashbyhq.com/corti/542068bd-b25c-440f-ab3f-11b2adcfe5d1 | Corti | GTM Engineer | Copenhagen, Denmark | posted: 2026-07-21
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer | Remote (North America) | posted: 2026-07-22
+- [ ] https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441 | Supabase | Product Manager - Marketplace | Remote | posted: 2026-07-24
+- [ ] https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0 | Palantir | Forward Deployed Software Engineer - NATO | London, United Kingdom | posted: 2026-07-23
+- [ ] https://jobs.lever.co/spotify/4d51cab2-09b9-4117-a732-a8a3e487b2b9 | Spotify | Senior Product Manager - Subscriptions Mission | London | posted: 2026-05-15
+- [ ] https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943 | Spotify | Staff Data Engineer — Subscriptions User Understanding | London | posted: 2026-07-27
+
+- [ ] https://ats.rippling.com/rippling/jobs/ede596ba-99bb-4d70-888e-23c0c295c517 | Rippling | Senior Software Engineer - Rippling AI | Bangalore, India | **4.3/5 — apply tomorrow** (AI Platform; Java/Python; 5-8 yrs; agentic AI)
+- [ ] https://ats.rippling.com/rippling/jobs/8d348367-72ad-49d7-a06d-19d691f01069 | Rippling | Senior Software Engineer - AI Initiative | Bangalore, India | **4.2/5 — apply tomorrow** (AI Platform; near-dup of Rippling AI req; pick ONE channel)
+- [ ] https://ats.rippling.com/rippling/jobs/ba72246f-b46e-45da-9aec-3db244c2a35a | Rippling | Senior Software Engineer, Backend | London, UK | **3.7/5 — apply tomorrow** (Global Payroll; #1 location London; Python/Django-leaning stack)
+- [ ] ~~https://ats.rippling.com/rippling/jobs/0654e4e2-7e90-4be9-b068-dd5e95451fc7 | Rippling | Senior Software Engineer - AI Governance | Bangalore, India | 3.4/5 — skip: security/identity-heavy, not in profile~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/7bf032b6-7fb5-4a82-b299-d2a013491c61 | Rippling | Senior Staff Software Engineer - Rippling AI | Bangalore, India | skip: requires 14+ yrs~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/a85f4703-0d12-4148-adeb-075e78024248 | Rippling | Staff Software Engineer - Rippling AI | Bangalore, India | skip: Staff-level~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/e64a65a0-7b28-4f82-b06f-b2b9c9fb3edc | Rippling | Staff Software Engineer - AI Governance | Bangalore, India | skip: Staff-level~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/69b9d52d-c313-4ee1-83be-697d9b4a1a5a | Rippling | Software Engineer 2 - AI Platform | Bangalore, India | skip: below seniority~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/16b161f2-b631-408e-9177-c5723c62d690 | Rippling | Credit Data Scientist & AI Agents | Bangalore, India | skip: DS role, not engineering~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/1310bdc8-24c7-4e6a-af30-223e658c9402 | Rippling | AI/ML Model Risk Validator | Bangalore, India | skip: DS role, not engineering~~
+- [ ] ~~https://ats.rippling.com/rippling/jobs/00dbe4a0-da1e-4696-8c15-d4724a402c42 | Rippling | Business Systems Developer | Remote (United States) | skip: US-only + title mismatch~~
+
+- [ ] https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-2 | CapsLock | Generative AI Pipeline Engineer (Tech Lead) | Remote | posted: 2026-08-04
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7681157 | Intercom | AI Products - Sales Strategy & Operations, Senior Manager | Dublin, Ireland | posted: 2026-03-06
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8094884 | Intercom | Senior AI Deployment Consultant | London, England | posted: 2026-07-30
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8096347 | Intercom | Senior Engineering Manager, Customer Agent | London, England | posted: 2026-07-30
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5bcd3475-8e38-42f1-897a-fa010ee6f9bd | ElevenLabs | Automation Engineer - Influencers | London · Ireland · Spain · United States · Germany · Poland | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/bland/ea532833-f3d8-4dad-b5b2-f9bbeaa1a1a5 | Bland AI | Enterprise Solutions Engineer | San Francisco or Remote | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | Deepgram | Staff Product Manager, Agentic Experiences (Former Engineer) | USA / Remote | posted: 2026-07-29
+- [ ] https://jobs.ashbyhq.com/deepgram/928303de-61d6-46ec-b10a-08709e1deb4a | Deepgram | Senior Product Marketing Manager, Voice Agent | USA / Remote | posted: 2026-08-06
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6132416004 | Vercel | Partner Solutions Engineer, EMEA | Hybrid - London, Berlin | posted: 2026-08-07
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (Typescript) | Remote (United States) | posted: 2026-07-29
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4675077005 | Glean | Manager, AI Outcomes | Bangalore, India | posted: 2026-03-24
+- [ ] https://jobs.ashbyhq.com/n8n/bdff4d5b-9cc0-4b1f-9ca1-7008e5972488 | n8n | Senior Frontend Platform Engineer | Berlin Office · Europe | posted: 2026-08-07
+- [ ] https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4 | n8n | Senior Product Manager - Core Platform | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · Finland · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · United Kingdom · Croatia · Spain · Greece | posted: 2026-08-03
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations | Europe · Canada · United States · San Francisco | posted: 2026-08-07
+- [ ] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | LangChain | AI Engineer, Enablement (London) | London | posted: 2026-08-05
+- [ ] https://jobs.ashbyhq.com/DeepL/4921cca4-576c-4d90-8742-8a90bbc0a6ea | DeepL | Senior Data Platform Engineer | London | posted: 2026-07-30
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7819725003?gh_jid=7819725003 | Celonis | Associate Applied (AI) Value Engineer (DACH) | Munich, Germany | posted: 2026-07-28
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production | Munich, Germany | posted: 2026-08-04
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant (Senior Value Engineer) - Scale Team | Munich, Germany | posted: 2026-08-04
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production | Munich, Germany | posted: 2026-08-04
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7737493003?gh_jid=7737493003 | Celonis | Working Student AI & Management Consulting (Nordics) | Copenhagen, Denmark | posted: 2026-05-22
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7746655003?gh_jid=7746655003 | Celonis | Working Student Applied AI Solution Consulting (Nordics) | Copenhagen, Denmark | posted: 2026-05-22
+- [ ] https://traderepublic.com/en-de/about?jobId=6318622003&gh_jid=6318622003 | Trade Republic | ML Platform Engineer (Berlin/London/Paris) | Berlin; London; Paris | posted: 2025-01-10
+- [ ] https://careers.hellofresh.com/global/en/job/8105337?gh_jid=8105337 | HelloFresh | Senior Product Manager II, Menu Planning (all genders) | Berlin, Berlin, Germany | posted: 2026-08-07
+- [ ] https://careers.hellofresh.com/global/en/job/8093756?gh_jid=8093756 | HelloFresh | Senior Strategic Product Manager (M/F/X) | Paris, Paris, France | posted: 2026-07-29
+- [ ] https://sumup.com/careers/positions/8682238002?gh_jid=8682238002 | SumUp | Backend Engineer (Golang) - Balance Management | Berlin, Germany | posted: 2026-08-05
+- [ ] https://sumup.com/careers/positions/8682293002?gh_jid=8682293002 | SumUp | Backend Engineer - Money Transfers | Berlin, Germany | posted: 2026-08-05
+- [ ] https://sumup.com/careers/positions/8682251002?gh_jid=8682251002 | SumUp | Backend Engineer - Transfers Gateway | Berlin, Germany | posted: 2026-08-05
+- [ ] https://sumup.com/careers/positions/8658169002?gh_jid=8658169002 | SumUp | Customer Support Agent - Consumer Team | Barcelona, Barcelona, Spain | posted: 2026-07-30
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8655859002 | Wayve | Senior Machine Learning Engineer, AI Performance | London | posted: 2026-08-04
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8642805002 | Wayve | Staff ML Performance Engineer (Compiler) | London | posted: 2026-08-04
+- [ ] https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75 | Lovable | Brand Designer, AI & Ops | London · Stockholm · Sweden | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/legora/d1c6f3d2-50d5-4787-ac21-5d8df0a6ddc2 | Legora | AI Adoption Manager - Communities | London | posted: 2026-07-30
+- [ ] https://jobs.ashbyhq.com/legora/34c4aecc-a808-480b-a585-61e489b0eac4 | Legora | Associate, Applied Research, AI Transformation | London | posted: 2026-08-04
+- [ ] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | posted: 2025-08-01
+- [ ] https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | posted: 2021-07-01
+- [ ] https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer | Remote | posted: 2026-07-31
+
+- [ ] https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-co-founder-cco-100-remote-m-f-d-5243469993 | EWOR GmbH | AI Research Lab Co-Founder / CCO (100 % remote) (m/f/d) | posted: 2026-08-08
+- [ ] https://jobs.ashbyhq.com/lendable/461b6fda-d86a-49b4-b4be-1e916e94ab1f | Lendable | Senior Product Manager (Superapp) | London | posted: 2026-03-17
+- [ ] https://jobs.ashbyhq.com/lendable/e2de68f4-c6e1-4cad-94f0-7cfc444d16ab | Lendable | Product Manager - UK Cards | London | posted: 2026-06-25
+- [ ] https://jobs.ashbyhq.com/lendable/636b90ec-028d-461a-b358-c7b871918dd8 | Lendable | Senior Product Manager - UK Cards | London | posted: 2026-06-25
+- [ ] https://jobs.ashbyhq.com/lendable/e972b604-832b-4726-9fbb-83d0dec4f1cf | Lendable | Graduate - Operations Transformation Associate | London | posted: 2026-06-16
+- [ ] https://jobs.ashbyhq.com/lendable/5f8011cc-25eb-4298-ab45-3c6586d07efb | Lendable | Product Manager (US Loans) | London | posted: 2026-06-24
+- [ ] https://jobs.ashbyhq.com/lendable/6981baa3-56a6-4e6c-8cc1-30603e2a1555 | Lendable | Product Manager (UK Loans) | London, United Kingdom | posted: 2026-08-04
+- [ ] https://jobs.ashbyhq.com/lendable/93612ba5-fc02-4744-90a7-61fc7c3ac89c | Lendable | Data Engineer | London | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/lendable/d9effa9b-07c2-4075-a350-2f84fc580e8d | Lendable | Associate Product Manager | London, United Kingdom | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/lendable/50004e7b-3de1-4268-9359-3786db51d43f | Lendable | Technical Product Manager (Superapp) | London | posted: 2026-08-07
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6635595 | Monzo | Backend Engineer III | Cardiff, London or Remote (UK) | posted: 2025-02-17
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8113842 | Monzo | Senior Audit Transformation Lead | London; Remote (UK) | posted: 2026-08-07
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6635837 | Monzo | Senior Backend Engineer | Cardiff, London or Remote (UK) | posted: 2025-02-14
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7622551 | Monzo | Senior Product Manager, EU | Barcelona; London | posted: 2026-03-02
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7903411 | Monzo | Senior Product Manager, FinCrime | London | posted: 2026-05-11
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6036797 | Monzo | Senior Staff Backend Engineer | Cardiff, London or Remote (UK) | posted: 2024-06-12
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6636147 | Monzo | Staff Backend Engineer | Cardiff, London or Remote (UK) | posted: 2025-02-14
+- [ ] https://jobs.ashbyhq.com/quantexa/b835b33f-a320-48b9-bf6b-e7c59cc87466 | Quantexa | Associate Data Engineer | London | posted: 2026-07-29
+- [ ] https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002 | ComplyAdvantage | Principal Data Engineer | London, England, United Kingdom | posted: 2026-06-03
+- [ ] https://complyadvantage.com/careers/jobs/8605499002?gh_jid=8605499002 | ComplyAdvantage | Product Manager - Data Ingestion | Lisbon, Portugal | posted: 2026-06-24
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/8064518 | GoCardless | Senior Product Manager | London, UK | posted: 2026-07-20
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4906047101 | Ebury | Full stack Engineer - AI | London | posted: 2026-07-02
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4934580101 | Ebury | FX Solution Product Manager - Maritime | London | posted: 2026-07-22
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4876046101 | Ebury | Mid-Full-Stack Engineer - AI Agent Platform | London | posted: 2026-05-27
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4928717101 | Ebury | Platform Engineer | London | posted: 2026-07-22
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4942713101 | Ebury | Senior Commercial Product Manager | London | posted: 2026-07-31
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4876049101 | Ebury | Senior Full-Stack Engineer - AI Agent Platform | London | posted: 2026-05-27
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4935530101 | Ebury | Senior Product Manager - Financial Crime (Fraud Prevention) | London | posted: 2026-07-22
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4935531101 | Ebury | Senior Product Manager - Financial Crime (KYC/KYB) | London | posted: 2026-07-22
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4935527101 | Ebury | (Senior) Product Manager - Financial Crime (Name & Payment Screening) | London | posted: 2026-07-22
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4939731101 | Ebury | Senior Product Manager - FX Products | London | posted: 2026-07-28
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4947341101 | Ebury | Staff Product Manager - API Connectivity | London | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/checkout.com/5e8d13b6-632c-41b0-bd5a-ce55143dd493 | Checkout.com | Cloud Platform Engineer | London | posted: 2026-04-16
+- [ ] https://jobs.ashbyhq.com/checkout.com/5f54ba43-5762-4402-a698-10a5598906d1 | Checkout.com | Senior Product Manager, Disputes | London | posted: 2026-07-28
+- [ ] https://jobs.ashbyhq.com/checkout.com/2ea119a0-49c8-489b-9c18-86cb31ed3708 | Checkout.com | AI & Automation Specialist | London | posted: 2026-06-05
+- [ ] https://jobs.ashbyhq.com/checkout.com/5b234d2d-e98b-4c9e-ae88-8e98a4e61fe9 | Checkout.com | Product Manager, Vault & Forward API | London | posted: 2026-08-04
+- [ ] https://jobs.ashbyhq.com/checkout.com/9b0c8785-6c02-4388-aa65-a2a45ab44969 | Checkout.com | Forward Deployed AI Accelerator, Operations | London | posted: 2026-06-11
+- [ ] https://jobs.ashbyhq.com/checkout.com/8e87f225-59e4-4ab1-befd-0f574c6b97c5 | Checkout.com | Senior BigQuery Data Engineer | London | posted: 2026-08-03
+- [ ] https://jobs.ashbyhq.com/checkout.com/d77b34ad-20f9-4926-a29e-493d4749a90f | Checkout.com | Staff AI/ML Engineer | London | posted: 2026-07-16
+- [ ] https://jobs.ashbyhq.com/checkout.com/29b8378c-3cb6-430e-9a4f-1ec0615c65cd | Checkout.com | Senior Software Engineer, AI Centre of Excellence | London | posted: 2026-07-21
+- [ ] https://jobs.ashbyhq.com/checkout.com/cf659680-f2b2-4d79-92aa-8b3be7719040 | Checkout.com | Senior Product Manager, Fincrime | London | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/checkout.com/61ed6dfb-780e-4ec1-86cc-2398ed0671ab | Checkout.com | Product Manager, Alternative Payment Methods | London | posted: 2026-08-05
+- [ ] https://jobs.ashbyhq.com/checkout.com/ec22667a-971f-41ba-9cec-9eb45585ed87 | Checkout.com | Product Manager, Payouts | London | posted: 2026-08-05
+- [ ] https://jobs.ashbyhq.com/sardine/8940dcd3-1cb1-4c45-b162-34630ddb63a5 | Sardine | Solutions Architect, Integrations (UK/EU) | United Kingdom · Europe · Poland · Spain · Germany | posted: 2026-05-27
+- [ ] https://jobs.ashbyhq.com/sardine/122f0715-0d0a-42b3-94f5-0a59d4169d69 | Sardine | Software Backend Engineer | India | posted: 2026-05-11
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7650503003 | PhonePe | AI Creative Lead | Bangalore | posted: 2026-03-06
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7735150003 | PhonePe | AI Video Specialist | Bangalore | posted: 2026-05-21
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7799414003 | PhonePe | Product Manager | Bengaluru, Karnataka | posted: 2026-07-30
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7813734003 | PhonePe | Product Manager : Data Platform | Bangalore | posted: 2026-07-23
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4718628005 | Razorpay | Associate Manager, Solutions Engineering | Bengaluru | posted: 2026-07-30
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716555005 | Razorpay | Senior Product Manager | Bengaluru | posted: 2026-07-29
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694507005 | Razorpay | Senior Product Manager (Growth) | Bengaluru | posted: 2026-05-18
+- [ ] https://jobs.lever.co/paytm/1bd21732-ce5b-4dc0-937f-c2a57e7007d2 | Paytm | Client Onboarding Director , Inference and Agentic AI | Noida, Uttar Pradesh | posted: 2026-04-29
+- [ ] https://jobs.lever.co/paytm/938856de-8b1d-4444-a2d2-f8188cb205bf | Paytm | Client Onboarding Manager - Inference and Agentic AI | Noida, Uttar Pradesh | posted: 2026-06-18
+- [ ] https://jobs.lever.co/paytm/77e1e11f-744f-4f62-8c91-e59393db2208 | Paytm | Data Engineering - Technical Lead | Noida, Uttar Pradesh | posted: 2026-01-07
+- [ ] https://jobs.lever.co/paytm/92b876ca-91cf-4ece-b2b7-2940ffda8dc9 | Paytm | Data Engineering - Senior / Lead Engineer | Noida, Uttar Pradesh | posted: 2026-04-10
+- [ ] https://jobs.lever.co/paytm/e5145511-6cbd-4168-a5ad-24bc925487db | Paytm | Enterprise GTM Lead, Inference and Agentic AI | Noida, Uttar Pradesh | posted: 2026-04-29
+- [ ] https://jobs.lever.co/paytm/2f063321-7ad9-44b6-beab-b46a02073e7f | Paytm | Marketing Director - Paytm(Agentic AI) | Noida, Uttar Pradesh | posted: 2026-06-11
+- [ ] https://jobs.lever.co/paytm/e825fb5a-2ede-43ab-84dd-90e00dd9e954 | Paytm | Pre Sales - AI Solution Architect | Noida, Uttar Pradesh | posted: 2026-07-02
+- [ ] https://jobs.lever.co/paytm/e20a86ce-bf62-4fac-9d63-24364f69bd43 | Paytm | Presales Manager - Inference & Agentic AI - Paytm | Noida, Uttar Pradesh | posted: 2026-06-12
+- [ ] https://jobs.lever.co/paytm/a937e21d-fa41-48b5-bf67-e2e407388396 | Paytm | Product Management - Senior Product Manager - Travel | Gurugram, Haryana | posted: 2026-07-22
+- [ ] https://jobs.lever.co/paytm/b507ffdc-510a-4384-949d-6324ed277ae2 | Paytm | Product Management - Associate Product Manager - Travel. | Gurugram, Haryana | posted: 2026-05-19
+- [ ] https://jobs.lever.co/paytm/74c35d72-12a6-4b8a-ac4c-9d751ad8112a | Paytm | Product Management - Manager- Lending (AI & Platform) | Noida, Uttar Pradesh | posted: 2026-06-17
+- [ ] https://jobs.lever.co/paytm/3db438be-5917-4f31-96ca-f8e26f0ff5bc | Paytm | Product Management - Product Growth Manager - Agent | Bengaluru, Karnataka | posted: 2025-12-30
+- [ ] https://jobs.lever.co/paytm/bcd1320b-72a8-47e1-a062-15241381fdb3 | Paytm | Product Management - Product Manager - Lending Platform | Bangalore, Karnataka | posted: 2026-04-17
+- [ ] https://jobs.lever.co/paytm/d73b511b-ae92-46f0-9aa1-ac10f2fbb84a | Paytm | Product Management - Product Manager - Paytm Money | Bangalore, Karnataka | posted: 2025-12-02
+- [ ] https://jobs.lever.co/paytm/dccfda94-a960-4cfc-85bd-f60c89e133b8 | Paytm | Product Management - Product Manager - Recharges & Utilities | Noida, Uttar Pradesh | posted: 2026-04-16
+- [ ] https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734 | Paytm | Product Management - Senior Product Manager - Ads | Bangalore, Karnataka | posted: 2026-07-31
+- [ ] https://jobs.lever.co/paytm/b909105c-269c-4726-b0af-f07ff2b2dd36 | Paytm | Product Management - Senior Product Manager - Agent & Merchant | Bangalore, Karnataka | posted: 2026-04-10
+- [ ] https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b | Paytm | Product Management - Senior Product Manager - Lending Platform | Noida, Uttar Pradesh | posted: 2026-04-04
+- [ ] https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c | Paytm | Product Management - Senior Product Manager - UPI Product | Noida, Uttar Pradesh | posted: 2026-07-28
+- [ ] https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0 | Paytm | Product Management - Senior Product Manager (Data Product) - PPSL | Bengaluru, Karnataka | posted: 2026-06-23
+- [ ] https://jobs.lever.co/paytm/255aa024-39ae-4f74-a62b-b062ec12db97 | Paytm | Product Management- Associate Product Manager- Lending | Noida, Uttar Pradesh | posted: 2025-08-01
+- [ ] https://jobs.lever.co/paytm/650d048f-1e1b-429b-96e0-e673c511cf9d | Paytm | Product Management- Product Manager- Devices | Noida, Uttar Pradesh | posted: 2025-12-04
+- [ ] https://jobs.lever.co/paytm/b0377ae2-3d60-4602-a021-d9fc0ee98906 | Paytm | Sales Operations Manager, Inference and Agentic AI | Noida, Uttar Pradesh | posted: 2026-04-29
+- [ ] https://jobs.smartrecruiters.com/Wise/744000142140579-principal-product-manager-money-laundering-detection | Wise | Principal Product Manager - Money Laundering Detection | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000142123611-principal-product-manager-risk-control-governance | Wise | Principal Product Manager - Risk & Control Governance | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000142091699-senior-ml-engineering-lead-financial-crime | Wise | Senior ML Engineering Lead - Financial Crime | London, England, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000141916207-data-engineering-manager-treasury-global-liquidity | Wise | Data Engineering Manager - Treasury Global Liquidity | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000141872874-network-automation-engineer | Wise | Network Automation Engineer | Hyderabad, , India
+- [ ] https://jobs.smartrecruiters.com/Wise/744000141745419-senior-data-engineer-i-scalable-growth | Wise | Senior Data Engineer I - Scalable Growth | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000141685199-senior-data-engineer-ii-scalable-growth | Wise | Senior Data Engineer II - Scalable Growth | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000141293240-solutions-engineering-lead | Wise | Solutions Engineering Lead | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000141243734-principal-product-manager-apac-onboarding-kyc | Wise | Principal Product Manager - APAC Onboarding & KYC | Hyderabad, , India
+- [ ] https://jobs.smartrecruiters.com/Wise/744000140854642-senior-product-manager-accounting-integrations-and-reporting | Wise | Senior Product Manager - Accounting Integrations and Reporting | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000140853609-staff-ai-content-designer-fincrime | Wise | Staff AI Content Designer, FinCrime | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000140633240-principal-ai-model-designer | Wise | Principal AI Model Designer | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000140626109-senior-backend-engineer-payin-platform | Wise | Senior Backend Engineer - Payin Platform | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000140434924-privacy-and-ai-counsel | Wise | Privacy and AI Counsel | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000139212569-senior-backend-engineer | Wise | Senior Backend Engineer | Hyderabad, , India
+- [ ] https://jobs.smartrecruiters.com/Wise/744000139133504-principal-product-manager-kyc-kyb | Wise | Principal Product Manager - KYC/KYB | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000138789759-principal-product-manager-business-onboarding-verification | Wise | Principal Product Manager - Business Onboarding Verification | Hyderabad, , India
+- [ ] https://jobs.smartrecruiters.com/Wise/744000138639253-lead-ml-engineer-scientist | Wise | Lead ML Engineer / Scientist | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000138593452-backend-engineer-account-sharing | Wise | Backend Engineer - Account Sharing | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000138152479-backend-engineer-for-acquiring-risk | Wise | Backend Engineer for Acquiring Risk | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000137124218-product-manager-data-lake | Wise | Product Manager - Data Lake | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000136744498-senior-data-engineer-ii-treasury-global-liquidity | Wise | Senior Data Engineer II - Treasury Global Liquidity | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000136311941-senior-ml-platform-engineer-ii-financial-crime | Wise | Senior ML Platform Engineer II - Financial Crime | London, England, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000136212959-principal-product-manager-high-volume-servicing | Wise | Principal Product Manager - High Volume Servicing | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000136166969-senior-solutions-engineer | Wise | Senior Solutions Engineer | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000134975135-staff-backend-engineer-consumer-onboarding | Wise | Staff Backend Engineer - Consumer Onboarding | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000133616975-principal-product-manager-customer-activation | Wise | Principal Product Manager - Customer Activation | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000132869120-senior-principal-product-manager-accounting-infrastructure | Wise | Senior/Principal Product Manager - Accounting Infrastructure | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000132644934-senior-backend-engineer-ii-europe-account | Wise | Senior Backend Engineer II - Europe Account | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000132637552-senior-product-manager-marketing-platform | Wise | Senior Product Manager - Marketing Platform | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000132465141-principal-product-manager-account-setup | Wise | Principal Product Manager - Account Setup | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000121225672-staff-backend-engineer | Wise | Staff Backend Engineer | Hyderabad, , India
+- [x] https://english-stonex.icims.com/jobs/16348/ai-performance-media-associate/job | StoneX Group | AI Performance Media Associate — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15513/technical-product-manager---market-data/job | StoneX Group | Technical Product Manager - Market Data — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15470/mid-level-qa-automation-engineer/job | StoneX Group | Mid level QA Automation Engineer — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15467/qa-automation-engineer-%e2%80%93-detox/job | StoneX Group | QA Automation Engineer &ndash; Detox — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15449/automation-qa-engineer/job | StoneX Group | Automation QA Engineer — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15443/qa-automation-engineer/job | StoneX Group | QA Automation Engineer — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15394/kubernetes-platform-engineer-senior-staff-engineer/job | StoneX Group | Kubernetes Platform Engineer/Senior Staff Engineer — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15289/ai-product-research-analyst/job | StoneX Group | AI Product Research Analyst — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15277/senior-cloud-platform-engineer/job | StoneX Group | Senior Cloud Platform Engineer — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/15068/lead---it-data-engineering-and-analytics/job | StoneX Group | Lead - IT Data Engineering and Analytics — posting expired (liveness sweep)
+- [x] https://english-stonex.icims.com/jobs/14781/senior-qa-automation-engineer/job | StoneX Group | Senior QA Automation Engineer — posting expired (liveness sweep)
+
+- [ ] https://weworkremotely.com/remote-jobs/crae-group-ltd-customer-support-agent-remote | CRAE GROUP LTD | Customer Support Agent (Remote) | Anywhere in the World | posted: 2025-12-05
+- [ ] https://jobicy.com/jobs/149058-google-ads-manager-ai-native | Ruby Labs | Google Ads Manager (AI Native) | Europe, Türkiye | posted: 2026-08-10
+- [ ] https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence | Actian | QA Automation Lead \[gn\] Data Intelligence | Europe | posted: 2026-08-10
+- [ ] https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence | Actian | AI Enablement Lead \[gn\] Data Intelligence | Europe | posted: 2026-08-10
+- [ ] https://jobicy.com/jobs/149057-senior-site-reliability-engineer-hardware-automation | Nebius | Senior Site Reliability Engineer (Hardware Automation) | Europe, Netherlands | posted: 2026-08-10
+- [ ] https://jobicy.com/jobs/145652-senior-product-manager-smart-metering-steering-m-f-d | 1KOMMA5° | (Senior) Product Manager Smart Metering & Steering (m/f/d) | Germany | posted: 2026-08-09
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6135436004 | Boomi | Endpoint management and IT Automation - Advisor i7 - IT Infrastructure | India | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/DeepL/fb25de9d-3b6f-4c5f-8b33-41aba66ba997 | DeepL | Staff Platform Engineer | London | posted: 2026-08-08
+- [ ] https://careers.hellofresh.com/global/en/job/8111616?gh_jid=8111616 | HelloFresh | Senior Marketing Automation Engineer (all genders) | Berlin, Berlin, Germany | posted: 2026-08-10
+- [ ] https://careers.hellofresh.com/global/en/job/8095950?gh_jid=8095950 | HelloFresh | Senior Product Manager, Intelligent Platforms (m/f/x) | Berlin, Berlin, Germany | posted: 2026-08-10
+- [ ] https://sumup.com/careers/positions/8645259002?gh_jid=8645259002 | SumUp | Backend Engineer - Risk&Compliance | Berlin, Germany | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961 | Faculty | Forward Deployed Engineer | UK - London | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8 | Faculty | Senior Forward Deployed Engineer | UK - London | posted: 2026-08-10
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8119265 | Monzo | Platform Engineer | Cardiff, London or Remote (UK) | posted: 2026-08-10
+- [ ] https://jobs.smartrecruiters.com/Wise/744000142702437-senior-technical-product-manager-api-experience | Wise | Senior Technical Product Manager - API Experience | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000142590814-ml-engineer-statistical-integrity-financial-crime | Wise | ML Engineer - Statistical Integrity (Financial Crime) | London, , United Kingdom
+- [ ] https://jobs.ashbyhq.com/lendable/10178808-a3e2-428c-92b2-88cc001223f2 | Lendable | Senior Quality Engineer - AI | London | posted: 2026-08-08
+- [ ] https://jobs.ashbyhq.com/lendable/8cbe2dc4-e746-4565-9c4e-2eda086057da | Lendable | Senior AI Quality Engineer | London | posted: 2026-08-08
+- [ ] https://jobs.smartrecruiters.com/Swiggy/6000000001300520-senior-product-manager | Swiggy | Senior Product Manager | Bengaluru, KA, India
+- [ ] https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/ML-Ops---Data-Engineer_CMC5104 | CMC Markets | ML Ops Engineer | 2 Locations
+- [ ] https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/Security-Platform-Engineering-Manager_CMC5213 | CMC Markets | Security Platform Engineering Manager | London
+- [ ] https://jobs.lever.co/meesho/b50e3cdc-439d-467c-8e4d-a87d339c4974 | Meesho | Associate Director - Sort center Design & Operations – Sort Center Automation​ | Bangalore, Karnataka | posted: 2025-04-02
+- [ ] https://jobs.lever.co/meesho/fe839191-1761-4094-9d3c-4d554904b84d | Meesho | Automation engineer (Warehouse Automation) | Bangalore, Karnataka | posted: 2025-10-14
+- [ ] https://jobs.lever.co/meesho/a1cc7ad9-a233-4ba6-b53b-e56116f6ac27 | Meesho | Engineering Manager – AI Engineering | Bangalore, Karnataka | posted: 2026-07-31
+- [ ] https://jobs.lever.co/meesho/fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a | Meesho | Forward Deployed Engineer - II | Bangalore, Karnataka | posted: 2026-04-06
+- [ ] https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a | Meesho | Group Product Manager | Bangalore, Karnataka | posted: 2026-06-29
+- [ ] https://jobs.lever.co/meesho/122c2edd-ea44-41fd-a06f-ecc79588f6c6 | Meesho | GTM & Enterprise Sales Consultant – Meesho AI Services (MAS) | Mumbai, Maharashtra | posted: 2026-07-01
+- [ ] https://jobs.lever.co/meesho/c49e13f6-f027-42f3-98b5-745d83997cbf | Meesho | GTM Engineer – Meesho AI Services (MAS) | Bangalore, Karnataka | posted: 2026-06-18
+- [ ] https://jobs.lever.co/meesho/f2de8c5f-1636-428d-aaea-af1400142975 | Meesho | Security Architect - AI-Powered Security Engineering | Bangalore, Karnataka | posted: 2026-06-18
+- [ ] https://careers.google.com/jobs/results/127611895480754886-staff-software-engineer-aiml-genai-google-ads | Google | Staff Software Engineer, AI/ML GenAI, Google Ads | Bengaluru, Karnataka, India
+- [ ] https://careers.google.com/jobs/results/127602843300307654-software-engineer-aiml-phd-early-career-2026 | Google | Software Engineer, AI/ML, PhD, Early Career, 2026 | Bengaluru, Karnataka, India
+- [ ] https://careers.google.com/jobs/results/99011220777902790-software-engineer-iii-aiml-infrastructure-performance-engineering | Google | Software Engineer III, AI/ML Infrastructure, Performance Engineering | Bengaluru, Karnataka, India
+- [ ] https://careers.google.com/jobs/results/80230052494484166-staff-software-engineer-ai-garage | Google | Staff Software Engineer, AI Garage | Hyderabad, Telangana, India
+- [ ] https://english-stonex.icims.com/jobs/14979/ai-ux-researcher/job | StoneX Group | AI UX Researcher
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556953173 | Microsoft | Solution Engineering Cloud & AI Apps | India, Maharashtra, Mumbai
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556864628 | Microsoft | Principal Consultant, AI Business Solutions | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556864918 | Microsoft | Consultant - Dotnet Full Stack + AI | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556947397 | Microsoft | Consultant - Data Engineer + AI | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556942186 | Microsoft | Principal Applied Scientist- Foundation Models, Agents & Decision Intelligence | India, Karnataka, Bangalore
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556864914 | Microsoft | Senior Consultant - Data & AI | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556864904 | Microsoft | Senior Consultant Apps - (AI + Full stack ) | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556913271 | Microsoft | Principal Software Engineering Manager / Ads Trust & Safety AI Platform | India, Karnataka, Bangalore
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556853272 | Microsoft | ML - Principal Software Engineer | India, Telangana, Hyderabad
+
+- [ ] https://himalayas.app/companies/resourceful-talent-group/jobs/product-manager | Resourceful Talent Group | Product Manager | posted: 2026-08-15
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8090570 | Intercom | Senior Product Manager, Messenger | Dublin, Ireland | posted: 2026-07-28
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5385634008 | Anthropic | Manager, Forward Deployed Engineering | London, UK | posted: 2026-08-13
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230394008 | Anthropic | Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY | posted: 2026-08-11
+- [ ] https://jobs.ashbyhq.com/elevenlabs/38e0b741-5bfa-4481-891e-e95b503d4aff | ElevenLabs | Forward Deployed Engineer - Software Engineer - France | France | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Netherlands | Netherlands | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c | ElevenLabs | Enterprise Solutions Engineer - Sweden | Sweden | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c6fc071f-c80e-4d3b-921a-3ec02a2ad25d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Sweden | Sweden | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/elevenlabs/33bb01d0-993c-47fa-ae91-81c0c84f367e | ElevenLabs | Product Marketing - Agents - Government | United Kingdom · Dublin · Ireland · Tokyo · Japan · Warsaw · Poland · London · San Francisco · United States | posted: 2026-08-12
+- [ ] https://ats.rippling.com/rippling/jobs/a91be8b6-be18-4fad-9738-5b5f40bd14f4 | Rippling | Software Engineer II (AI Governance) | Bangalore, India
+- [ ] https://coreweave.com/careers/job?4683042006&board=coreweave&gh_jid=4683042006 | Weights & Biases (CoreWeave) | Staff Business Systems Engineer – Vertex Tax Systems | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Remote | posted: 2026-05-20
+- [ ] https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d | Sierra | Forward Deployed Infrastructure Engineer (Spanish speaking) | London | posted: 2026-08-11
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4722386005 | Glean | Strategic Solutions Engineer | Remote · Mountain View, CA (HQ) | posted: 2026-08-07
+- [ ] https://jobs.ashbyhq.com/decagon/9686ca93-1073-48f1-bc2a-af241eba83d1 | Decagon | Director of Solutions Engineering - EMEA Enterprise | London | posted: 2026-08-13
+- [ ] https://jobs.ashbyhq.com/decagon/ab6a5dac-d63b-4862-bc12-c5c9525b6f8b | Decagon | Director of Solutions Engineering - EMEA Strat | London | posted: 2026-08-13
+- [ ] https://jobicy.com/jobs/146023-senior-product-manager-remote-build | Remote | Senior Product Manager, Remote Build | EMEA | posted: 2026-08-15
+- [ ] https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2 | Kubikware | Python & React Engineer with AI (Remote, Latam) | LATAM | posted: 2026-08-15
+- [ ] https://jobicy.com/jobs/146232-lead-data-platform-engineer | saas.group | Lead Data Platform Engineer | Europe | posted: 2026-08-15
+- [ ] https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47 | n8n | Staff Core Platform Engineer | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Netherlands · Hungary · Portugal · Poland · Serbia · Germany · Austria · Finland · Albania · Lithuania · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Georgia · United States · United Kingdom · Croatia · Spain · Greece | posted: 2026-08-11
+- [ ] https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594 | Lemon.io | Senior Data Engineer
+- [ ] https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576 | Skanska Costain STRABAG Joint Venture | Tunnel Agent | London,
+- [ ] https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585 | Skanska Costain STRABAG Joint Venture | Sub Agent | London,
+- [ ] https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0 | Cohere | Member of Technical Staff, Agentic Environments | Europe · Canada · New York · United States | posted: 2026-08-13
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6672115003?gh_jid=6672115003 | Celonis | Lead AI Deployment Architect | Madrid, Spain | posted: 2026-02-04
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7805685003?gh_jid=7805685003 | Celonis | Sr. Frontend Software Engineer - Orchestration and Automation | Madrid, Spain | posted: 2026-08-13
+- [ ] https://careers.hellofresh.com/global/en/job/8102836?gh_jid=8102836 | HelloFresh | Director of Engineering, GenAI Enablement Tribe | Berlin, Berlin, Germany | posted: 2026-08-12
+- [ ] https://careers.hellofresh.com/global/en/job/8125805?gh_jid=8125805 | HelloFresh | Senior AI Solutions Engineer, GenAI Enablement (all genders) | Berlin, Berlin, Germany | posted: 2026-08-12
+- [ ] https://careers.hellofresh.com/global/en/job/8119658?gh_jid=8119658 | HelloFresh | Senior Forward Deployed Engineer, Intelligent Platforms Alliance (all genders) | Berlin, Berlin, Germany | posted: 2026-08-12
+- [ ] https://careers.hellofresh.com/global/en/job/8025707?gh_jid=8025707 | HelloFresh | Senior Product Manager | Dublin, Dublin, Ireland | posted: 2026-06-26
+- [ ] https://sumup.com/careers/positions/8518456002?gh_jid=8518456002 | SumUp | Backend Engineer (Node.js) | Copenhagen, Denmark | posted: 2026-04-22
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8693131002 | Wayve | Customer Integration Engineer | Germany | posted: 2026-08-11
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8702742002 | Wayve | Product Manager, AI Driver | Germany | posted: 2026-08-14
+- [ ] https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd | Faculty | Research Scientist - AI Safety | UK - London | posted: 2026-08-06
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6144041004 | Isomorphic Labs | Integration Engineer (Third Party Systems), London | London | posted: 2026-08-14
+- [x] #242 | https://jobs.ashbyhq.com/lendable/2055ce73-804a-4399-9bfe-482658e25007 | Lendable | Staff AI Engineer | London | 3.9/5 | PDF ❌
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7995037 | Monzo | Senior Product Manager, Business Banking | London | posted: 2026-06-10
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8127822 | Monzo | Senior Product Manager - Growth | London | posted: 2026-08-13
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8108738 | Monzo | Senior Product Manager, Subscriptions | London | posted: 2026-08-07
+- [ ] https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e | Spotify | Principal Product Manager – Content Platform | London | posted: 2026-08-07
+- [x] #243 | https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4723067005 | Razorpay | Forward Deployed Engineer | Bengaluru | 4.0/5 | PDF ❌
+- [ ] https://jobs.lever.co/paytm/c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f | Paytm | Product Management - Product Manager - UPI | Noida, Uttar Pradesh | posted: 2026-08-14
+- [ ] https://jobs.lever.co/paytm/197c1f16-647f-4b01-9b1b-f8b12cbec664 | Paytm | Product Management - Senior Product Manager - Futures & Options (F&O) / Derivatives | Bangalore, Karnataka | posted: 2026-08-12
+- [ ] https://jobs.lever.co/paytm/8a02d449-de17-4e37-823d-8911dc5663e7 | Paytm | Product Management - Senior Product Manager - Paytm Money (Mutual Funds) | Bangalore, Karnataka | posted: 2026-08-11
+- [ ] https://jobs.smartrecruiters.com/Wise/744000143326280-senior-technical-product-manager-api-experience-security | Wise | Senior Technical Product Manager - API Experience & Security | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000143168697-senior-network-automation-engineer | Wise | Senior Network Automation Engineer | Hyderabad, , India
+- [ ] https://jobs.smartrecruiters.com/Wise/744000143138459-principal-product-manager-money-laundering-prevention | Wise | Principal Product Manager - Money Laundering Prevention | London, England, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000143048065-principal-product-manager-risk-assessment-platform | Wise | Principal Product Manager - Risk Assessment Platform | London, , United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Wise/744000142955809-senior-product-manager-servicing-platform-behaviour-identity-linking | Wise | Senior Product Manager - Servicing Platform - behaviour & Identity Linking | London, England, United Kingdom
+- [ ] https://jobs.smartrecruiters.com/Swiggy/6000000001317052-product-manager-ii | Swiggy | Product Manager II | Bengaluru, KA, India
+- [ ] https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544 | Meesho | Product Manager I (Platform) | Bangalore, Karnataka | posted: 2026-08-07
+- [ ] https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354 | Meesho | Product Manager II - Growth | Bangalore, Karnataka | posted: 2026-02-27
+- [ ] https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7 | Meesho | Senior Product Manager | Bangalore, Karnataka | posted: 2026-08-12
+- [ ] https://english-stonex.icims.com/jobs/15278/senior-platform-engineer-%28k8%27s%29/job | StoneX Group | Senior Platform Engineer (K8's)
+- [ ] https://english-stonex.icims.com/jobs/14947/senior-platform-engineer/job | StoneX Group | Senior Platform Engineer
+
+- [ ] https://himalayas.app/companies/mercor/jobs/ai-research-expert-fully-remote-upto-145-hr-2776067645 | mercor | AI Research Expert - Fully Remote / Upto $145/hr | Germany | posted: 2026-08-15
+
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7863571003 | Tide | Senior Product Manager, Ongoing Monitoring | United Kingdom | posted: 2026-08-13
+- [x] #240 | https://job-boards.greenhouse.io/tide/jobs/7703992003 | Tide | Senior Staff Software Engineer, Agentic Platform | Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom | 4.4/5 | PDF ❌
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7703991003 | Tide | Staff Software Engineer, Agentic Platform | Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom | posted: 2026-04-17
+- [ ] https://jobs.ashbyhq.com/plaid/8b81429d-f0e8-4b84-9f71-d25405e63d71 | Plaid | Staff Product Manager - AI Foundations | San Francisco HQ · New York City Office · Remote · United States | posted: 2026-04-24
+- [ ] https://jobs.ashbyhq.com/plaid/29d1f5fc-d986-4a5d-9c42-0c05d9326f9d | Plaid | Product Manager - Europe | London Office | posted: 2026-04-28
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4664509005 | Cleo | Product Manager | Remote - USA | posted: 2026-02-24
+- [x] #241 | https://apply.workable.com/j/5D5584B013 | Starling Bank | Software Engineer (ML Projects) | London, United Kingdom | 4.1/5 | PDF ❌
+
+- [x] #238 | https://jobs.smartrecruiters.com/Wise/744000143359209-senior-java-software-engineer-platform-engineering | Wise | Senior Java Software Engineer- Platform Engineering | London, , United Kingdom | 4.3/5 | PDF ❌
+- [x] #239 | https://job-boards.greenhouse.io/adyen/jobs/8041307 | Adyen | Senior Backend Engineer (Java) | Bengaluru | 4.2/5 | PDF ❌
+
+- [ ] https://jobicy.com/jobs/150775-staff-platform-engineer-2 | OpenSea | Staff Platform Engineer | Europe, USA | posted: 2026-08-15
+- [ ] https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones | Udacity | AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC) | APAC, EMEA, Canada, Europe, USA | posted: 2026-08-15
+- [ ] https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones | Udacity | Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC) | APAC, Canada, Europe, USA | posted: 2026-08-15
+- [ ] https://jobicy.com/jobs/150740-senior-product-manager-customer-insights | Mural | Senior Product Manager, Customer Insights | Canada, UK, USA | posted: 2026-08-15
+
+- [ ] https://himalayas.app/companies/mercor/jobs/data-scientist-ai-evaluation | mercor | Data Scientist - AI Evaluation | Germany | posted: 2026-08-15
+
+- [ ] https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us | Mirantis | Technical Product Marketer, k0rdent AI - remote in the US | USA | posted: 2026-08-19
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5298461 | Intercom | Engineering Manager - AI Helpdesk | Dublin, Ireland | posted: 2023-08-15
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8132076 | Intercom | Staff Data Engineer - GTM | Dublin, Ireland; London, England | posted: 2026-08-18
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390787008 | Anthropic | Applied AI Architect, Partnerships | Paris, France | posted: 2026-08-17
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390795008 | Anthropic | Applied AI Engineer, Enterprise | Munich, Germany | posted: 2026-08-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391021008 | Anthropic | Forward Deployed Engineer | Paris, France | posted: 2026-08-17
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250426008 | Anthropic | Head of Treasury Strategy & Transformation | Remote-Friendly (Travel Required) / San Francisco, CA | posted: 2026-06-08
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390746008 | Anthropic | \[India\] Solutions Architect, Applied AI | Bangalore, India | posted: 2026-08-17
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390750008 | Anthropic | Partner Solutions Architect,Applied AI | Bangalore, India | posted: 2026-08-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5393452008 | Anthropic | Product Manager, Public Sector | Remote-Friendly (Travel-Required) / Washington, DC | posted: 2026-08-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247989008 | Anthropic | Solution Architect, Applied AI | Mumbai, India | posted: 2026-08-19
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a | ElevenLabs | Forward Deployed Engineer - Software Engineer - Germany | Germany | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Denmark | Denmark | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Switzerland | Switzerland | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/cohere/8ac3ed85-e315-443b-bc13-e7a0b900b922 | Cohere | Global Public Policy Manager, Compute, Infrastructure & Sovereign AI | United States · Europe · European Union · Canada | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/cohere/24cdb030-3913-4c38-a7db-8f31c3c91ee6 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (France) | France · Europe · European Union · Munich · Germany · Paris | posted: 2026-08-19
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712434005 | Glean | Software Engineer, Agents Governance | Bangalore, India | posted: 2026-07-09
+- [ ] https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860 | Vomela | Principal Data Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003 | Celonis | AI Engineer - Quality | Bangalore, India | posted: 2026-08-18
+- [ ] https://careers.hellofresh.com/global/en/job/8138653?gh_jid=8138653 | HelloFresh | Second Line Support Agent (f/m/x) | Amsterdam, North Holland, Netherlands | posted: 2026-08-18
+- [ ] https://sumup.com/careers/positions/8675692002?gh_jid=8675692002 | SumUp | Collections Agent - Lending | Berlin, Germany | posted: 2026-08-19
+- [ ] https://sumup.com/careers/positions/8644922002?gh_jid=8644922002 | SumUp | Senior Backend Engineer - MarTech | Berlin, Germany | posted: 2026-08-19
+- [ ] https://jobs.ashbyhq.com/synthesia/85e7b0df-f603-416b-a7bd-3331b6576186 | Synthesia | Product Manager, Growth (Senior/Staff-level) | Europe · London · United Kingdom | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/lovable/59d85cf1-104b-48cb-956c-bed73ef934c9 | Lovable | AI Research Engineer, Post-Training | Stockholm · London · United Kingdom | posted: 2026-04-28
+- [ ] https://jobs.lever.co/pigment/abde6aa1-a569-4700-998b-152187e2721b | Pigment | Optimisation AI Scientist | London or Paris | posted: 2026-07-22
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4955327101 | Ebury | Senior FX Product Manager - Hedging Conversion | London | posted: 2026-08-18
+- [ ] https://jobs.ashbyhq.com/lendable/bd20e1a3-bc89-41f4-a0ad-faa2496b707f | Lendable | Senior Product Engineer (Product Manager) | London | posted: 2026-08-17
+- [ ] https://jobs.lever.co/spotify/c3f6ea23-97d0-4a9a-a9ad-04f1e745d916 | Spotify | Senior Product Quality Analyst - AI Voice | London | posted: 2026-08-17
+- [ ] https://jobs.smartrecruiters.com/Wise/744000144344205-senior-backend-engineer-i-account-insights | Wise | Senior Backend Engineer I - Account Insights | London, , United Kingdom
+- [ ] https://jobs.lever.co/paytm/271d28ce-e61c-4216-b7d4-adddd79eefa6 | Paytm | Customer Support Agent - Executive - Bill Payments CST | Noida, Uttar Pradesh | posted: 2026-08-18
+- [ ] https://jobs.ashbyhq.com/posthog/3f190a45-7810-47f9-b77d-169b806ea266 | PostHog | Backend Engineer - Ingestion (Europe/UK timezone) | Remote (EMEA) · Remote (UK) · United Kingdom | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3 | PostHog | AI Research Engineer | Hybrid (UK) | posted: 2026-08-18
+- [ ] https://jobs.ashbyhq.com/nango/8f6da27a-07e1-4071-8310-0a4f432e34ea | Nango | Staff Backend Engineer | USA · Chile · UK · United Kingdom · Uruguay · Switzerland · Brazil · Canada · Mexico · Argentina · Europe · European Union | posted: 2026-06-04
+- [ ] https://jobs.ashbyhq.com/1password/5c42ec98-c227-4f49-8357-5babf51ec1c7 | 1Password | Senior Data Platform Engineer | Remote (United States / Canada) | posted: 2026-05-22
+- [ ] https://jobs.ashbyhq.com/1password/56ffab65-2953-42ee-ae84-04c3e9d9c38c | 1Password | Staff Product Manager, Developer Workflows | Remote (United States / Canada) | posted: 2026-06-29
+- [ ] https://jobs.ashbyhq.com/1password/c6fc16b0-bb5b-48f1-994d-d69e07846bc8 | 1Password | Senior Product Manager, Machine Identity | Remote (United States / Canada) | posted: 2026-06-29
+- [ ] https://jobs.ashbyhq.com/1password/c59e8aab-b2b2-458f-9cda-514a6e41b457 | 1Password | Director, GTM Engineering | Remote (United States / Canada) | posted: 2026-07-02
+- [ ] https://jobs.ashbyhq.com/1password/99eb8a4c-81e1-413b-822f-dd27598207e0 | 1Password | Senior Staff Product Manager, Device Security | Remote (United States / Canada) | posted: 2026-08-14
+- [ ] https://jobs.ashbyhq.com/1password/a5b083d5-5f82-4316-b5ef-a577f2edb493 | 1Password | Solutions Engineer, SMB | Remote (United States / Canada) | posted: 2026-08-18
+- [ ] https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb | LiveKit | Software Engineer, Agents | NAMER · APJ · EMEA | posted: 2026-08-11
+- [ ] https://jobs.ashbyhq.com/livekit/2b51446f-f78f-41da-91f9-41d5207c5bd0 | LiveKit | Forward Deployed Engineer | United Kingdom | posted: 2026-06-29
+- [ ] https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a | Ashby | Staff Platform Engineer - EU | Remote - European Union · Spain · Italy · Germany · Switzerland · Denmark · Norway · Croatia · Ireland · Stockholm · Sweden · Romania · Austria · Barcelona · Netherlands · Amsterdam · Portugal · France · Berlin · Hungary · Budapest · Estonia | posted: 2025-11-14
+- [ ] https://jobs.ashbyhq.com/ashby/ae720f13-ad8b-4fdd-a8c3-5625bdc83a33 | Ashby | Staff Platform Engineer - UK | United Kingdom · Cardiff · Birmingham · Bristol · Manchester · Leeds · Oxford · London · Cambridge · Glasgow · Edinburgh · Belfast | posted: 2025-11-14
+- [ ] https://jobs.ashbyhq.com/ashby/2fc178fc-fa92-463a-b788-1c66e3f32a00 | Ashby | Enterprise Solutions Architect - Americas | Remote - US | posted: 2026-05-05
+- [ ] https://jobs.ashbyhq.com/ashby/dfc35159-ffe5-4d42-bea3-552b5dc17628 | Ashby | Enterprise Solutions Engineering Manager | Remote - US · Remote - Canada · Canada | posted: 2026-07-20
+- [ ] https://jobs.ashbyhq.com/ashby/7d8ec4fe-50aa-4d7e-9eec-db7b2d14bcbd | Ashby | Mid-Market Solutions Engineering Manager | Remote - US · Remote - Canada · Canada | posted: 2026-08-03
+- [ ] https://jobs.ashbyhq.com/ashby/0f5dbf59-687b-4d88-88a7-73ee0a66b48d | Ashby | Staff Platform Engineer - Americas | Remote - US · Austin · USA · Los Angeles · Portland · Atlanta · Salt Lake City · Boston · Seattle · New York · San Francisco · Denver · Chicago | posted: 2026-05-29
+- [ ] https://jobs.lever.co/contentsquare/b83dfb6a-eaa7-45b0-8d00-3eb57eded62c | Hotjar | Security Automation Engineer | Paris Area, France | posted: 2026-07-10
+- [ ] https://jobs.lever.co/contentsquare/770b51bc-dffc-4a34-8ff9-bfdce7a11125 | Hotjar | Senior Product Manager, User & Lifecycle Analytics | London area | posted: 2026-08-03
+- [ ] https://english-stonex.icims.com/jobs/16355/senior-staff---it-data-engineering-and-analytics/job | StoneX Group | Senior Staff - IT Data Engineering and Analytics
+- [ ] https://english-stonex.icims.com/jobs/14947/lead-platform-engineer/job | StoneX Group | Lead Platform Engineer
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556947063 | Microsoft | Consultant - Cloud Infra & AI | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556950492 | Microsoft | Senior Consultant - (Dotnet Full stack + AI) | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556946465 | Microsoft | Senior Consultant - Cloud Infra & AI | India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida
 
 ## Processed
 
@@ -394,3 +824,76 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [x] #004 | https://sumup.com/careers/positions/8566460002?gh_jid=8566460002 | SumUp | Senior Backend Engineer | 3.8/5 | PDF ❌
 
 - [x] #-- | https://www.linkedin.com/jobs/search/?keywords=(Senior%20Java%20Engineer%20OR%20Senior%20Backend%20Engineer%20OR%20AI%20Engineer%20OR%20Data%20Engineer)%20visa%20sponsorship&location=London%2C%20England%2C%20United%20Kingdom&f_TPR=r604800&sortBy=DD | LinkedIn fetch | Senior Backend Engineer (Go) - Few&Far; Senior Software Engineer (Backend) - Apron; Senior Data Engineer - Method Resourcing; Senior Data Engineer - SearchWorks; Senior Software Engineer - Borderless; Senior Software Engineer - Investa; Senior Software Infrastructure Engineer - Graphcore; Senior AI Engineer (Machine Learning Engineer) - MHCLG; AI Engineer - Solve Intelligence; Applied AI Engineer, Beneficial Deployments - Anthropic | note: fetched from public LinkedIn search; Firefox session was not authenticated and exact per-job URLs were not captured
+
+## New — 2026-07-20 Scan
+
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/7996902 | Talkdesk | AI Deployment Strategist, Solutions Engineer - EMEA | Porto, Portugal | posted: 2026-07
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8002591 | Talkdesk | Data Integration Engineer I | Bengaluru, India | posted: 2026-07
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/7976252 | Talkdesk | Senior Data Engineer | Portugal | posted: 2026-07
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/7751892 | Talkdesk | Senior Solutions Engineer - Enterprise - UK&I | London, UK | posted: 2026-04
+- [ ] https://job-boards.greenhouse.io/gongio/jobs/4395203006 | Gong | Backend Engineer, Communications Capture | Dublin, Ireland | posted: 2026-07
+- [ ] https://job-boards.greenhouse.io/gongio/jobs/4684215006 | Gong | Senior Backend Engineer | Dublin, Ireland | posted: 2026-07
+- [ ] https://jobs.ashbyhq.com/langfuse/1225fa3d-d590-41d2-b798-ef927320fb2e | Langfuse | Senior Backend Engineer (Data Infrastructure) | Europe | posted: 2026-07
+- [ ] https://jobs.ashbyhq.com/langfuse/69bc6e7a-0304-4d81-ae72-7ccf5652a053 | Langfuse | Senior Backend Engineer (IAM and Billing) | Europe | posted: 2026-07
+- [ ] https://jobs.ashbyhq.com/iceye/2ef68fcc-6ce8-476e-8c94-6e7b099842e9 | ICEYE | Forward Deployed AI Engineer | Portugal | posted: 2026-07 (websearch discovery)
+- [x] #135 | https://jobs.ashbyhq.com/seamflow/072e72dc-09ac-4823-a20c-717f0651fab7 | Seamflow | Applied AI Engineer | London | 3.2/5 | PDF ❌
+- [ ] https://jobs.ashbyhq.com/kraken.com/4aacc5a1-a848-4b68-90b8-958b6e4a2d0b | Kraken | AI Agents Solutions Architect - HR | UK/Europe | posted: 2026-07 (websearch discovery)
+
+## New — 2026-08-15 Scan
+
+- [ ] https://www.tecnoempleo.com/forward-deployed-ai-engineer-f-m-d-axpo-group/python-llm/rf-fe041fd0e22293aec149 | Axpo | Forward Deployed AI Engineer | Madrid, Spain | posted: 2026-07
+- [ ] https://www.tecnoempleo.com/ai-architect-engineer-accenture/ai-agents-anthropic/rf-68e1117c12bec3887d4a | Accenture | AI Architect Engineer | Spain | posted: 2026-07
+- [ ] https://www.tecnoempleo.com/principal-ai-engineer-ai-solutions-astrazeneca/rag-llm/rf-4866140c22d2f3026841 | AstraZeneca | Principal AI Engineer - AI Solutions | Barcelona, Spain | posted: 2026-07
+- [ ] https://www.tecnoempleo.com/ai-native-manager-accenture/langgraph-crewai/rf-a4f41899e26c1361364b | Accenture | AI Native Manager | Málaga, Spain | posted: 2026-07
+- [ ] https://jobfluent.com/jobs/ai-architect-hands-on-madrid-3d6dcd | Sngular | AI Architect (Hands-on) | Madrid, Spain | posted: 2026-07
+- [ ] https://www.welcometothejungle.com/en/companies/workato/jobs/staff-ai-engineer_barcelona_ci2abons | Workato | Staff AI Engineer | Barcelona, Spain | posted: 2026-07
+- [ ] https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/software-solutions-architect_madrid | NTT DATA | Software Solutions Architect | Madrid, Spain | posted: 2026-07
+- [ ] https://www.welcometothejungle.com/en/companies/bizaway/jobs/solutions-architect_barcelona_udvrjsyt | BizAway | Solutions Architect | Barcelona, Spain | posted: 2026-07
+- [ ] https://app.welcometothejungle.com/jobs/Stjkm4SG | Aily Labs | Senior/Lead AI Engineer | Barcelona / Munich / Madrid | posted: 2026-07
+- [ ] https://app.welcometothejungle.com/jobs/wFQJiQFM | Aily Labs | Principal/Senior AI Engineer | Barcelona / Munich / Madrid | posted: 2026-07
+- [ ] https://news.ycombinator.com/item?id=48357778 | PostHog | Forward Deployed Engineers | Remote (EMEA) | posted: 2026-07
+- [ ] https://news.ycombinator.com/item?id=48760654 | Logen.io | Founding Full-stack / AI Engineer | Bengaluru, India (Remote) | posted: 2026-07
+- [ ] https://cutshort.io/job/AI-Engineer-Apprication-3Zr13gt9 | Apprication | AI Engineer | Mumbai / Bengaluru | posted: 2026-07
+- [ ] https://cutshort.io/job/SDE-III-AI-and-Backend-Aasthix-Talent-tBJg0hmZ | Healthcare AI | Senior Software Engineer (SDE III) - AI & Backend | Bengaluru, India | posted: 2026-07
+- [ ] https://cutshort.io/job/AI-Engineer-BigRio-L3umTsst | BigRio | AI Engineer | Chennai, India | posted: 2026-07
+- [ ] https://cutshort.io/job/Senior-AI-Engineer-Bengaluru-Bangalore-GetSetYo-Technology-Labs-Private-Limited-8nzB9fIp | GetSetYo | Senior AI Engineer | Bengaluru, India | posted: 2026-07
+- [ ] https://cutshort.io/job/AI-ML-Engineer-Pune-Vijay-Sales-o8MW1Lc9 | Vijay Sales | AI/ML Engineer | Pune, India | posted: 2026-07
+- [ ] https://wellfound.com/jobs/4493158-ai-backend-engineer | LearnTube.ai | AI Backend Engineer | Mumbai / Remote | posted: 2026-07
+- [ ] https://wellfound.com/jobs/3813457-senior-data-engineer-with-ai-ml-experience-india | IDT | Senior Data Engineer (AI/ML experience) India | Pune / Remote (India) | posted: 2026-07
+- [ ] https://wellfound.com/jobs/4420282-machine-learning-engineer | Xipper | Machine Learning Engineer | India (Remote) | posted: 2026-07
+- [ ] https://wellfound.com/jobs/4192022-senior-machine-learning-engineer | HackerRank | Senior Machine Learning Engineer | Remote | posted: 2026-07
+- [ ] https://wellfound.com/jobs/3244716-machine-learning-engineer | Uniblox | Machine Learning Engineer | India (Remote) | posted: 2026-07
+- [ ] https://weworkremotely.com/remote-jobs/gitlab-ai-engineer | GitLab | AI Engineer | Remote (Anywhere in the World) | posted: 2026-07
+- [ ] https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-ai-engineer | Toptal | Senior Full Stack AI Engineer | Remote (Anywhere in the World) | posted: 2026-07
+
+## New — 2026-08-15 India Company Sweep
+
+- [x] https://careers.jio.com/frmjobdescription.aspx?JBTITLE=EThmbwU11vDiLPQtBrIc9Q==&jbID=fUJZtEXjGsHlaRLhdZo64A== | Jio | Software Development Engineer III (86612624) | Mumbai | 3.0/5 | PDF ❌ | [244](reports/244-jio-software-development-engineer-iii-2026-08-15.md)
+- [x] https://careers.jio.com/frmjobdescription.aspx?JBTITLE=jO9ibX40p0hMK8oi4rz7UQ==&jbID=clAcwXsBR88Xa6DMipaoWA== | Jio | Software Development Engineer III (86612572) | Mumbai | 3.0/5 | PDF ❌ | same profile as #244 (identical JD, twin req)
+- [x] https://zee.sensehq.com/careers/jobs/5293 | ZEE5 | SDE-III (Data Engineering) | Bangalore | 3.3/5 | PDF ❌ | [245](reports/245-zee5-sde-iii-data-engineering-2026-08-15.md)
+- [x] https://zee.sensehq.com/careers/jobs/5727 | ZEE5 | Data Scientist II | Bangalore | 2.3/5 | PDF ❌ | [246](reports/246-zee5-data-scientist-ii-2026-08-15.md)
+- [x] https://juspay.io/careers/DEV-BE01 | Juspay | Software Development Engineer Backend | Bangalore | 2.2/5 | PDF ❌ | [247](reports/247-juspay-software-development-engineer-backend-2026-08-15.md)
+- [ ] https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | Reveleer | Full Stack AI Engineer | Remote (Anywhere in the World) | posted: 2026-07
+
+## New — 2026-08-19 Agoda Sweep
+
+- [ ] https://careersatagoda.com/job/8035213-software-development-engineer-backend-staff-level-4-gurugram-ind/ | Agoda | Software Development Engineer – BackEnd (Staff L4) | Gurugram, India | Hybrid; Staff level stretch
+- [ ] https://careersatagoda.com/job/6822823-staff-software-engineer-backend-level-4-gurugram-ind/ | Agoda | Staff Software Engineer – BackEnd (L4) | Gurugram, India | Hybrid; Staff level stretch
+- [ ] https://careersatagoda.com/job/8036127-lead-software-engineer-level-5-backend-gurugram-based/ | Agoda | Lead Software Engineer (L5) – BackEnd | Gurugram, India | Hybrid; Lead level stretch
+- [ ] https://careersatagoda.com/job/8063904-backend-lead-software-engineer-level-5-gurugram-based/ | Agoda | Backend Lead Software Engineer (L5) | Gurugram, India | Hybrid; Lead level stretch
+- [ ] https://careersatagoda.com/job/7044214-staff-software-engineer-fintech-back-end-bangkok-based-relocation-provided/ | Agoda | Staff Software Engineer (FinTech) – BackEnd | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7923655-staff-software-engineer-l4-back-end-bangkok-based-relocation-provided/ | Agoda | Staff Software Engineer (L4) – BackEnd | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/6775382-staff-software-engineer-back-end-bangkok-based-relocation-provided/ | Agoda | Staff Software Engineer – BackEnd | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/6886113-back-end-staff-software-engineer-bangkok-based-relocation-provided/ | Agoda | Back End Staff Software Engineer | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7880990-staff-lead-software-engineer-back-end-bangkok-based-relocation-provided/ | Agoda | Staff/Lead Software Engineer – BackEnd | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7881015-back-end-lead-software-engineer-accommodation-flights-supply-fintechbangkok-based-relocation-provided/ | Agoda | Back End Lead SWE – Accommodation/Flights/Supply/FinTech | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7044713-lead-software-engineer-back-end-fintech-bangkok-based-relocation-provided/ | Agoda | Lead Software Engineer – BackEnd (FinTech) | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/6603735-backend-lead-software-engineer-l5-bangkok-relocation-provided/ | Agoda | Backend Lead Software Engineer (L5) | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/8041284-senior-lead-software-engineer-tax-solution-fintech-bangkok-based-relocation-provided/ | Agoda | Senior Lead SWE (Tax Solution), FinTech | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7915377-principal-software-engineer-back-end-bangkok-based-relocation-provided/ | Agoda | Principal Software Engineer – BackEnd | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7777498-principal-software-engineer-back-end-ai-powered-data-querying-bangkok-based-relocation-provided/ | Agoda | Principal SWE BackEnd (AI-powered Data Querying) | Bangkok, Thailand | Relocation provided
+- [ ] https://careersatagoda.com/job/7543802-staff-software-engineer-full-stack-ai-bangkok-based-relocation-provided/ | Agoda | Staff Software Engineer – Full Stack AI | Bangkok, Thailand | Relocation provided; AI archetype
+- [ ] https://careersatagoda.com/job/8040202-senior-staff-data-engineer-bangkok-based-relocation-provided/ | Agoda | Senior/Staff Data Engineer | Bangkok, Thailand | Relocation provided; adjacent archetype
+- [ ] https://careersatagoda.com/job/7529815-senior-staff-data-engineer-bi-ceg-team/ | Agoda | Senior/Staff Data Engineer (BI) – CEG | Bangkok, Thailand | Adjacent archetype
+- [ ] https://careersatagoda.com/job/7768067-staff-data-engineer-display-marketing-bidding-systems-team-bangkok-based-relocation-provided/ | Agoda | Staff Data Engineer – Display Marketing/Bidding | Bangkok, Thailand | Relocation provided; adjacent archetype
+- [ ] https://careersatagoda.com/job/7282375-senior-staff-data-engineer-bidding-bangkok-based-relocation-provided/ | Agoda | Senior/Staff Data Engineer – Bidding | Bangkok, Thailand | Relocation provided; adjacent archetype
